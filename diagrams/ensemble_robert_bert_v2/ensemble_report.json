@@ -1,0 +1,42 @@
+{
+  "individual": {
+    "RoBERT UPB": {
+      "label_acc": 1.0,
+      "label_f1": 1.0,
+      "diff_acc": 0.8764044943820225,
+      "diff_f1": 0.876495875635643,
+      "overall_acc": 0.9382022471910112
+    },
+    "BERT Românesc v2": {
+      "label_acc": 1.0,
+      "label_f1": 1.0,
+      "diff_acc": 0.8782771535580525,
+      "diff_f1": 0.8786847720352067,
+      "overall_acc": 0.9391385767790262
+    }
+  },
+  "ensemble": {
+    "Majority Voting": {
+      "label_acc": 1.0,
+      "label_f1": 1.0,
+      "diff_acc": 0.8801498127340824,
+      "diff_f1": 0.8801072492752905,
+      "overall_acc": 0.9400749063670413
+    },
+    "Average Probabilities": {
+      "label_acc": 1.0,
+      "label_f1": 1.0,
+      "diff_acc": 0.8801498127340824,
+      "diff_f1": 0.8803973761736318,
+      "overall_acc": 0.9400749063670413
+    },
+    "Weighted Ensemble": {
+      "label_acc": 1.0,
+      "label_f1": 1.0,
+      "diff_acc": 0.8801498127340824,
+      "diff_f1": 0.8804550185697727,
+      "overall_acc": 0.9400749063670413
+    }
+  },
+  "best": "Majority Voting"
+}
