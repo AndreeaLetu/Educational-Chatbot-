@@ -1,0 +1,2365 @@
+[
+  {
+    "text": "Lecția: Lecția 1: Mișcă personajul | Titlu: Mișcarea (pași) | Ce înseamnă un „bloc”?: În programarea vizuală, tu „construiești” un program din blocuri și le lipești ca pe niște piese de Lego. Le tragi cu mouse-ul și le conectezi între ele. Toate programele încep mereu cu blocul START.Fără el, niciun alt bloc nu se va executa. | Blocul de mișcare: Blocul blocul MOVE cu valoarea 10 mută personajul înainte cu un anumit număr de pași. Dacă pui 10 pași, personajul se mută puțin înainte. | Ordinea blocurilor contează ? : Blocurile se execută de sus în jos, sub blocul START. Dacă ai două blocuri blocul MOVE cu valoarea 10, personajul se mișcă de două ori.Inițial,dacă nu am setat o direcție anume , el se va duce către dreapta.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 1: Mișcă personajul",
+      "order_index": 1,
+      "title": "Mișcarea (pași)",
+      "chunk_type": "lesson_full"
+    },
+    "id": 0
+  },
+  {
+    "text": "Lecția 1: Mișcă personajul — Ce înseamnă un „bloc”?: În programarea vizuală, tu „construiești” un program din blocuri și le lipești ca pe niște piese de Lego. Le tragi cu mouse-ul și le conectezi între ele. Toate programele încep mereu cu blocul START.Fără el, niciun alt bloc nu se va executa.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 1: Mișcă personajul",
+      "order_index": 1,
+      "title": "Mișcarea (pași)",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce înseamnă un „bloc”?"
+    },
+    "id": 1
+  },
+  {
+    "text": "Lecția 1: Mișcă personajul — Blocul de mișcare: Blocul blocul MOVE cu valoarea 10 mută personajul înainte cu un anumit număr de pași. Dacă pui 10 pași, personajul se mută puțin înainte.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 1: Mișcă personajul",
+      "order_index": 1,
+      "title": "Mișcarea (pași)",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Blocul de mișcare"
+    },
+    "id": 2
+  },
+  {
+    "text": "Lecția 1: Mișcă personajul — Ordinea blocurilor contează ? : Blocurile se execută de sus în jos, sub blocul START. Dacă ai două blocuri blocul MOVE cu valoarea 10, personajul se mișcă de două ori.Inițial,dacă nu am setat o direcție anume , el se va duce către dreapta.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 1: Mișcă personajul",
+      "order_index": 1,
+      "title": "Mișcarea (pași)",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Ordinea blocurilor contează ? "
+    },
+    "id": 3
+  },
+  {
+    "text": "Lecția 1: Mișcă personajul — Exercițiul 1: Mută personajul 10 pași (o singură casetă).",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 1: Mișcă personajul",
+      "order_index": 1,
+      "title": "Mișcarea (pași)",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 4
+  },
+  {
+    "text": "Lecția: Lecția 2: Rotește-te și mergi | Titlu: Direcțiile (stânga/dreapta) | Direcția unui personaj: Personajul are mereu o direcție: sus,jos,stânga sau dreapta. Când îl rotești, următoarea mișcare se va face în noua direcție. | Blocul de rotire: Blocul blocul TURN_RIGHT cu valoarea 90 rotește personajul la dreapta. blocul TURN_LEFT cu valoarea 90 îl rotește la stânga. 90° înseamnă un „colț” ca într-un pătrat. | Mișcarea + rotirea: Dacă pui blocul MOVE cu valoarea 10 apoi blocul TURN_RIGHT cu valoarea 90, personajul merge și abia apoi se întoarce. Dacă pui un bloc de rotire ,iar apoi de mișcare, se rotește și merge în direcția nouă.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 2: Rotește-te și mergi",
+      "order_index": 2,
+      "title": "Direcțiile (stânga/dreapta)",
+      "chunk_type": "lesson_full"
+    },
+    "id": 5
+  },
+  {
+    "text": "Lecția 2: Rotește-te și mergi — Direcția unui personaj: Personajul are mereu o direcție: sus,jos,stânga sau dreapta. Când îl rotești, următoarea mișcare se va face în noua direcție.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 2: Rotește-te și mergi",
+      "order_index": 2,
+      "title": "Direcțiile (stânga/dreapta)",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Direcția unui personaj"
+    },
+    "id": 6
+  },
+  {
+    "text": "Lecția 2: Rotește-te și mergi — Blocul de rotire: Blocul blocul TURN_RIGHT cu valoarea 90 rotește personajul la dreapta. blocul TURN_LEFT cu valoarea 90 îl rotește la stânga. 90° înseamnă un „colț” ca într-un pătrat.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 2: Rotește-te și mergi",
+      "order_index": 2,
+      "title": "Direcțiile (stânga/dreapta)",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Blocul de rotire"
+    },
+    "id": 7
+  },
+  {
+    "text": "Lecția 2: Rotește-te și mergi — Mișcarea + rotirea: Dacă pui blocul MOVE cu valoarea 10 apoi blocul TURN_RIGHT cu valoarea 90, personajul merge și abia apoi se întoarce. Dacă pui un bloc de rotire ,iar apoi de mișcare, se rotește și merge în direcția nouă.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 2: Rotește-te și mergi",
+      "order_index": 2,
+      "title": "Direcțiile (stânga/dreapta)",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Mișcarea + rotirea"
+    },
+    "id": 8
+  },
+  {
+    "text": "Lecția 2: Rotește-te și mergi — Exercițiul 1: Fă un „L” , în oglindă . Personajul trebuie să înainteze o căsuță , sa se rotească și apoi sa înainteze în noua direcție. Încearcă și tu !",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 2: Rotește-te și mergi",
+      "order_index": 2,
+      "title": "Direcțiile (stânga/dreapta)",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 9
+  },
+  {
+    "text": "Lecția: Lecția 3: Înstrucțiunea repetitivă : Repetă  | Titlu: Repetarea unei acțiuni de mai multe ori | De ce folosim instrucțiunile repetitive?: Uneori vrei să faci aceeași acțiune de mai multe ori (de exemplu, să mergi și să te rotești de 4 ori ca să faci un pătrat). În loc să pui un anumit număr de blocuri identice de fiecare tip, folosești blocul REPEAT cu valoarea ... ,în interiorul căruia amplasezi ce instrucțiuni vrei să se repete. | Blocul REPEAT: blocul REPEAT cu valoarea ... rulează blocurile din interior de un anumit număr de ori. Dacă pui blocul REPEAT cu valoarea 4 și în interior blocul MOVE cu valoarea 10, personajul merge de 4 ori , înainte. | O greșeală comună...: Ai grijă să pui blocurile în interiorul lui blocul REPEAT cu valoarea .... Dacă sunt în afara lui , nu se vor repeta de mai multe ori.Se vor executa doar o dată fiecare!",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 3: Înstrucțiunea repetitivă : Repetă ",
+      "order_index": 3,
+      "title": "Repetarea unei acțiuni de mai multe ori",
+      "chunk_type": "lesson_full"
+    },
+    "id": 10
+  },
+  {
+    "text": "Lecția 3: Înstrucțiunea repetitivă : Repetă  — De ce folosim instrucțiunile repetitive?: Uneori vrei să faci aceeași acțiune de mai multe ori (de exemplu, să mergi și să te rotești de 4 ori ca să faci un pătrat). În loc să pui un anumit număr de blocuri identice de fiecare tip, folosești blocul REPEAT cu valoarea ... ,în interiorul căruia amplasezi ce instrucțiuni vrei să se repete.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 3: Înstrucțiunea repetitivă : Repetă ",
+      "order_index": 3,
+      "title": "Repetarea unei acțiuni de mai multe ori",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "De ce folosim instrucțiunile repetitive?"
+    },
+    "id": 11
+  },
+  {
+    "text": "Lecția 3: Înstrucțiunea repetitivă : Repetă  — Blocul REPEAT: blocul REPEAT cu valoarea ... rulează blocurile din interior de un anumit număr de ori. Dacă pui blocul REPEAT cu valoarea 4 și în interior blocul MOVE cu valoarea 10, personajul merge de 4 ori , înainte.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 3: Înstrucțiunea repetitivă : Repetă ",
+      "order_index": 3,
+      "title": "Repetarea unei acțiuni de mai multe ori",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Blocul REPEAT"
+    },
+    "id": 12
+  },
+  {
+    "text": "Lecția 3: Înstrucțiunea repetitivă : Repetă  — O greșeală comună...: Ai grijă să pui blocurile în interiorul lui blocul REPEAT cu valoarea .... Dacă sunt în afara lui , nu se vor repeta de mai multe ori.Se vor executa doar o dată fiecare!",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 3: Înstrucțiunea repetitivă : Repetă ",
+      "order_index": 3,
+      "title": "Repetarea unei acțiuni de mai multe ori",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "O greșeală comună..."
+    },
+    "id": 13
+  },
+  {
+    "text": "Lecția 3: Înstrucțiunea repetitivă : Repetă  — Exercițiul 1: Folosește REPEAT ca să muți personajul de 3 ori cu câte 10 pași (fără să pui 3 blocuri MOVE separate).",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 3: Înstrucțiunea repetitivă : Repetă ",
+      "order_index": 3,
+      "title": "Repetarea unei acțiuni de mai multe ori",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 14
+  },
+  {
+    "text": "Lecția: Lecția 4: Desenează un pătrat | Titlu: Forme geometrice | Cum faci un pătrat?: Un pătrat are 4 laturi egale și 4 colțuri de 90°. Asta înseamnă că va trebui să mergem inainte cu blocul blocul MOVE cu valoarea 10, iar apoi să ne rotim cu blocul TURN_RIGHT cu valoarea 90 sau blocul TURN_LEFT cu valoarea 90 , în funcție de direcția în care vrem să desenăm ... de 4 ori. | Test rapid: Dacă schimbăm 4 cu 3 în blocul REPEAT cu valoarea 3, obținem un triunghi (dar atenție: un triunghi are colțurile diferite).",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 4: Desenează un pătrat",
+      "order_index": 4,
+      "title": "Forme geometrice",
+      "chunk_type": "lesson_full"
+    },
+    "id": 15
+  },
+  {
+    "text": "Lecția 4: Desenează un pătrat — Cum faci un pătrat?: Un pătrat are 4 laturi egale și 4 colțuri de 90°. Asta înseamnă că va trebui să mergem inainte cu blocul blocul MOVE cu valoarea 10, iar apoi să ne rotim cu blocul TURN_RIGHT cu valoarea 90 sau blocul TURN_LEFT cu valoarea 90 , în funcție de direcția în care vrem să desenăm ... de 4 ori.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 4: Desenează un pătrat",
+      "order_index": 4,
+      "title": "Forme geometrice",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Cum faci un pătrat?"
+    },
+    "id": 16
+  },
+  {
+    "text": "Lecția 4: Desenează un pătrat — Test rapid: Dacă schimbăm 4 cu 3 în blocul REPEAT cu valoarea 3, obținem un triunghi (dar atenție: un triunghi are colțurile diferite).",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 4: Desenează un pătrat",
+      "order_index": 4,
+      "title": "Forme geometrice",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Test rapid"
+    },
+    "id": 17
+  },
+  {
+    "text": "Lecția 4: Desenează un pătrat — Exercițiul 1: Construiește un pătrat. Personajul pornește din colțul stânga-jos, orientat spre stânga. Indiciu: Folosește REPETĂ de 4 ori.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 4: Desenează un pătrat",
+      "order_index": 4,
+      "title": "Forme geometrice",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": true
+    },
+    "id": 18
+  },
+  {
+    "text": "Lecția 4: Desenează un pătrat — Exercițiul 2: Desenează un dreptunghi cu lungimea 20 și înălțimea 10. Personajul pornește din colțul stânga-jos, orientat spre dreapta. Indiciu: Un dreptunghi are 2 laturi lungi și 2 laturi scurte.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 4: Desenează un pătrat",
+      "order_index": 4,
+      "title": "Forme geometrice",
+      "chunk_type": "exercise",
+      "exercise_index": 1,
+      "exercise_title": "Exercițiul 2",
+      "exercise_level": "",
+      "has_hint": true
+    },
+    "id": 19
+  },
+  {
+    "text": "Lecția 4: Desenează un pătrat — Exercițiul 3: Desenează o scară cu 3 trepte! La fiecare treaptă: mergi 1 pas în sus, apoi 1 pas la dreapta. Personajul pornește din colțul stânga-jos, orientat spre dreapta. Indiciu: O treaptă = întoarce stânga 90°, mergi 10!",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 4: Desenează un pătrat",
+      "order_index": 4,
+      "title": "Forme geometrice",
+      "chunk_type": "exercise",
+      "exercise_index": 2,
+      "exercise_title": "Exercițiul 3",
+      "exercise_level": "",
+      "has_hint": true
+    },
+    "id": 20
+  },
+  {
+    "text": "Lecția: Lecția 5: Variabile  | Titlu: Variabilele în programare | Ce este o variabilă?: O variabilă este ca o cutie ce are un nume în care poți memora o valoare (ex: scor = 0). | Set și schimbă: Blocul {{block|set_var|scor|0}} pune o valoare în variabilă. Blocul {{block|change_var|scor|+1}} crește sau scade variabila. | De ce e util un scor?: În jocuri, scorul crește când faci ceva corect. Poți folosi blocul REPEAT cu valoarea 5 cu {{block|change_var|scor|+1}} în interior.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 5: Variabile ",
+      "order_index": 5,
+      "title": "Variabilele în programare",
+      "chunk_type": "lesson_full"
+    },
+    "id": 21
+  },
+  {
+    "text": "Lecția 5: Variabile  — Ce este o variabilă?: O variabilă este ca o cutie ce are un nume în care poți memora o valoare (ex: scor = 0).",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 5: Variabile ",
+      "order_index": 5,
+      "title": "Variabilele în programare",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este o variabilă?"
+    },
+    "id": 22
+  },
+  {
+    "text": "Lecția 5: Variabile  — Set și schimbă: Blocul {{block|set_var|scor|0}} pune o valoare în variabilă. Blocul {{block|change_var|scor|+1}} crește sau scade variabila.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 5: Variabile ",
+      "order_index": 5,
+      "title": "Variabilele în programare",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Set și schimbă"
+    },
+    "id": 23
+  },
+  {
+    "text": "Lecția 5: Variabile  — De ce e util un scor?: În jocuri, scorul crește când faci ceva corect. Poți folosi blocul REPEAT cu valoarea 5 cu {{block|change_var|scor|+1}} în interior.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 5: Variabile ",
+      "order_index": 5,
+      "title": "Variabilele în programare",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "De ce e util un scor?"
+    },
+    "id": 24
+  },
+  {
+    "text": "Lecția 5: Variabile  — Exercițiul 1: Creează variabila „scor”, seteaz-o la 0, apoi crește scorul cu 1 de 5 ori folosind REPEAT.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 5: Variabile ",
+      "order_index": 5,
+      "title": "Variabilele în programare",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 25
+  },
+  {
+    "text": "Lecția: Lecția 6: Mini-joc – rezolvă traseul | Titlu: Traseu simplu (nivel 1 → 3) | Regula mini-jocului: Ai un traseu cu obstacole și colțuri. Scopul este să ghidezi personajul de la START la FINISH urmând exact pașii corecți. Planifică înainte să construiești! | Plan înainte să construiești: Citește traseul ca pe o hartă: câți pași înainte, unde întorci, câți pași mai sunt. Abia apoi trage blocurile. blocul REPEAT cu valoarea 3 cu blocul MOVE cu valoarea 10 e mai scurt decât 3 blocuri blocul MOVE cu valoarea 10 separate. | Colțuri la stânga vs. dreapta: Atenție la direcție! blocul TURN_RIGHT cu valoarea 90 și blocul TURN_LEFT cu valoarea 90 nu sunt același lucru. Dacă mergi greșit, personajul iese din traseu. | Niveluri de dificultate: Această lecție are 3 mini-jocuri. Fiecare e mai complex: mai multe colțuri, direcții mixte (stânga + dreapta) și distanțe diferite. Rezolvă-le în ordine!",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 6: Mini-joc – rezolvă traseul",
+      "order_index": 6,
+      "title": "Traseu simplu (nivel 1 → 3)",
+      "chunk_type": "lesson_full"
+    },
+    "id": 26
+  },
+  {
+    "text": "Lecția 6: Mini-joc – rezolvă traseul — Regula mini-jocului: Ai un traseu cu obstacole și colțuri. Scopul este să ghidezi personajul de la START la FINISH urmând exact pașii corecți. Planifică înainte să construiești!",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 6: Mini-joc – rezolvă traseul",
+      "order_index": 6,
+      "title": "Traseu simplu (nivel 1 → 3)",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Regula mini-jocului"
+    },
+    "id": 27
+  },
+  {
+    "text": "Lecția 6: Mini-joc – rezolvă traseul — Plan înainte să construiești: Citește traseul ca pe o hartă: câți pași înainte, unde întorci, câți pași mai sunt. Abia apoi trage blocurile. blocul REPEAT cu valoarea 3 cu blocul MOVE cu valoarea 10 e mai scurt decât 3 blocuri blocul MOVE cu valoarea 10 separate.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 6: Mini-joc – rezolvă traseul",
+      "order_index": 6,
+      "title": "Traseu simplu (nivel 1 → 3)",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Plan înainte să construiești"
+    },
+    "id": 28
+  },
+  {
+    "text": "Lecția 6: Mini-joc – rezolvă traseul — Colțuri la stânga vs. dreapta: Atenție la direcție! blocul TURN_RIGHT cu valoarea 90 și blocul TURN_LEFT cu valoarea 90 nu sunt același lucru. Dacă mergi greșit, personajul iese din traseu.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 6: Mini-joc – rezolvă traseul",
+      "order_index": 6,
+      "title": "Traseu simplu (nivel 1 → 3)",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Colțuri la stânga vs. dreapta"
+    },
+    "id": 29
+  },
+  {
+    "text": "Lecția 6: Mini-joc – rezolvă traseul — Niveluri de dificultate: Această lecție are 3 mini-jocuri. Fiecare e mai complex: mai multe colțuri, direcții mixte (stânga + dreapta) și distanțe diferite. Rezolvă-le în ordine!",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 6: Mini-joc – rezolvă traseul",
+      "order_index": 6,
+      "title": "Traseu simplu (nivel 1 → 3)",
+      "chunk_type": "section",
+      "section_index": 3,
+      "heading": "Niveluri de dificultate"
+    },
+    "id": 30
+  },
+  {
+    "text": "Lecția 6: Mini-joc – rezolvă traseul — Traseul în L (nivel Ușor): Rezolvă traseul în formă de L: mergi 4×10 pași, întoarce STÂNGA 90°, mergi 3×10 pași în sus, întoarce DREAPTA 90°, mergi 2×10 pași până la FINISH. Indiciu: Ca să urci trebuie să te întorci la STÂNGA. Ca să mergi din nou la dreapta te întorci la DREAPTA.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 6: Mini-joc – rezolvă traseul",
+      "order_index": 6,
+      "title": "Traseu simplu (nivel 1 → 3)",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Traseul în L",
+      "exercise_level": "Ușor",
+      "has_hint": true
+    },
+    "id": 31
+  },
+  {
+    "text": "Lecția 6: Mini-joc – rezolvă traseul — Traseul în S mare (nivel Mediu): Desenează un S mare pe toată matricea: mergi 5×10 dreapta, întoarce STÂNGA, mergi 2×10 sus, întoarce STÂNGA, mergi 4×10 stânga, întoarce DREAPTA, mergi 2×10 sus, întoarce DREAPTA, mergi 5×10 dreapta spre FINISH. Indiciu: S-ul are 5 segmente. Primele 2 colțuri sunt la STÂNGA, ultimele 2 sunt la DREAPTA. Lungimile sunt: 5, 2, 4, 2, 5.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 6: Mini-joc – rezolvă traseul",
+      "order_index": 6,
+      "title": "Traseu simplu (nivel 1 → 3)",
+      "chunk_type": "exercise",
+      "exercise_index": 1,
+      "exercise_title": "Traseul în S mare",
+      "exercise_level": "Mediu",
+      "has_hint": true
+    },
+    "id": 32
+  },
+  {
+    "text": "Lecția 6: Mini-joc – rezolvă traseul — Pătratul cu scară (nivel Dificil): Desenează pătratul pe marginea matricii apoi o scară în interior: repeat:4 cu 5 pași și turn:left pentru pătrat, apoi repeat:4 cu turn:left + move + turn:right + move pentru scară. Indiciu: Pătratul se face cu REPEAT în REPEAT: repeat:4{ repeat:5{move} + turn:left }. Scara: repeat:4{ turn:left + move + turn:right + move }.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Blocks_lessons",
+      "language": "blocks_lessons",
+      "lesson_name": "Lecția 6: Mini-joc – rezolvă traseul",
+      "order_index": 6,
+      "title": "Traseu simplu (nivel 1 → 3)",
+      "chunk_type": "exercise",
+      "exercise_index": 2,
+      "exercise_title": "Pătratul cu scară",
+      "exercise_level": "Dificil",
+      "has_hint": true
+    },
+    "id": 33
+  },
+  {
+    "text": "Lecția: Lecția 1: Introducere în limbajul C | Titlu: Lecția 1: Introducere în limbajul C | Ce este limbajul C?: C este un limbaj de programare compilat, rapid și eficient, folosit frecvent pentru sisteme de operare, aplicații embedded și programe de nivel jos. | De ce învățăm C?: Limbajul C ajută la înțelegerea modului în care funcționează memoria, procesoarele și programele la nivel de sistem. | Primul program în C: Un program C începe cu funcția main și folosește printf pentru afișare.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 1: Introducere în limbajul C",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în limbajul C",
+      "chunk_type": "lesson_full"
+    },
+    "id": 34
+  },
+  {
+    "text": "Lecția 1: Introducere în limbajul C — Ce este limbajul C?: C este un limbaj de programare compilat, rapid și eficient, folosit frecvent pentru sisteme de operare, aplicații embedded și programe de nivel jos.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 1: Introducere în limbajul C",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în limbajul C",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este limbajul C?"
+    },
+    "id": 35
+  },
+  {
+    "text": "Lecția 1: Introducere în limbajul C — De ce învățăm C?: Limbajul C ajută la înțelegerea modului în care funcționează memoria, procesoarele și programele la nivel de sistem.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 1: Introducere în limbajul C",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în limbajul C",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "De ce învățăm C?"
+    },
+    "id": 36
+  },
+  {
+    "text": "Lecția 1: Introducere în limbajul C — Primul program în C: Un program C începe cu funcția main și folosește printf pentru afișare.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 1: Introducere în limbajul C",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în limbajul C",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Primul program în C"
+    },
+    "id": 37
+  },
+  {
+    "text": "Lecția 1: Introducere în limbajul C — Exercițiul 1: Scrie un program care afișează exact textul: Salut din C!",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 1: Introducere în limbajul C",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în limbajul C",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 38
+  },
+  {
+    "text": "Lecția: Lecția 2: Structura unui program C | Titlu: Lecția 2: Structura unui program C | Fișiere header: În C folosim fișiere header precum stdio.h pentru funcții de intrare și ieșire. | Funcția main: Funcția main este punctul de start al oricărui program C. | Instrucțiuni și punct și virgulă: Fiecare instrucțiune în C se termină cu punct și virgulă.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 2: Structura unui program C",
+      "order_index": 2,
+      "title": "Lecția 2: Structura unui program C",
+      "chunk_type": "lesson_full"
+    },
+    "id": 39
+  },
+  {
+    "text": "Lecția 2: Structura unui program C — Fișiere header: În C folosim fișiere header precum stdio.h pentru funcții de intrare și ieșire.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 2: Structura unui program C",
+      "order_index": 2,
+      "title": "Lecția 2: Structura unui program C",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Fișiere header"
+    },
+    "id": 40
+  },
+  {
+    "text": "Lecția 2: Structura unui program C — Funcția main: Funcția main este punctul de start al oricărui program C.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 2: Structura unui program C",
+      "order_index": 2,
+      "title": "Lecția 2: Structura unui program C",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Funcția main"
+    },
+    "id": 41
+  },
+  {
+    "text": "Lecția 2: Structura unui program C — Instrucțiuni și punct și virgulă: Fiecare instrucțiune în C se termină cu punct și virgulă.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 2: Structura unui program C",
+      "order_index": 2,
+      "title": "Lecția 2: Structura unui program C",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Instrucțiuni și punct și virgulă"
+    },
+    "id": 42
+  },
+  {
+    "text": "Lecția 2: Structura unui program C — Exercițiul 1: Scrie structura minimă a unui program C care afișează un mesaj.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 2: Structura unui program C",
+      "order_index": 2,
+      "title": "Lecția 2: Structura unui program C",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 43
+  },
+  {
+    "text": "Lecția: Lecția 3: Variabile și tipuri de date | Titlu: Lecția 3: Variabile și tipuri de date | Ce este o variabilă?: O variabilă este un spațiu din memorie în care stocăm date. | Tipuri de date de bază: În C există tipuri precum int, float, double și char. | Declararea variabilelor: Variabilele trebuie declarate înainte de utilizare.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 3: Variabile și tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile și tipuri de date",
+      "chunk_type": "lesson_full"
+    },
+    "id": 44
+  },
+  {
+    "text": "Lecția 3: Variabile și tipuri de date — Ce este o variabilă?: O variabilă este un spațiu din memorie în care stocăm date.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 3: Variabile și tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile și tipuri de date",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este o variabilă?"
+    },
+    "id": 45
+  },
+  {
+    "text": "Lecția 3: Variabile și tipuri de date — Tipuri de date de bază: În C există tipuri precum int, float, double și char.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 3: Variabile și tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile și tipuri de date",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Tipuri de date de bază"
+    },
+    "id": 46
+  },
+  {
+    "text": "Lecția 3: Variabile și tipuri de date — Declararea variabilelor: Variabilele trebuie declarate înainte de utilizare.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 3: Variabile și tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile și tipuri de date",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Declararea variabilelor"
+    },
+    "id": 47
+  },
+  {
+    "text": "Lecția 3: Variabile și tipuri de date — Exercițiul 1: Declară o variabilă de tip int cu valoarea 10 și afișeaz-o.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 3: Variabile și tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile și tipuri de date",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 48
+  },
+  {
+    "text": "Lecția: Lecția 4: Operații și expresii | Titlu: Lecția 4: Operații în C | Operatori aritmetici: C suportă operatori precum +, -, *, / și %. | Ordinea operațiilor: C respectă ordinea matematică a operațiilor. | Expresii: O expresie combină operatori și operanzi.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 4: Operații și expresii",
+      "order_index": 4,
+      "title": "Lecția 4: Operații în C",
+      "chunk_type": "lesson_full"
+    },
+    "id": 49
+  },
+  {
+    "text": "Lecția 4: Operații și expresii — Operatori aritmetici: C suportă operatori precum +, -, *, / și %.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 4: Operații și expresii",
+      "order_index": 4,
+      "title": "Lecția 4: Operații în C",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Operatori aritmetici"
+    },
+    "id": 50
+  },
+  {
+    "text": "Lecția 4: Operații și expresii — Ordinea operațiilor: C respectă ordinea matematică a operațiilor.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 4: Operații și expresii",
+      "order_index": 4,
+      "title": "Lecția 4: Operații în C",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Ordinea operațiilor"
+    },
+    "id": 51
+  },
+  {
+    "text": "Lecția 4: Operații și expresii — Expresii: O expresie combină operatori și operanzi.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 4: Operații și expresii",
+      "order_index": 4,
+      "title": "Lecția 4: Operații în C",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Expresii"
+    },
+    "id": 52
+  },
+  {
+    "text": "Lecția 4: Operații și expresii — Exercițiul 1: Calculează și afișează rezultatul expresiei: 5 + 3 * 2",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 4: Operații și expresii",
+      "order_index": 4,
+      "title": "Lecția 4: Operații în C",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 53
+  },
+  {
+    "text": "Lecția: Lecția 5: Instrucțiuni condiționale | Titlu: Lecția 5: if și else | Instrucțiunea if: Instrucțiunea if execută cod doar dacă o condiție este adevărată. | Instrucțiunea else: else se execută atunci când condiția if este falsă. | Operatori de comparație: Operatori precum ==, !=, <, > sunt folosiți în condiții.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 5: Instrucțiuni condiționale",
+      "order_index": 5,
+      "title": "Lecția 5: if și else",
+      "chunk_type": "lesson_full"
+    },
+    "id": 54
+  },
+  {
+    "text": "Lecția 5: Instrucțiuni condiționale — Instrucțiunea if: Instrucțiunea if execută cod doar dacă o condiție este adevărată.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 5: Instrucțiuni condiționale",
+      "order_index": 5,
+      "title": "Lecția 5: if și else",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Instrucțiunea if"
+    },
+    "id": 55
+  },
+  {
+    "text": "Lecția 5: Instrucțiuni condiționale — Instrucțiunea else: else se execută atunci când condiția if este falsă.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 5: Instrucțiuni condiționale",
+      "order_index": 5,
+      "title": "Lecția 5: if și else",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Instrucțiunea else"
+    },
+    "id": 56
+  },
+  {
+    "text": "Lecția 5: Instrucțiuni condiționale — Operatori de comparație: Operatori precum ==, !=, <, > sunt folosiți în condiții.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 5: Instrucțiuni condiționale",
+      "order_index": 5,
+      "title": "Lecția 5: if și else",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Operatori de comparație"
+    },
+    "id": 57
+  },
+  {
+    "text": "Lecția 5: Instrucțiuni condiționale — Exercițiul 1: Dacă numărul este mai mare decât 10, afișează textul Mare.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 5: Instrucțiuni condiționale",
+      "order_index": 5,
+      "title": "Lecția 5: if și else",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 58
+  },
+  {
+    "text": "Lecția: Lecția 6: Bucla while | Titlu: Lecția 6: Bucla while | Ce este while?: Bucla while repetă codul cât timp condiția este adevărată. | Incrementare: În bucle este important să modificăm variabila de control.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 6: Bucla while",
+      "order_index": 6,
+      "title": "Lecția 6: Bucla while",
+      "chunk_type": "lesson_full"
+    },
+    "id": 59
+  },
+  {
+    "text": "Lecția 6: Bucla while — Ce este while?: Bucla while repetă codul cât timp condiția este adevărată.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 6: Bucla while",
+      "order_index": 6,
+      "title": "Lecția 6: Bucla while",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este while?"
+    },
+    "id": 60
+  },
+  {
+    "text": "Lecția 6: Bucla while — Incrementare: În bucle este important să modificăm variabila de control.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 6: Bucla while",
+      "order_index": 6,
+      "title": "Lecția 6: Bucla while",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Incrementare"
+    },
+    "id": 61
+  },
+  {
+    "text": "Lecția 6: Bucla while — Exercițiul 1: Afișează numerele de la 1 la 3 folosind while.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 6: Bucla while",
+      "order_index": 6,
+      "title": "Lecția 6: Bucla while",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 62
+  },
+  {
+    "text": "Lecția: Lecția 7: Bucla for | Titlu: Lecția 7: Bucla for | Structura for: Bucla for conține inițializare, condiție și incrementare. | Utilizare: for este folosită pentru iterații cu număr cunoscut de pași.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 7: Bucla for",
+      "order_index": 7,
+      "title": "Lecția 7: Bucla for",
+      "chunk_type": "lesson_full"
+    },
+    "id": 63
+  },
+  {
+    "text": "Lecția 7: Bucla for — Structura for: Bucla for conține inițializare, condiție și incrementare.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 7: Bucla for",
+      "order_index": 7,
+      "title": "Lecția 7: Bucla for",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Structura for"
+    },
+    "id": 64
+  },
+  {
+    "text": "Lecția 7: Bucla for — Utilizare: for este folosită pentru iterații cu număr cunoscut de pași.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 7: Bucla for",
+      "order_index": 7,
+      "title": "Lecția 7: Bucla for",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Utilizare"
+    },
+    "id": 65
+  },
+  {
+    "text": "Lecția 7: Bucla for — Exercițiul 1: Afișează numerele de la 1 la 5 folosind for.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 7: Bucla for",
+      "order_index": 7,
+      "title": "Lecția 7: Bucla for",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 66
+  },
+  {
+    "text": "Lecția: Lecția 8: Funcții | Titlu: Lecția 8: Funcții în C | Ce este o funcție?: O funcție este un bloc de cod reutilizabil. | Parametri: Funcțiile pot primi parametri pentru a lucra cu date.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 8: Funcții",
+      "order_index": 8,
+      "title": "Lecția 8: Funcții în C",
+      "chunk_type": "lesson_full"
+    },
+    "id": 67
+  },
+  {
+    "text": "Lecția 8: Funcții — Ce este o funcție?: O funcție este un bloc de cod reutilizabil.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 8: Funcții",
+      "order_index": 8,
+      "title": "Lecția 8: Funcții în C",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este o funcție?"
+    },
+    "id": 68
+  },
+  {
+    "text": "Lecția 8: Funcții — Parametri: Funcțiile pot primi parametri pentru a lucra cu date.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 8: Funcții",
+      "order_index": 8,
+      "title": "Lecția 8: Funcții în C",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Parametri"
+    },
+    "id": 69
+  },
+  {
+    "text": "Lecția 8: Funcții — Exercițiul 1: Scrie o funcție care întoarce numărul 5 și afișează rezultatul.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 8: Funcții",
+      "order_index": 8,
+      "title": "Lecția 8: Funcții în C",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 70
+  },
+  {
+    "text": "Lecția: Lecția 9: Lucrul cu input | Titlu: Lecția 9: Citirea datelor | Funcția scanf: scanf este folosită pentru a citi date de la tastatură. | Formate: Folosim %d, %f, %c pentru tipuri diferite.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 9: Lucrul cu input",
+      "order_index": 9,
+      "title": "Lecția 9: Citirea datelor",
+      "chunk_type": "lesson_full"
+    },
+    "id": 71
+  },
+  {
+    "text": "Lecția 9: Lucrul cu input — Funcția scanf: scanf este folosită pentru a citi date de la tastatură.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 9: Lucrul cu input",
+      "order_index": 9,
+      "title": "Lecția 9: Citirea datelor",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Funcția scanf"
+    },
+    "id": 72
+  },
+  {
+    "text": "Lecția 9: Lucrul cu input — Formate: Folosim %d, %f, %c pentru tipuri diferite.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 9: Lucrul cu input",
+      "order_index": 9,
+      "title": "Lecția 9: Citirea datelor",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Formate"
+    },
+    "id": 73
+  },
+  {
+    "text": "Lecția 9: Lucrul cu input — Exercițiul 1: Declară o variabilă de tip int cu valoarea 7 și afișeaz-o folosind printf.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 9: Lucrul cu input",
+      "order_index": 9,
+      "title": "Lecția 9: Citirea datelor",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 74
+  },
+  {
+    "text": "Lecția: Lecția 10: Mini-proiect final | Titlu: Lecția 10: Mini-proiect C | Proiect final: Vom crea un program care folosește variabile, condiții și bucle.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 10: Mini-proiect final",
+      "order_index": 10,
+      "title": "Lecția 10: Mini-proiect C",
+      "chunk_type": "lesson_full"
+    },
+    "id": 75
+  },
+  {
+    "text": "Lecția 10: Mini-proiect final — Proiect final: Vom crea un program care folosește variabile, condiții și bucle.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 10: Mini-proiect final",
+      "order_index": 10,
+      "title": "Lecția 10: Mini-proiect C",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Proiect final"
+    },
+    "id": 76
+  },
+  {
+    "text": "Lecția 10: Mini-proiect final — Exercițiul 1: Afișează exact textul: Am terminat cursul de C!",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "C_lessons",
+      "language": "c_lessons",
+      "lesson_name": "Lecția 10: Mini-proiect final",
+      "order_index": 10,
+      "title": "Lecția 10: Mini-proiect C",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 77
+  },
+  {
+    "text": "Lecția: Lecția 1: Introducere în Python | Titlu: Lecția 1: Introducere în Python | Ce este Python?: Python este un limbaj de programare modern, foarte popular și ușor de învățat. Este folosit pentru a crea programe simple, aplicații web, jocuri, aplicații de inteligență artificială și multe altele. Python este un limbaj interpretat, ceea ce înseamnă că programul este rulat direct, fără a fi nevoie de compilare, economisind timp în procesul de dezvoltare. | La ce se folosește Python?: Python este folosit într-o gamă foarte largă de domenii. Este utilizat în dezvoltarea aplicațiilor web, automatizarea sarcinilor repetitive, analiza și prelucrarea datelor, inteligența artificială, machine learning, robotică și educație. Datorită simplității sale, Python este unul dintre cele mai recomandate limbaje pentru începători. | De ce este ușor de învățat?: Python are o sintaxă clară și apropiată de limba engleză. Codul este ușor de citit și de înțeles, chiar și pentru cei care nu au mai programat până acum. De asemenea, Python elimină multe detalii tehnice complicate, permițându-i programatorului să se concentreze pe rezolvarea problemei. | Primul program în Python: Primul program pe care îl învață majoritatea programatorilor afișează un mesaj pe ecran. În Python, acest lucru se face folosind funcția print. De exemplu: print(\"Salut lume!\"). Acest program afișează textul Salut lume! pe ecran. | Cum rulează un program Python?: Un program Python este scris într-un fișier cu extensia .py. Acesta poate fi rulat folosind un editor de cod sau din linia de comandă. Python execută instrucțiunile pas cu pas, de sus în jos.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 1: Introducere în Python",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în Python",
+      "chunk_type": "lesson_full"
+    },
+    "id": 78
+  },
+  {
+    "text": "Lecția 1: Introducere în Python — Ce este Python?: Python este un limbaj de programare modern, foarte popular și ușor de învățat. Este folosit pentru a crea programe simple, aplicații web, jocuri, aplicații de inteligență artificială și multe altele. Python este un limbaj interpretat, ceea ce înseamnă că programul este rulat direct, fără a fi nevoie de compilare, economisind timp în procesul de dezvoltare.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 1: Introducere în Python",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în Python",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este Python?"
+    },
+    "id": 79
+  },
+  {
+    "text": "Lecția 1: Introducere în Python — La ce se folosește Python?: Python este folosit într-o gamă foarte largă de domenii. Este utilizat în dezvoltarea aplicațiilor web, automatizarea sarcinilor repetitive, analiza și prelucrarea datelor, inteligența artificială, machine learning, robotică și educație. Datorită simplității sale, Python este unul dintre cele mai recomandate limbaje pentru începători.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 1: Introducere în Python",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în Python",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "La ce se folosește Python?"
+    },
+    "id": 80
+  },
+  {
+    "text": "Lecția 1: Introducere în Python — De ce este ușor de învățat?: Python are o sintaxă clară și apropiată de limba engleză. Codul este ușor de citit și de înțeles, chiar și pentru cei care nu au mai programat până acum. De asemenea, Python elimină multe detalii tehnice complicate, permițându-i programatorului să se concentreze pe rezolvarea problemei.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 1: Introducere în Python",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în Python",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "De ce este ușor de învățat?"
+    },
+    "id": 81
+  },
+  {
+    "text": "Lecția 1: Introducere în Python — Primul program în Python: Primul program pe care îl învață majoritatea programatorilor afișează un mesaj pe ecran. În Python, acest lucru se face folosind funcția print. De exemplu: print(\"Salut lume!\"). Acest program afișează textul Salut lume! pe ecran.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 1: Introducere în Python",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în Python",
+      "chunk_type": "section",
+      "section_index": 3,
+      "heading": "Primul program în Python"
+    },
+    "id": 82
+  },
+  {
+    "text": "Lecția 1: Introducere în Python — Cum rulează un program Python?: Un program Python este scris într-un fișier cu extensia .py. Acesta poate fi rulat folosind un editor de cod sau din linia de comandă. Python execută instrucțiunile pas cu pas, de sus în jos.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 1: Introducere în Python",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în Python",
+      "chunk_type": "section",
+      "section_index": 4,
+      "heading": "Cum rulează un program Python?"
+    },
+    "id": 83
+  },
+  {
+    "text": "Lecția 1: Introducere în Python — Exercițiul 1: Afișează exact textul: \"Am terminat Lecția 1!\"",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 1: Introducere în Python",
+      "order_index": 1,
+      "title": "Lecția 1: Introducere în Python",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 84
+  },
+  {
+    "text": "Lecția: Lecția 2: Numere în Python | Titlu: Lecția 2: Numere în Python – Operații și Tipuri | Ce sunt numerele în Python?: Numerele sunt folosite pentru a efectua calcule matematice în programele Python. Ele pot reprezenta cantități, rezultate ale unor calcule sau valori introduse de utilizator. | Tipuri de numere: Python oferă mai multe tipuri de numere. Tipul int este folosit pentru numere întregi, cum ar fi 1, 10 sau -5. Tipul float este folosit pentru numere zecimale, cum ar fi 3.14 sau 2.5. Tipul complex este folosit mai rar și reprezintă numere complexe. | Operații matematice de bază: În Python putem face calcule matematice folosind operatori. Operatorul plus adună, minus scade, înmulțirea se face cu *, iar împărțirea cu /. Operatorul // realizează împărțirea întreagă, % calculează restul împărțirii, iar ** este folosit pentru ridicarea la putere. | Exemple de calcule: De exemplu, 5 + 3 calculează suma, 10 - 4 calculează diferența, 6 * 2 calculează produsul, iar 8 / 2 calculează rezultatul împărțirii. | Ordinea operațiilor: Python respectă ordinea operațiilor matematice, cunoscută sub numele de regula PEMDAS. Aceasta înseamnă că mai întâi se rezolvă parantezele, apoi puterile, apoi înmulțirile și împărțirile, iar la final adunările și scăderile. | De ce este importantă ordinea operațiilor?: Ordinea operațiilor este importantă pentru a obține rezultate corecte. De exemplu, într-o expresie cu mai multe operații, Python va calcula mai întâi înmulțirea și abia apoi adunarea.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 2: Numere în Python",
+      "order_index": 2,
+      "title": "Lecția 2: Numere în Python – Operații și Tipuri",
+      "chunk_type": "lesson_full"
+    },
+    "id": 85
+  },
+  {
+    "text": "Lecția 2: Numere în Python — Ce sunt numerele în Python?: Numerele sunt folosite pentru a efectua calcule matematice în programele Python. Ele pot reprezenta cantități, rezultate ale unor calcule sau valori introduse de utilizator.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 2: Numere în Python",
+      "order_index": 2,
+      "title": "Lecția 2: Numere în Python – Operații și Tipuri",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce sunt numerele în Python?"
+    },
+    "id": 86
+  },
+  {
+    "text": "Lecția 2: Numere în Python — Tipuri de numere: Python oferă mai multe tipuri de numere. Tipul int este folosit pentru numere întregi, cum ar fi 1, 10 sau -5. Tipul float este folosit pentru numere zecimale, cum ar fi 3.14 sau 2.5. Tipul complex este folosit mai rar și reprezintă numere complexe.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 2: Numere în Python",
+      "order_index": 2,
+      "title": "Lecția 2: Numere în Python – Operații și Tipuri",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Tipuri de numere"
+    },
+    "id": 87
+  },
+  {
+    "text": "Lecția 2: Numere în Python — Operații matematice de bază: În Python putem face calcule matematice folosind operatori. Operatorul plus adună, minus scade, înmulțirea se face cu *, iar împărțirea cu /. Operatorul // realizează împărțirea întreagă, % calculează restul împărțirii, iar ** este folosit pentru ridicarea la putere.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 2: Numere în Python",
+      "order_index": 2,
+      "title": "Lecția 2: Numere în Python – Operații și Tipuri",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Operații matematice de bază"
+    },
+    "id": 88
+  },
+  {
+    "text": "Lecția 2: Numere în Python — Exemple de calcule: De exemplu, 5 + 3 calculează suma, 10 - 4 calculează diferența, 6 * 2 calculează produsul, iar 8 / 2 calculează rezultatul împărțirii.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 2: Numere în Python",
+      "order_index": 2,
+      "title": "Lecția 2: Numere în Python – Operații și Tipuri",
+      "chunk_type": "section",
+      "section_index": 3,
+      "heading": "Exemple de calcule"
+    },
+    "id": 89
+  },
+  {
+    "text": "Lecția 2: Numere în Python — Ordinea operațiilor: Python respectă ordinea operațiilor matematice, cunoscută sub numele de regula PEMDAS. Aceasta înseamnă că mai întâi se rezolvă parantezele, apoi puterile, apoi înmulțirile și împărțirile, iar la final adunările și scăderile.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 2: Numere în Python",
+      "order_index": 2,
+      "title": "Lecția 2: Numere în Python – Operații și Tipuri",
+      "chunk_type": "section",
+      "section_index": 4,
+      "heading": "Ordinea operațiilor"
+    },
+    "id": 90
+  },
+  {
+    "text": "Lecția 2: Numere în Python — De ce este importantă ordinea operațiilor?: Ordinea operațiilor este importantă pentru a obține rezultate corecte. De exemplu, într-o expresie cu mai multe operații, Python va calcula mai întâi înmulțirea și abia apoi adunarea.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 2: Numere în Python",
+      "order_index": 2,
+      "title": "Lecția 2: Numere în Python – Operații și Tipuri",
+      "chunk_type": "section",
+      "section_index": 5,
+      "heading": "De ce este importantă ordinea operațiilor?"
+    },
+    "id": 91
+  },
+  {
+    "text": "Lecția 2: Numere în Python — Exercițiul 1: Calculează și afișează rezultatul expresiei: 3 + 4 * 2",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 2: Numere în Python",
+      "order_index": 2,
+      "title": "Lecția 2: Numere în Python – Operații și Tipuri",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 92
+  },
+  {
+    "text": "Lecția: Lecția 3: Variabile și Tipuri de date | Titlu: Lecția 3: Variabile în Python | Ce este o variabilă?: O variabilă este un spațiu din memorie în care putem stoca informații. Ne putem imagina variabila ca pe o cutie care are un nume și în care putem pune o valoare. Această valoare poate fi schimbată pe parcursul programului. | De ce folosim variabile?: Variabilele ne ajută să memorăm date și să le refolosim în program. În loc să scriem mereu aceeași valoare, o salvăm într-o variabilă și o folosim ori de câte ori avem nevoie. | Atribuirea valorilor: În Python, atribuirea unei valori se face folosind semnul egal. De exemplu, putem salva numărul 5 într-o variabilă numită x sau un nume într-o variabilă numită nume. | Exemple de variabile: Exemple de variabile sunt x = 5, nume = \"Ana\" sau temperatura = 22.5. Python își dă seama automat ce tip de date are fiecare variabilă. | Tipuri de date de bază: Python folosește mai multe tipuri de date de bază. Tipul int este folosit pentru numere întregi, float pentru numere zecimale, str pentru texte și bool pentru valori de tip adevărat sau fals. | Tipuri dinamice: Python este un limbaj cu tipuri dinamice, ceea ce înseamnă că nu trebuie să specificăm tipul unei variabile. Acesta este stabilit automat în funcție de valoarea atribuită. | Reguli pentru numele variabilelor: Numele unei variabile trebuie să înceapă cu o literă sau cu underscore și nu poate conține spații. Este recomandat să folosim nume clare și sugestive.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 3: Variabile și Tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile în Python",
+      "chunk_type": "lesson_full"
+    },
+    "id": 93
+  },
+  {
+    "text": "Lecția 3: Variabile și Tipuri de date — Ce este o variabilă?: O variabilă este un spațiu din memorie în care putem stoca informații. Ne putem imagina variabila ca pe o cutie care are un nume și în care putem pune o valoare. Această valoare poate fi schimbată pe parcursul programului.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 3: Variabile și Tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile în Python",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este o variabilă?"
+    },
+    "id": 94
+  },
+  {
+    "text": "Lecția 3: Variabile și Tipuri de date — De ce folosim variabile?: Variabilele ne ajută să memorăm date și să le refolosim în program. În loc să scriem mereu aceeași valoare, o salvăm într-o variabilă și o folosim ori de câte ori avem nevoie.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 3: Variabile și Tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile în Python",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "De ce folosim variabile?"
+    },
+    "id": 95
+  },
+  {
+    "text": "Lecția 3: Variabile și Tipuri de date — Atribuirea valorilor: În Python, atribuirea unei valori se face folosind semnul egal. De exemplu, putem salva numărul 5 într-o variabilă numită x sau un nume într-o variabilă numită nume.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 3: Variabile și Tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile în Python",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Atribuirea valorilor"
+    },
+    "id": 96
+  },
+  {
+    "text": "Lecția 3: Variabile și Tipuri de date — Exemple de variabile: Exemple de variabile sunt x = 5, nume = \"Ana\" sau temperatura = 22.5. Python își dă seama automat ce tip de date are fiecare variabilă.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 3: Variabile și Tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile în Python",
+      "chunk_type": "section",
+      "section_index": 3,
+      "heading": "Exemple de variabile"
+    },
+    "id": 97
+  },
+  {
+    "text": "Lecția 3: Variabile și Tipuri de date — Tipuri de date de bază: Python folosește mai multe tipuri de date de bază. Tipul int este folosit pentru numere întregi, float pentru numere zecimale, str pentru texte și bool pentru valori de tip adevărat sau fals.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 3: Variabile și Tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile în Python",
+      "chunk_type": "section",
+      "section_index": 4,
+      "heading": "Tipuri de date de bază"
+    },
+    "id": 98
+  },
+  {
+    "text": "Lecția 3: Variabile și Tipuri de date — Tipuri dinamice: Python este un limbaj cu tipuri dinamice, ceea ce înseamnă că nu trebuie să specificăm tipul unei variabile. Acesta este stabilit automat în funcție de valoarea atribuită.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 3: Variabile și Tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile în Python",
+      "chunk_type": "section",
+      "section_index": 5,
+      "heading": "Tipuri dinamice"
+    },
+    "id": 99
+  },
+  {
+    "text": "Lecția 3: Variabile și Tipuri de date — Reguli pentru numele variabilelor: Numele unei variabile trebuie să înceapă cu o literă sau cu underscore și nu poate conține spații. Este recomandat să folosim nume clare și sugestive.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 3: Variabile și Tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile în Python",
+      "chunk_type": "section",
+      "section_index": 6,
+      "heading": "Reguli pentru numele variabilelor"
+    },
+    "id": 100
+  },
+  {
+    "text": "Lecția 3: Variabile și Tipuri de date — Exercițiul 1: Creează o variabilă numită mesaj și afișează textul \"Python e simplu!\"",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 3: Variabile și Tipuri de date",
+      "order_index": 3,
+      "title": "Lecția 3: Variabile în Python",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 101
+  },
+  {
+    "text": "Lecția: Lecția 4: String-uri | Titlu: Lecția 4: Lucrul cu string-uri | Ce este un string?: Un string este o secvență de caractere folosită pentru a reprezenta texte. Un string poate conține litere, cifre, spații sau simboluri și este scris între ghilimele. | Crearea string-urilor: În Python, un string se creează folosind ghilimele duble sau simple. De exemplu, putem salva un text într-o variabilă pentru a-l folosi mai târziu. | Concatenarea string-urilor: Concatenarea înseamnă unirea a două sau mai multe string-uri. În Python, acest lucru se face folosind operatorul plus. De exemplu, putem uni cuvintele Salut și lume pentru a forma un mesaj complet. | Lungimea unui string: Pentru a afla câte caractere are un string, folosim funcția len. Aceasta numără toate caracterele, inclusiv spațiile. | Transformarea literelor: Python oferă funcții utile pentru modificarea textului. Funcția upper transformă toate literele în majuscule, iar lower transformă toate literele în minuscule. | Înlocuirea textului: Funcția replace permite înlocuirea unei părți dintr-un string cu alt text. Este foarte utilă atunci când vrem să corectăm sau să modificăm mesaje. | De ce sunt importante string-urile?: String-urile sunt folosite foarte des în programe pentru afișarea mesajelor, citirea datelor introduse de utilizator și lucrul cu texte. De aceea, este important să știm cum să le folosim corect.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 4: String-uri",
+      "order_index": 4,
+      "title": "Lecția 4: Lucrul cu string-uri",
+      "chunk_type": "lesson_full"
+    },
+    "id": 102
+  },
+  {
+    "text": "Lecția 4: String-uri — Ce este un string?: Un string este o secvență de caractere folosită pentru a reprezenta texte. Un string poate conține litere, cifre, spații sau simboluri și este scris între ghilimele.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 4: String-uri",
+      "order_index": 4,
+      "title": "Lecția 4: Lucrul cu string-uri",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este un string?"
+    },
+    "id": 103
+  },
+  {
+    "text": "Lecția 4: String-uri — Crearea string-urilor: În Python, un string se creează folosind ghilimele duble sau simple. De exemplu, putem salva un text într-o variabilă pentru a-l folosi mai târziu.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 4: String-uri",
+      "order_index": 4,
+      "title": "Lecția 4: Lucrul cu string-uri",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Crearea string-urilor"
+    },
+    "id": 104
+  },
+  {
+    "text": "Lecția 4: String-uri — Concatenarea string-urilor: Concatenarea înseamnă unirea a două sau mai multe string-uri. În Python, acest lucru se face folosind operatorul plus. De exemplu, putem uni cuvintele Salut și lume pentru a forma un mesaj complet.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 4: String-uri",
+      "order_index": 4,
+      "title": "Lecția 4: Lucrul cu string-uri",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Concatenarea string-urilor"
+    },
+    "id": 105
+  },
+  {
+    "text": "Lecția 4: String-uri — Lungimea unui string: Pentru a afla câte caractere are un string, folosim funcția len. Aceasta numără toate caracterele, inclusiv spațiile.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 4: String-uri",
+      "order_index": 4,
+      "title": "Lecția 4: Lucrul cu string-uri",
+      "chunk_type": "section",
+      "section_index": 3,
+      "heading": "Lungimea unui string"
+    },
+    "id": 106
+  },
+  {
+    "text": "Lecția 4: String-uri — Transformarea literelor: Python oferă funcții utile pentru modificarea textului. Funcția upper transformă toate literele în majuscule, iar lower transformă toate literele în minuscule.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 4: String-uri",
+      "order_index": 4,
+      "title": "Lecția 4: Lucrul cu string-uri",
+      "chunk_type": "section",
+      "section_index": 4,
+      "heading": "Transformarea literelor"
+    },
+    "id": 107
+  },
+  {
+    "text": "Lecția 4: String-uri — Înlocuirea textului: Funcția replace permite înlocuirea unei părți dintr-un string cu alt text. Este foarte utilă atunci când vrem să corectăm sau să modificăm mesaje.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 4: String-uri",
+      "order_index": 4,
+      "title": "Lecția 4: Lucrul cu string-uri",
+      "chunk_type": "section",
+      "section_index": 5,
+      "heading": "Înlocuirea textului"
+    },
+    "id": 108
+  },
+  {
+    "text": "Lecția 4: String-uri — De ce sunt importante string-urile?: String-urile sunt folosite foarte des în programe pentru afișarea mesajelor, citirea datelor introduse de utilizator și lucrul cu texte. De aceea, este important să știm cum să le folosim corect.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 4: String-uri",
+      "order_index": 4,
+      "title": "Lecția 4: Lucrul cu string-uri",
+      "chunk_type": "section",
+      "section_index": 6,
+      "heading": "De ce sunt importante string-urile?"
+    },
+    "id": 109
+  },
+  {
+    "text": "Lecția 4: String-uri — Exercițiul 1: Afișează textul \"STRINGURI ÎN PYTHON\" folosind funcția upper().",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 4: String-uri",
+      "order_index": 4,
+      "title": "Lecția 4: Lucrul cu string-uri",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 110
+  },
+  {
+    "text": "Lecția: Lecția 5: Liste în Python | Titlu: Lecția 5: Liste | Ce este o listă?: O listă este o colecție de valori stocate într-o singură variabilă. Lista poate conține mai multe elemente, cum ar fi numere, texte sau alte tipuri de date, și este foarte utilă atunci când vrem să lucrăm cu mai multe valori de același tip. | Crearea unei liste: În Python, o listă se creează folosind paranteze drepte. De exemplu, putem crea o listă cu fructe sau o listă cu numere. Elementele din listă sunt separate prin virgulă. | Indexarea elementelor: Fiecare element dintr-o listă are o poziție numită index. Indexarea începe de la 0, ceea ce înseamnă că primul element are indexul 0, al doilea are indexul 1 și așa mai departe. | Accesarea elementelor: Pentru a accesa un element din listă, folosim numele listei urmat de indexul elementului între paranteze drepte. De exemplu, putem accesa primul sau al doilea element dintr-o listă. | Modificarea unei liste: Listele pot fi modificate. Putem adăuga elemente noi, elimina elemente existente sau schimba ordinea elementelor din listă. | Metode utile pentru liste: Python oferă metode utile pentru lucrul cu liste. Metoda append adaugă un element la finalul listei, remove elimină un element specific, iar sort ordonează elementele din listă. | De ce sunt importante listele?: Listele sunt foarte folosite în programare deoarece permit lucrul cu mai multe valori în același timp. Ele sunt utilizate în bucle, în calcule și în multe alte situații practice.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 5: Liste în Python",
+      "order_index": 5,
+      "title": "Lecția 5: Liste",
+      "chunk_type": "lesson_full"
+    },
+    "id": 111
+  },
+  {
+    "text": "Lecția 5: Liste în Python — Ce este o listă?: O listă este o colecție de valori stocate într-o singură variabilă. Lista poate conține mai multe elemente, cum ar fi numere, texte sau alte tipuri de date, și este foarte utilă atunci când vrem să lucrăm cu mai multe valori de același tip.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 5: Liste în Python",
+      "order_index": 5,
+      "title": "Lecția 5: Liste",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este o listă?"
+    },
+    "id": 112
+  },
+  {
+    "text": "Lecția 5: Liste în Python — Crearea unei liste: În Python, o listă se creează folosind paranteze drepte. De exemplu, putem crea o listă cu fructe sau o listă cu numere. Elementele din listă sunt separate prin virgulă.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 5: Liste în Python",
+      "order_index": 5,
+      "title": "Lecția 5: Liste",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Crearea unei liste"
+    },
+    "id": 113
+  },
+  {
+    "text": "Lecția 5: Liste în Python — Indexarea elementelor: Fiecare element dintr-o listă are o poziție numită index. Indexarea începe de la 0, ceea ce înseamnă că primul element are indexul 0, al doilea are indexul 1 și așa mai departe.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 5: Liste în Python",
+      "order_index": 5,
+      "title": "Lecția 5: Liste",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Indexarea elementelor"
+    },
+    "id": 114
+  },
+  {
+    "text": "Lecția 5: Liste în Python — Accesarea elementelor: Pentru a accesa un element din listă, folosim numele listei urmat de indexul elementului între paranteze drepte. De exemplu, putem accesa primul sau al doilea element dintr-o listă.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 5: Liste în Python",
+      "order_index": 5,
+      "title": "Lecția 5: Liste",
+      "chunk_type": "section",
+      "section_index": 3,
+      "heading": "Accesarea elementelor"
+    },
+    "id": 115
+  },
+  {
+    "text": "Lecția 5: Liste în Python — Modificarea unei liste: Listele pot fi modificate. Putem adăuga elemente noi, elimina elemente existente sau schimba ordinea elementelor din listă.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 5: Liste în Python",
+      "order_index": 5,
+      "title": "Lecția 5: Liste",
+      "chunk_type": "section",
+      "section_index": 4,
+      "heading": "Modificarea unei liste"
+    },
+    "id": 116
+  },
+  {
+    "text": "Lecția 5: Liste în Python — Metode utile pentru liste: Python oferă metode utile pentru lucrul cu liste. Metoda append adaugă un element la finalul listei, remove elimină un element specific, iar sort ordonează elementele din listă.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 5: Liste în Python",
+      "order_index": 5,
+      "title": "Lecția 5: Liste",
+      "chunk_type": "section",
+      "section_index": 5,
+      "heading": "Metode utile pentru liste"
+    },
+    "id": 117
+  },
+  {
+    "text": "Lecția 5: Liste în Python — De ce sunt importante listele?: Listele sunt foarte folosite în programare deoarece permit lucrul cu mai multe valori în același timp. Ele sunt utilizate în bucle, în calcule și în multe alte situații practice.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 5: Liste în Python",
+      "order_index": 5,
+      "title": "Lecția 5: Liste",
+      "chunk_type": "section",
+      "section_index": 6,
+      "heading": "De ce sunt importante listele?"
+    },
+    "id": 118
+  },
+  {
+    "text": "Lecția 5: Liste în Python — Exercițiul 1: Creează o listă cu numerele 1 , 2 , 3 și afișează suma lor.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 5: Liste în Python",
+      "order_index": 5,
+      "title": "Lecția 5: Liste",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 119
+  },
+  {
+    "text": "Lecția: Lecția 6: If / Else | Titlu: Lecția 6: Structuri condiționale | Ce sunt structurile condiționale?: Structurile condiționale sunt folosite pentru a lua decizii în programe. Ele permit executarea unor instrucțiuni doar dacă o anumită condiție este adevărată. | Instrucțiunea if: Instrucțiunea if verifică o condiție. Dacă această condiție este adevărată, codul din interiorul ei este executat. | Instrucțiunea else: Instrucțiunea else este folosită împreună cu if și se execută atunci când condiția din if este falsă. | Instrucțiunea elif: Instrucțiunea elif permite verificarea mai multor condiții. Dacă prima condiție este falsă, Python verifică următoarele condiții scrise cu elif. | Cum funcționează condițiile?: O condiție compară valori folosind operatori precum mai mare, mai mic sau egal. Rezultatul unei condiții poate fi adevărat sau fals. | De ce sunt importante structurile condiționale?: Structurile condiționale permit programelor să reacționeze diferit în funcție de date. Ele sunt esențiale în jocuri, aplicații și orice program care trebuie să ia decizii.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 6: If / Else",
+      "order_index": 6,
+      "title": "Lecția 6: Structuri condiționale",
+      "chunk_type": "lesson_full"
+    },
+    "id": 120
+  },
+  {
+    "text": "Lecția 6: If / Else — Ce sunt structurile condiționale?: Structurile condiționale sunt folosite pentru a lua decizii în programe. Ele permit executarea unor instrucțiuni doar dacă o anumită condiție este adevărată.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 6: If / Else",
+      "order_index": 6,
+      "title": "Lecția 6: Structuri condiționale",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce sunt structurile condiționale?"
+    },
+    "id": 121
+  },
+  {
+    "text": "Lecția 6: If / Else — Instrucțiunea if: Instrucțiunea if verifică o condiție. Dacă această condiție este adevărată, codul din interiorul ei este executat.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 6: If / Else",
+      "order_index": 6,
+      "title": "Lecția 6: Structuri condiționale",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Instrucțiunea if"
+    },
+    "id": 122
+  },
+  {
+    "text": "Lecția 6: If / Else — Instrucțiunea else: Instrucțiunea else este folosită împreună cu if și se execută atunci când condiția din if este falsă.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 6: If / Else",
+      "order_index": 6,
+      "title": "Lecția 6: Structuri condiționale",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Instrucțiunea else"
+    },
+    "id": 123
+  },
+  {
+    "text": "Lecția 6: If / Else — Instrucțiunea elif: Instrucțiunea elif permite verificarea mai multor condiții. Dacă prima condiție este falsă, Python verifică următoarele condiții scrise cu elif.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 6: If / Else",
+      "order_index": 6,
+      "title": "Lecția 6: Structuri condiționale",
+      "chunk_type": "section",
+      "section_index": 3,
+      "heading": "Instrucțiunea elif"
+    },
+    "id": 124
+  },
+  {
+    "text": "Lecția 6: If / Else — Cum funcționează condițiile?: O condiție compară valori folosind operatori precum mai mare, mai mic sau egal. Rezultatul unei condiții poate fi adevărat sau fals.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 6: If / Else",
+      "order_index": 6,
+      "title": "Lecția 6: Structuri condiționale",
+      "chunk_type": "section",
+      "section_index": 4,
+      "heading": "Cum funcționează condițiile?"
+    },
+    "id": 125
+  },
+  {
+    "text": "Lecția 6: If / Else — De ce sunt importante structurile condiționale?: Structurile condiționale permit programelor să reacționeze diferit în funcție de date. Ele sunt esențiale în jocuri, aplicații și orice program care trebuie să ia decizii.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 6: If / Else",
+      "order_index": 6,
+      "title": "Lecția 6: Structuri condiționale",
+      "chunk_type": "section",
+      "section_index": 5,
+      "heading": "De ce sunt importante structurile condiționale?"
+    },
+    "id": 126
+  },
+  {
+    "text": "Lecția 6: If / Else — Exercițiul 1: Dacă numărul x = 10, afișează „Număr mare”.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 6: If / Else",
+      "order_index": 6,
+      "title": "Lecția 6: Structuri condiționale",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 127
+  },
+  {
+    "text": "Lecția: Lecția 7: For Loops | Titlu: Lecția 7: Bucla for | Ce este bucla for?: Bucla for este folosită pentru a repeta o acțiune de mai multe ori. Ea parcurge pe rând o serie de valori și execută același cod pentru fiecare valoare. | Iterarea cu range: Funcția range generează o serie de numere. De exemplu, folosind range(5), Python va produce numerele de la 0 la 4, iar bucla for va parcurge fiecare dintre ele. | Exemplu de iterare: Putem folosi bucla for pentru a afișa numere sau pentru a repeta o acțiune de mai multe ori, cum ar fi afișarea unui mesaj. | Parcurgerea unei liste: Bucla for este foarte utilă pentru parcurgerea listelor. Fiecare element din listă este luat pe rând și poate fi afișat sau prelucrat. | De ce este utilă bucla for?: Bucla for reduce cantitatea de cod scris și face programele mai clare. Este folosită frecvent pentru lucrul cu liste, numere și date repetabile.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 7: For Loops",
+      "order_index": 7,
+      "title": "Lecția 7: Bucla for",
+      "chunk_type": "lesson_full"
+    },
+    "id": 128
+  },
+  {
+    "text": "Lecția 7: For Loops — Ce este bucla for?: Bucla for este folosită pentru a repeta o acțiune de mai multe ori. Ea parcurge pe rând o serie de valori și execută același cod pentru fiecare valoare.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 7: For Loops",
+      "order_index": 7,
+      "title": "Lecția 7: Bucla for",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este bucla for?"
+    },
+    "id": 129
+  },
+  {
+    "text": "Lecția 7: For Loops — Iterarea cu range: Funcția range generează o serie de numere. De exemplu, folosind range(5), Python va produce numerele de la 0 la 4, iar bucla for va parcurge fiecare dintre ele.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 7: For Loops",
+      "order_index": 7,
+      "title": "Lecția 7: Bucla for",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Iterarea cu range"
+    },
+    "id": 130
+  },
+  {
+    "text": "Lecția 7: For Loops — Exemplu de iterare: Putem folosi bucla for pentru a afișa numere sau pentru a repeta o acțiune de mai multe ori, cum ar fi afișarea unui mesaj.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 7: For Loops",
+      "order_index": 7,
+      "title": "Lecția 7: Bucla for",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Exemplu de iterare"
+    },
+    "id": 131
+  },
+  {
+    "text": "Lecția 7: For Loops — Parcurgerea unei liste: Bucla for este foarte utilă pentru parcurgerea listelor. Fiecare element din listă este luat pe rând și poate fi afișat sau prelucrat.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 7: For Loops",
+      "order_index": 7,
+      "title": "Lecția 7: Bucla for",
+      "chunk_type": "section",
+      "section_index": 3,
+      "heading": "Parcurgerea unei liste"
+    },
+    "id": 132
+  },
+  {
+    "text": "Lecția 7: For Loops — De ce este utilă bucla for?: Bucla for reduce cantitatea de cod scris și face programele mai clare. Este folosită frecvent pentru lucrul cu liste, numere și date repetabile.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 7: For Loops",
+      "order_index": 7,
+      "title": "Lecția 7: Bucla for",
+      "chunk_type": "section",
+      "section_index": 4,
+      "heading": "De ce este utilă bucla for?"
+    },
+    "id": 133
+  },
+  {
+    "text": "Lecția 7: For Loops — Exercițiul 1: Scrie doar linia care afișează numerele de la 1 la 5 folosind o buclă for.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 7: For Loops",
+      "order_index": 7,
+      "title": "Lecția 7: Bucla for",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 134
+  },
+  {
+    "text": "Lecția: Lecția 8: While Loops | Titlu: Lecția 8: Bucla while | Ce este bucla while?: Bucla while este folosită pentru a repeta o acțiune atâta timp cât o condiție este adevărată. Programul verifică condiția înainte de fiecare repetare. | Cum funcționează bucla while?: Atunci când condiția este adevărată, codul din interiorul buclei se execută. Când condiția devine falsă, bucla se oprește și programul continuă mai departe. | Exemplu de utilizare: Un exemplu simplu este repetarea afișării unui număr. De fiecare dată când bucla se execută, valoarea unei variabile se modifică pentru a evita o buclă infinită. | Bucla infinită: Dacă variabila folosită în condiție nu se modifică, bucla while poate rula la infinit. De aceea, este important să actualizăm variabilele din interiorul buclei. | Diferența dintre for și while: Bucla for este folosită atunci când știm de câte ori vrem să repetăm o acțiune, iar bucla while este folosită atunci când nu știm exact numărul de repetări. | De ce este utilă bucla while?: Bucla while este foarte utilă în situații în care repetarea depinde de o condiție, cum ar fi citirea datelor până la o anumită valoare sau rularea unui joc până la final.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 8: While Loops",
+      "order_index": 8,
+      "title": "Lecția 8: Bucla while",
+      "chunk_type": "lesson_full"
+    },
+    "id": 135
+  },
+  {
+    "text": "Lecția 8: While Loops — Ce este bucla while?: Bucla while este folosită pentru a repeta o acțiune atâta timp cât o condiție este adevărată. Programul verifică condiția înainte de fiecare repetare.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 8: While Loops",
+      "order_index": 8,
+      "title": "Lecția 8: Bucla while",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este bucla while?"
+    },
+    "id": 136
+  },
+  {
+    "text": "Lecția 8: While Loops — Cum funcționează bucla while?: Atunci când condiția este adevărată, codul din interiorul buclei se execută. Când condiția devine falsă, bucla se oprește și programul continuă mai departe.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 8: While Loops",
+      "order_index": 8,
+      "title": "Lecția 8: Bucla while",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Cum funcționează bucla while?"
+    },
+    "id": 137
+  },
+  {
+    "text": "Lecția 8: While Loops — Exemplu de utilizare: Un exemplu simplu este repetarea afișării unui număr. De fiecare dată când bucla se execută, valoarea unei variabile se modifică pentru a evita o buclă infinită.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 8: While Loops",
+      "order_index": 8,
+      "title": "Lecția 8: Bucla while",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Exemplu de utilizare"
+    },
+    "id": 138
+  },
+  {
+    "text": "Lecția 8: While Loops — Bucla infinită: Dacă variabila folosită în condiție nu se modifică, bucla while poate rula la infinit. De aceea, este important să actualizăm variabilele din interiorul buclei.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 8: While Loops",
+      "order_index": 8,
+      "title": "Lecția 8: Bucla while",
+      "chunk_type": "section",
+      "section_index": 3,
+      "heading": "Bucla infinită"
+    },
+    "id": 139
+  },
+  {
+    "text": "Lecția 8: While Loops — Diferența dintre for și while: Bucla for este folosită atunci când știm de câte ori vrem să repetăm o acțiune, iar bucla while este folosită atunci când nu știm exact numărul de repetări.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 8: While Loops",
+      "order_index": 8,
+      "title": "Lecția 8: Bucla while",
+      "chunk_type": "section",
+      "section_index": 4,
+      "heading": "Diferența dintre for și while"
+    },
+    "id": 140
+  },
+  {
+    "text": "Lecția 8: While Loops — De ce este utilă bucla while?: Bucla while este foarte utilă în situații în care repetarea depinde de o condiție, cum ar fi citirea datelor până la o anumită valoare sau rularea unui joc până la final.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 8: While Loops",
+      "order_index": 8,
+      "title": "Lecția 8: Bucla while",
+      "chunk_type": "section",
+      "section_index": 5,
+      "heading": "De ce este utilă bucla while?"
+    },
+    "id": 141
+  },
+  {
+    "text": "Lecția 8: While Loops — Exercițiul 1: Afișează de 3 ori textul „Python!”.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 8: While Loops",
+      "order_index": 8,
+      "title": "Lecția 8: Bucla while",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 142
+  },
+  {
+    "text": "Lecția: Lecția 9: Funcții | Titlu: Lecția 9: Funcții | Ce este o funcție?: O funcție este un bloc de cod care îndeplinește o anumită sarcină. Funcțiile ne ajută să organizăm codul și să îl refolosim fără a-l scrie de mai multe ori. | Definirea unei funcții: În Python, o funcție se definește folosind cuvântul cheie def, urmat de numele funcției și de paranteze. Codul funcției este scris sub aceasta. | Apelarea unei funcții: Pentru a folosi o funcție, trebuie să o apelăm folosind numele ei urmat de paranteze. La apel, codul din interiorul funcției este executat. | Argumente ale funcțiilor: Funcțiile pot primi argumente, adică valori care sunt trimise funcției pentru a fi folosite în interiorul ei. Argumentele permit funcțiilor să fie mai flexibile. | Returnarea unei valori: O funcție poate întoarce o valoare folosind cuvântul return. Această valoare poate fi folosită mai departe în program. | De ce sunt utile funcțiile?: Funcțiile fac codul mai organizat, mai ușor de citit și mai ușor de întreținut. Ele sunt folosite în toate programele Python, de la cele simple până la aplicații complexe.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 9: Funcții",
+      "order_index": 9,
+      "title": "Lecția 9: Funcții",
+      "chunk_type": "lesson_full"
+    },
+    "id": 143
+  },
+  {
+    "text": "Lecția 9: Funcții — Ce este o funcție?: O funcție este un bloc de cod care îndeplinește o anumită sarcină. Funcțiile ne ajută să organizăm codul și să îl refolosim fără a-l scrie de mai multe ori.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 9: Funcții",
+      "order_index": 9,
+      "title": "Lecția 9: Funcții",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este o funcție?"
+    },
+    "id": 144
+  },
+  {
+    "text": "Lecția 9: Funcții — Definirea unei funcții: În Python, o funcție se definește folosind cuvântul cheie def, urmat de numele funcției și de paranteze. Codul funcției este scris sub aceasta.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 9: Funcții",
+      "order_index": 9,
+      "title": "Lecția 9: Funcții",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Definirea unei funcții"
+    },
+    "id": 145
+  },
+  {
+    "text": "Lecția 9: Funcții — Apelarea unei funcții: Pentru a folosi o funcție, trebuie să o apelăm folosind numele ei urmat de paranteze. La apel, codul din interiorul funcției este executat.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 9: Funcții",
+      "order_index": 9,
+      "title": "Lecția 9: Funcții",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Apelarea unei funcții"
+    },
+    "id": 146
+  },
+  {
+    "text": "Lecția 9: Funcții — Argumente ale funcțiilor: Funcțiile pot primi argumente, adică valori care sunt trimise funcției pentru a fi folosite în interiorul ei. Argumentele permit funcțiilor să fie mai flexibile.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 9: Funcții",
+      "order_index": 9,
+      "title": "Lecția 9: Funcții",
+      "chunk_type": "section",
+      "section_index": 3,
+      "heading": "Argumente ale funcțiilor"
+    },
+    "id": 147
+  },
+  {
+    "text": "Lecția 9: Funcții — Returnarea unei valori: O funcție poate întoarce o valoare folosind cuvântul return. Această valoare poate fi folosită mai departe în program.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 9: Funcții",
+      "order_index": 9,
+      "title": "Lecția 9: Funcții",
+      "chunk_type": "section",
+      "section_index": 4,
+      "heading": "Returnarea unei valori"
+    },
+    "id": 148
+  },
+  {
+    "text": "Lecția 9: Funcții — De ce sunt utile funcțiile?: Funcțiile fac codul mai organizat, mai ușor de citit și mai ușor de întreținut. Ele sunt folosite în toate programele Python, de la cele simple până la aplicații complexe.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 9: Funcții",
+      "order_index": 9,
+      "title": "Lecția 9: Funcții",
+      "chunk_type": "section",
+      "section_index": 5,
+      "heading": "De ce sunt utile funcțiile?"
+    },
+    "id": 149
+  },
+  {
+    "text": "Lecția 9: Funcții — Exercițiul 1: Creează o funcție care întoarce numărul 100 și afișează rezultatul.",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 9: Funcții",
+      "order_index": 9,
+      "title": "Lecția 9: Funcții",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 150
+  },
+  {
+    "text": "Lecția: Lecția 10: Mini-Proiect | Titlu: Lecția 10: Mini-proiect final | Ce este mini-proiectul final?: Mini-proiectul final este o activitate care te ajută să folosești toate conceptele învățate până acum. Scopul lui este să îți arate cum se combină variabilele, condițiile, buclele și funcțiile într-un singur program. | Ce trebuie să conțină programul?: Programul trebuie să folosească cel puțin o variabilă, o structură condițională și o funcție. Aceste elemente te ajută să creezi un program organizat și ușor de înțeles. | Cum abordăm mini-proiectul?: Pentru a rezolva mini-proiectul, este recomandat să gândești pașii pe rând. Mai întâi stabilești ce trebuie să facă programul, apoi creezi variabilele necesare, iar la final organizezi codul în funcții. | De ce este important mini-proiectul?: Mini-proiectul te ajută să îți consolidezi cunoștințele și să capeți încredere în scrierea programelor Python. Este un pas important înainte de a crea programe mai complexe.",
+    "chunk_type": "lesson_full",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 10: Mini-Proiect",
+      "order_index": 10,
+      "title": "Lecția 10: Mini-proiect final",
+      "chunk_type": "lesson_full"
+    },
+    "id": 151
+  },
+  {
+    "text": "Lecția 10: Mini-Proiect — Ce este mini-proiectul final?: Mini-proiectul final este o activitate care te ajută să folosești toate conceptele învățate până acum. Scopul lui este să îți arate cum se combină variabilele, condițiile, buclele și funcțiile într-un singur program.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 10: Mini-Proiect",
+      "order_index": 10,
+      "title": "Lecția 10: Mini-proiect final",
+      "chunk_type": "section",
+      "section_index": 0,
+      "heading": "Ce este mini-proiectul final?"
+    },
+    "id": 152
+  },
+  {
+    "text": "Lecția 10: Mini-Proiect — Ce trebuie să conțină programul?: Programul trebuie să folosească cel puțin o variabilă, o structură condițională și o funcție. Aceste elemente te ajută să creezi un program organizat și ușor de înțeles.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 10: Mini-Proiect",
+      "order_index": 10,
+      "title": "Lecția 10: Mini-proiect final",
+      "chunk_type": "section",
+      "section_index": 1,
+      "heading": "Ce trebuie să conțină programul?"
+    },
+    "id": 153
+  },
+  {
+    "text": "Lecția 10: Mini-Proiect — Cum abordăm mini-proiectul?: Pentru a rezolva mini-proiectul, este recomandat să gândești pașii pe rând. Mai întâi stabilești ce trebuie să facă programul, apoi creezi variabilele necesare, iar la final organizezi codul în funcții.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 10: Mini-Proiect",
+      "order_index": 10,
+      "title": "Lecția 10: Mini-proiect final",
+      "chunk_type": "section",
+      "section_index": 2,
+      "heading": "Cum abordăm mini-proiectul?"
+    },
+    "id": 154
+  },
+  {
+    "text": "Lecția 10: Mini-Proiect — De ce este important mini-proiectul?: Mini-proiectul te ajută să îți consolidezi cunoștințele și să capeți încredere în scrierea programelor Python. Este un pas important înainte de a crea programe mai complexe.",
+    "chunk_type": "section",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 10: Mini-Proiect",
+      "order_index": 10,
+      "title": "Lecția 10: Mini-proiect final",
+      "chunk_type": "section",
+      "section_index": 3,
+      "heading": "De ce este important mini-proiectul?"
+    },
+    "id": 155
+  },
+  {
+    "text": "Lecția 10: Mini-Proiect — Exercițiul 1: Afișează exact textul: „Am terminat cursul Python!”",
+    "chunk_type": "exercise",
+    "metadata": {
+      "course": "Python_lessons",
+      "language": "python_lessons",
+      "lesson_name": "Lecția 10: Mini-Proiect",
+      "order_index": 10,
+      "title": "Lecția 10: Mini-proiect final",
+      "chunk_type": "exercise",
+      "exercise_index": 0,
+      "exercise_title": "Exercițiul 1",
+      "exercise_level": "",
+      "has_hint": false
+    },
+    "id": 156
+  }
+]

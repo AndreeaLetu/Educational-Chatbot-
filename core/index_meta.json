@@ -1,0 +1,7 @@
+{
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "num_chunks": 157,
+  "dimension": 768,
+  "index_type": "IndexFlatIP",
+  "chunks_path": "C:\\Users\\andre\\Desktop\\PythonProject_Chatbot\\app\\core\\chunks.json"
+}
