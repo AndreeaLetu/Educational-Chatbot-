@@ -1,0 +1,501 @@
+text,label,difficulty
+"Am scris codul acesta și vreau să fac personajul să sară, dar el pur și simplu zboară în sus fără să mai cadă. Îmi poți explica de ce?",code_help,0
+"Ajutor cu eroarea asta: am pus blocul 'atunci când se dă clic pe acest sprite', dar nu se întâmplă nimic când apăs. Nu găsesc rezolvarea pe Google.",code_help,0
+"Salut, am o problemă: am o problemă cu un pointer care devine NULL după ce ies dintr-o buclă, deși nu l-am modificat. Mersi anticipat!",code_help,2
+Ajutor cu eroarea asta: consola afișează 'Memory Error' imediat după ce introduc datele de intrare. Ce înseamnă? Nu găsesc rezolvarea pe Google.,code_help,2
+"Ajutor cu eroarea asta: am eroarea 'invalid syntax' chiar la începutul fișierului, dar codul pare corect. Ce am greșit?",code_help,1
+"Codul meu are un bug: am încercat să folosesc 'free()' pe un pointer, dar programul crapă cu mesajul 'double free or corruption'. Ce am greșit?",code_help,2
+"Nu înțeleg de ce am încercat să folosesc 'free()' pe un pointer, dar programul crapă cu mesajul 'double free or corruption'. E frustrant, ajutor!",code_help,2
+M-am blocat aici: de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? Mersi anticipat!,code_help,1
+De ce se întâmplă că de ce fundalul se schimbă la nivelul următor înainte să termin toate sarcinile? Cum pot repara asta?,code_help,1
+"Salut, am o problemă: am pus două puncte (:) la finalul liniei în Python, dar tot îmi dă eroare de sintaxă. Unde este eroarea?",code_help,1
+"Codul meu are un bug: am o listă care pare goală când o printez, deși am folosit 'append' de mai multe ori. Îmi poți explica de ce?",code_help,1
+"Salut, am o problemă: ce înseamnă 'NameError: name 'x' is not defined' dacă am declarat variabila mai sus? E frustrant, ajutor!",code_help,1
+"Salut, am o problemă: am făcut un sistem de vieți, dar scade câte 10 vieți deodată în loc de una singură. Ce am greșit?",code_help,1
+"Întrebare despre cod: python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Nu găsesc rezolvarea pe Google.",code_help,2
+"M-am blocat aici: am o listă care pare goală când o printez, deși am folosit 'append' de mai multe ori. Cum pot repara asta?",code_help,1
+"Ajutor cu eroarea asta: de ce îmi dă crash programul în C când încerc să printez un șir de caractere lung? E frustrant, ajutor!",code_help,1
+"Ajutor cu eroarea asta: am încercat să folosesc 'free()' pe un pointer, dar programul crapă cu mesajul 'double free or corruption'. Unde este eroarea?",code_help,2
+"Întrebare despre cod: în loc de text, în consolă apar doar niște pătrățele și simboluri ciudate. Mersi anticipat!",code_help,1
+Nu înțeleg de ce rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Mersi anticipat!,code_help,1
+Codul meu are un bug: cum scapi de 'expected expression' în C la un bloc 'switch-case'? Unde este eroarea?,code_help,1
+"Ajutor cu eroarea asta: media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Îmi poți explica de ce?",code_help,1
+"Întrebare despre cod: python îmi zice 'unindent does not match any outer indentation level'. Cum găsesc unde e greșeala? E frustrant, ajutor!",code_help,1
+"Ajutor cu eroarea asta: de ce fundalul se schimbă la nivelul următor înainte să termin toate sarcinile? E frustrant, ajutor!",code_help,1
+"Codul meu are un bug: iau un 'segfault' (segmentation fault) exact când încerc să atribui o valoare în array, deși am alocat memorie. Unde este eroarea?",code_help,2
+"De ce se întâmplă că am făcut un sistem de vieți, dar scade câte 10 vieți deodată în loc de una singură. Mersi anticipat!",code_help,1
+De ce se întâmplă că ce înseamnă 'NameError: name 'x' is not defined' dacă am declarat variabila mai sus? Ce am greșit?,code_help,1
+"Ajutor cu eroarea asta: am pus un 'if' să verifice egalitatea, dar codul intră mereu pe ramura 'else' indiferent de ce introduc. Mersi anticipat!",code_help,1
+"Codul meu are un bug: iau un 'segfault' (segmentation fault) exact când încerc să atribui o valoare în array, deși am alocat memorie. Ce am greșit?",code_help,2
+"Am scris codul acesta și am o problemă cu un pointer care devine NULL după ce ies dintr-o buclă, deși nu l-am modificat. Ce am greșit?",code_help,2
+"Întrebare despre cod: am încercat să folosesc 'free()' pe un pointer, dar programul crapă cu mesajul 'double free or corruption'. E frustrant, ajutor!",code_help,2
+"M-am blocat aici: de ce bucla 'while' nu se oprește niciodată, deși am incrementat variabila de control? Poți să te uiți pe codul meu?",code_help,1
+"Întrebare despre cod: am făcut un sistem de vieți, dar scade câte 10 vieți deodată în loc de una singură. Cum pot repara asta?",code_help,1
+Am scris codul acesta și personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Mersi anticipat!,code_help,0
+"M-am blocat aici: am uitat o paranteză undeva, dar compilatorul îmi arată eroarea la o linie complet diferită. Unde este eroarea?",code_help,1
+"Salut, am o problemă: am o listă care pare goală când o printez, deși am folosit 'append' de mai multe ori. Cum pot repara asta?",code_help,1
+"M-am blocat aici: python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? E frustrant, ajutor!",code_help,2
+"Codul meu are un bug: python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Poți să te uiți pe codul meu?",code_help,2
+"Ajutor cu eroarea asta: am încercat să folosesc 'free()' pe un pointer, dar programul crapă cu mesajul 'double free or corruption'. Nu găsesc rezolvarea pe Google.",code_help,2
+Am scris codul acesta și personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Ce am greșit?,code_help,0
+De ce se întâmplă că de ce cronometrul meu merge invers sau se blochează la secundele de început? Unde este eroarea?,code_help,1
+M-am blocat aici: rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Nu găsesc rezolvarea pe Google.,code_help,1
+"Salut, am o problemă: am încercat să folosesc 'free()' pe un pointer, dar programul crapă cu mesajul 'double free or corruption'. Unde este eroarea?",code_help,2
+"M-am blocat aici: am eroarea 'invalid syntax' chiar la începutul fișierului, dar codul pare corect. Îmi poți explica de ce?",code_help,1
+Întrebare despre cod: codul meu sare peste a doua citire de la tastatură și trece direct la final. Îmi poți explica de ce?,code_help,1
+Ajutor cu eroarea asta: rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Îmi poți explica de ce?,code_help,1
+"Salut, am o problemă: consola afișează 'Memory Error' imediat după ce introduc datele de intrare. Ce înseamnă? Ce am greșit?",code_help,2
+"Codul meu are un bug: am pus blocul 'atunci când se dă clic pe acest sprite', dar nu se întâmplă nimic când apăs. Mersi anticipat!",code_help,0
+"Întrebare despre cod: am pus două puncte (:) la finalul liniei în Python, dar tot îmi dă eroare de sintaxă. Poți să te uiți pe codul meu?",code_help,1
+"Ajutor cu eroarea asta: media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Cum pot repara asta?",code_help,1
+"Salut, am o problemă: clona sprite-ului meu nu primește mesajul trimis prin 'broadcast', restul personajelor da. Ce am greșit?",code_help,0
+"Am scris codul acesta și de ce bucla 'while' nu se oprește niciodată, deși am incrementat variabila de control? Unde este eroarea?",code_help,1
+Întrebare despre cod: de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? Ce am greșit?,code_help,1
+"Ajutor cu eroarea asta: în loc de text, în consolă apar doar niște pătrățele și simboluri ciudate. Nu găsesc rezolvarea pe Google.",code_help,1
+Nu înțeleg de ce cum scapi de 'expected expression' în C la un bloc 'switch-case'? Unde este eroarea?,code_help,1
+Codul meu are un bug: rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Ce am greșit?,code_help,1
+"M-am blocat aici: vreau să fac personajul să sară, dar el pur și simplu zboară în sus fără să mai cadă. Poți să te uiți pe codul meu?",code_help,0
+"Am scris codul acesta și am pus blocul 'atunci când se dă clic pe acest sprite', dar nu se întâmplă nimic când apăs. Mersi anticipat!",code_help,0
+"Ajutor cu eroarea asta: de ce bucla 'while' nu se oprește niciodată, deși am incrementat variabila de control? Cum pot repara asta?",code_help,1
+"M-am blocat aici: media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Ce am greșit?",code_help,1
+Am scris codul acesta și de ce fundalul se schimbă la nivelul următor înainte să termin toate sarcinile? Mersi anticipat!,code_help,1
+De ce se întâmplă că python îmi zice 'unindent does not match any outer indentation level'. Cum găsesc unde e greșeala? Poți să te uiți pe codul meu?,code_help,1
+"Am scris codul acesta și am pus blocul 'atunci când se dă clic pe acest sprite', dar nu se întâmplă nimic când apăs. E frustrant, ajutor!",code_help,0
+"Întrebare despre cod: media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? E frustrant, ajutor!",code_help,1
+"Ajutor cu eroarea asta: în loc de text, în consolă apar doar niște pătrățele și simboluri ciudate. Îmi poți explica de ce?",code_help,1
+Întrebare despre cod: codul meu sare peste a doua citire de la tastatură și trece direct la final. Cum pot repara asta?,code_help,1
+Nu înțeleg de ce de ce primesc eroarea 'stack overflow' chiar dacă funcția mea are o condiție de oprire? Ce am greșit?,code_help,2
+"Am scris codul acesta și de ce bucla 'while' nu se oprește niciodată, deși am incrementat variabila de control? Mersi anticipat!",code_help,1
+"Ajutor cu eroarea asta: am făcut un sistem de vieți, dar scade câte 10 vieți deodată în loc de una singură. Îmi poți explica de ce?",code_help,1
+Codul meu are un bug: rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Mersi anticipat!,code_help,1
+"Am scris codul acesta și am făcut un sistem de vieți, dar scade câte 10 vieți deodată în loc de una singură. Îmi poți explica de ce?",code_help,1
+"Salut, am o problemă: am o listă care pare goală când o printez, deși am folosit 'append' de mai multe ori. Mersi anticipat!",code_help,1
+"Întrebare despre cod: am o problemă cu un pointer care devine NULL după ce ies dintr-o buclă, deși nu l-am modificat. E frustrant, ajutor!",code_help,2
+"Nu înțeleg de ce iau un 'segfault' (segmentation fault) exact când încerc să atribui o valoare în array, deși am alocat memorie. Poți să te uiți pe codul meu?",code_help,2
+De ce se întâmplă că de ce variabila mea globală nu se schimbă deloc după ce apelez funcția în Python? Îmi poți explica de ce?,code_help,1
+"Ajutor cu eroarea asta: iau un 'segfault' (segmentation fault) exact când încerc să atribui o valoare în array, deși am alocat memorie. Ce am greșit?",code_help,2
+"De ce se întâmplă că clona sprite-ului meu nu primește mesajul trimis prin 'broadcast', restul personajelor da. Mersi anticipat!",code_help,0
+Am scris codul acesta și consola afișează 'Memory Error' imediat după ce introduc datele de intrare. Ce înseamnă? Poți să te uiți pe codul meu?,code_help,2
+"Nu înțeleg de ce am uitat o paranteză undeva, dar compilatorul îmi arată eroarea la o linie complet diferită. Nu găsesc rezolvarea pe Google.",code_help,1
+Am scris codul acesta și de ce variabila mea globală nu se schimbă deloc după ce apelez funcția în Python? Ce am greșit?,code_help,1
+Am scris codul acesta și consola afișează 'Memory Error' imediat după ce introduc datele de intrare. Ce înseamnă? Îmi poți explica de ce?,code_help,2
+"De ce se întâmplă că am o listă care pare goală când o printez, deși am folosit 'append' de mai multe ori. Poți să te uiți pe codul meu?",code_help,1
+"Salut, am o problemă: iau un 'segfault' (segmentation fault) exact când încerc să atribui o valoare în array, deși am alocat memorie. Poți să te uiți pe codul meu?",code_help,2
+"Am scris codul acesta și am o listă care pare goală când o printez, deși am folosit 'append' de mai multe ori. Poți să te uiți pe codul meu?",code_help,1
+Codul meu are un bug: codul meu sare peste a doua citire de la tastatură și trece direct la final. Poți să te uiți pe codul meu?,code_help,1
+Codul meu are un bug: de ce cronometrul meu merge invers sau se blochează la secundele de început? Ce am greșit?,code_help,1
+"De ce se întâmplă că clona sprite-ului meu nu primește mesajul trimis prin 'broadcast', restul personajelor da. Ce am greșit?",code_help,0
+"Nu înțeleg de ce de ce primesc 'TypeError' când încerc să unesc un șir de caractere cu un număr? E frustrant, ajutor!",code_help,1
+"De ce se întâmplă că am pus două puncte (:) la finalul liniei în Python, dar tot îmi dă eroare de sintaxă. Îmi poți explica de ce?",code_help,1
+"Salut, am o problemă: de ce îmi dă crash programul în C când încerc să printez un șir de caractere lung? Îmi poți explica de ce?",code_help,1
+De ce se întâmplă că de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? Nu găsesc rezolvarea pe Google.,code_help,1
+"Întrebare despre cod: vreau să fac personajul să sară, dar el pur și simplu zboară în sus fără să mai cadă. E frustrant, ajutor!",code_help,0
+Întrebare despre cod: python îmi zice 'unindent does not match any outer indentation level'. Cum găsesc unde e greșeala? Nu găsesc rezolvarea pe Google.,code_help,1
+"Codul meu are un bug: am pus un 'if' să verifice egalitatea, dar codul intră mereu pe ramura 'else' indiferent de ce introduc. Îmi poți explica de ce?",code_help,1
+Nu înțeleg de ce de ce variabila mea globală nu se schimbă deloc după ce apelez funcția în Python? Îmi poți explica de ce?,code_help,1
+"Salut, am o problemă: am pus două puncte (:) la finalul liniei în Python, dar tot îmi dă eroare de sintaxă. Poți să te uiți pe codul meu?",code_help,1
+"Întrebare despre cod: am eroarea 'invalid syntax' chiar la începutul fișierului, dar codul pare corect. Mersi anticipat!",code_help,1
+"M-am blocat aici: am uitat o paranteză undeva, dar compilatorul îmi arată eroarea la o linie complet diferită. E frustrant, ajutor!",code_help,1
+"Salut, am o problemă: de ce fundalul se schimbă la nivelul următor înainte să termin toate sarcinile? Ce am greșit?",code_help,1
+"Am scris codul acesta și în loc de text, în consolă apar doar niște pătrățele și simboluri ciudate. Îmi poți explica de ce?",code_help,1
+Am scris codul acesta și de ce primesc eroarea 'stack overflow' chiar dacă funcția mea are o condiție de oprire? Nu găsesc rezolvarea pe Google.,code_help,2
+"De ce se întâmplă că în loc de text, în consolă apar doar niște pătrățele și simboluri ciudate. Ce am greșit?",code_help,1
+"Întrebare despre cod: am încercat să folosesc 'free()' pe un pointer, dar programul crapă cu mesajul 'double free or corruption'. Poți să te uiți pe codul meu?",code_help,2
+"De ce se întâmplă că am pus două puncte (:) la finalul liniei în Python, dar tot îmi dă eroare de sintaxă. Unde este eroarea?",code_help,1
+Am scris codul acesta și personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Unde este eroarea?,code_help,0
+"Codul meu are un bug: am încercat să folosesc 'free()' pe un pointer, dar programul crapă cu mesajul 'double free or corruption'. Cum pot repara asta?",code_help,2
+"De ce se întâmplă că clona sprite-ului meu nu primește mesajul trimis prin 'broadcast', restul personajelor da. Cum pot repara asta?",code_help,0
+Am scris codul acesta și rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Poți să te uiți pe codul meu?,code_help,1
+"Salut, am o problemă: personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Unde este eroarea?",code_help,0
+Nu înțeleg de ce de ce cronometrul meu merge invers sau se blochează la secundele de început? Unde este eroarea?,code_help,1
+"Codul meu are un bug: vreau să fac personajul să sară, dar el pur și simplu zboară în sus fără să mai cadă. Mersi anticipat!",code_help,0
+Ajutor cu eroarea asta: python îmi zice 'unindent does not match any outer indentation level'. Cum găsesc unde e greșeala? Cum pot repara asta?,code_help,1
+"Salut, am o problemă: am încercat să folosesc 'free()' pe un pointer, dar programul crapă cu mesajul 'double free or corruption'. Îmi poți explica de ce?",code_help,2
+"Nu înțeleg de ce de ce bucla 'while' nu se oprește niciodată, deși am incrementat variabila de control? Mersi anticipat!",code_help,1
+Ajutor cu eroarea asta: rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Unde este eroarea?,code_help,1
+"M-am blocat aici: am pus două puncte (:) la finalul liniei în Python, dar tot îmi dă eroare de sintaxă. Unde este eroarea?",code_help,1
+"Salut, am o problemă: python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Nu găsesc rezolvarea pe Google.",code_help,2
+Ajutor cu eroarea asta: consola afișează 'Memory Error' imediat după ce introduc datele de intrare. Ce înseamnă? Mersi anticipat!,code_help,2
+Am scris codul acesta și de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? Ce am greșit?,code_help,1
+"Codul meu are un bug: vreau să fac personajul să sară, dar el pur și simplu zboară în sus fără să mai cadă. Cum pot repara asta?",code_help,0
+Ajutor cu eroarea asta: de ce primesc 'TypeError' când încerc să unesc un șir de caractere cu un număr? Nu găsesc rezolvarea pe Google.,code_help,1
+"De ce se întâmplă că în loc de text, în consolă apar doar niște pătrățele și simboluri ciudate. Cum pot repara asta?",code_help,1
+"Salut, am o problemă: programul meu se închide instantaneu când ajunge la funcția de calcul, fără să dea niciun mesaj. Cum pot repara asta?",code_help,1
+Întrebare despre cod: de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? Poți să te uiți pe codul meu?,code_help,1
+"Nu înțeleg de ce am uitat o paranteză undeva, dar compilatorul îmi arată eroarea la o linie complet diferită. Îmi poți explica de ce?",code_help,1
+"De ce se întâmplă că am pus blocul 'atunci când se dă clic pe acest sprite', dar nu se întâmplă nimic când apăs. Nu găsesc rezolvarea pe Google.",code_help,0
+"Nu înțeleg de ce de ce bucla 'while' nu se oprește niciodată, deși am incrementat variabila de control? Unde este eroarea?",code_help,1
+Nu înțeleg de ce de ce cronometrul meu merge invers sau se blochează la secundele de început? Îmi poți explica de ce?,code_help,1
+Am scris codul acesta și cum scapi de 'expected expression' în C la un bloc 'switch-case'? Poți să te uiți pe codul meu?,code_help,1
+"Întrebare despre cod: de ce bucla 'while' nu se oprește niciodată, deși am incrementat variabila de control? Ce am greșit?",code_help,1
+"Ajutor cu eroarea asta: am pus un 'if' să verifice egalitatea, dar codul intră mereu pe ramura 'else' indiferent de ce introduc. Unde este eroarea?",code_help,1
+"Am scris codul acesta și am o listă care pare goală când o printez, deși am folosit 'append' de mai multe ori. Ce am greșit?",code_help,1
+Nu înțeleg de ce consola afișează 'Memory Error' imediat după ce introduc datele de intrare. Ce înseamnă? Cum pot repara asta?,code_help,2
+"De ce se întâmplă că am încercat să folosesc 'free()' pe un pointer, dar programul crapă cu mesajul 'double free or corruption'. Mersi anticipat!",code_help,2
+"M-am blocat aici: python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Poți să te uiți pe codul meu?",code_help,2
+Întrebare despre cod: de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? Unde este eroarea?,code_help,1
+Ajutor cu eroarea asta: personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Îmi poți explica de ce?,code_help,0
+"Ajutor cu eroarea asta: am pus blocul 'atunci când se dă clic pe acest sprite', dar nu se întâmplă nimic când apăs. Îmi poți explica de ce?",code_help,0
+"Am scris codul acesta și muzica de fundal se suprapune de mai multe ori și se aude foarte distorsionat. E frustrant, ajutor!",code_help,1
+"Salut, am o problemă: media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Îmi poți explica de ce?",code_help,1
+"De ce se întâmplă că am făcut un sistem de vieți, dar scade câte 10 vieți deodată în loc de una singură. E frustrant, ajutor!",code_help,1
+"Salut, am o problemă: personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Cum pot repara asta?",code_help,0
+Ajutor cu eroarea asta: de ce primesc eroarea 'stack overflow' chiar dacă funcția mea are o condiție de oprire? Unde este eroarea?,code_help,2
+"Salut, am o problemă: python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Mersi anticipat!",code_help,2
+De ce se întâmplă că personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Nu găsesc rezolvarea pe Google.,code_help,0
+Nu înțeleg de ce de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? Poți să te uiți pe codul meu?,code_help,1
+"Salut, am o problemă: de ce fundalul se schimbă la nivelul următor înainte să termin toate sarcinile? Nu găsesc rezolvarea pe Google.",code_help,1
+"Întrebare despre cod: consola afișează 'Memory Error' imediat după ce introduc datele de intrare. Ce înseamnă? E frustrant, ajutor!",code_help,2
+"M-am blocat aici: de ce bucla 'while' nu se oprește niciodată, deși am incrementat variabila de control? Îmi poți explica de ce?",code_help,1
+"Nu înțeleg de ce programul meu se închide instantaneu când ajunge la funcția de calcul, fără să dea niciun mesaj. E frustrant, ajutor!",code_help,1
+"Salut, am o problemă: iau un 'segfault' (segmentation fault) exact când încerc să atribui o valoare în array, deși am alocat memorie. Unde este eroarea?",code_help,2
+"Întrebare despre cod: vreau să fac personajul să sară, dar el pur și simplu zboară în sus fără să mai cadă. Nu găsesc rezolvarea pe Google.",code_help,0
+"Ajutor cu eroarea asta: am o problemă cu un pointer care devine NULL după ce ies dintr-o buclă, deși nu l-am modificat. Nu găsesc rezolvarea pe Google.",code_help,2
+"Codul meu are un bug: am uitat o paranteză undeva, dar compilatorul îmi arată eroarea la o linie complet diferită. Unde este eroarea?",code_help,1
+"Salut, am o problemă: rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Cum pot repara asta?",code_help,1
+"De ce se întâmplă că muzica de fundal se suprapune de mai multe ori și se aude foarte distorsionat. E frustrant, ajutor!",code_help,1
+Am scris codul acesta și de ce îmi dă crash programul în C când încerc să printez un șir de caractere lung? Cum pot repara asta?,code_help,1
+Ajutor cu eroarea asta: de ce primesc eroarea 'stack overflow' chiar dacă funcția mea are o condiție de oprire? Poți să te uiți pe codul meu?,code_help,2
+"Am scris codul acesta și consola afișează 'Memory Error' imediat după ce introduc datele de intrare. Ce înseamnă? E frustrant, ajutor!",code_help,2
+"Salut, am o problemă: cum scapi de 'expected expression' în C la un bloc 'switch-case'? Poți să te uiți pe codul meu?",code_help,1
+"Codul meu are un bug: am pus blocul 'atunci când se dă clic pe acest sprite', dar nu se întâmplă nimic când apăs. Cum pot repara asta?",code_help,0
+Nu înțeleg de ce personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Cum pot repara asta?,code_help,0
+De ce se întâmplă că de ce primesc eroarea 'stack overflow' chiar dacă funcția mea are o condiție de oprire? Cum pot repara asta?,code_help,2
+"Ajutor cu eroarea asta: am pus blocul 'atunci când se dă clic pe acest sprite', dar nu se întâmplă nimic când apăs. Mersi anticipat!",code_help,0
+"Codul meu are un bug: de ce bucla 'while' nu se oprește niciodată, deși am incrementat variabila de control? Nu găsesc rezolvarea pe Google.",code_help,1
+"Codul meu are un bug: am pus un 'if' să verifice egalitatea, dar codul intră mereu pe ramura 'else' indiferent de ce introduc. Unde este eroarea?",code_help,1
+"Codul meu are un bug: media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Mersi anticipat!",code_help,1
+"Codul meu are un bug: de ce cronometrul meu merge invers sau se blochează la secundele de început? E frustrant, ajutor!",code_help,1
+"Întrebare despre cod: am eroarea 'invalid syntax' chiar la începutul fișierului, dar codul pare corect. Ce am greșit?",code_help,1
+"Întrebare despre cod: am o problemă cu un pointer care devine NULL după ce ies dintr-o buclă, deși nu l-am modificat. Ce am greșit?",code_help,2
+Întrebare despre cod: personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Poți să te uiți pe codul meu?,code_help,0
+Ajutor cu eroarea asta: muzica de fundal se suprapune de mai multe ori și se aude foarte distorsionat. Mersi anticipat!,code_help,1
+"Ajutor cu eroarea asta: python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Ce am greșit?",code_help,2
+Întrebare despre cod: rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Unde este eroarea?,code_help,1
+Întrebare despre cod: consola afișează 'Memory Error' imediat după ce introduc datele de intrare. Ce înseamnă? Nu găsesc rezolvarea pe Google.,code_help,2
+Codul meu are un bug: de ce îmi dă crash programul în C când încerc să printez un șir de caractere lung? Ce am greșit?,code_help,1
+Ajutor cu eroarea asta: cum scapi de 'expected expression' în C la un bloc 'switch-case'? Ce am greșit?,code_help,1
+"Salut, am o problemă: am făcut un sistem de vieți, dar scade câte 10 vieți deodată în loc de una singură. Cum pot repara asta?",code_help,1
+Întrebare despre cod: de ce primesc 'TypeError' când încerc să unesc un șir de caractere cu un număr? Mersi anticipat!,code_help,1
+Nu înțeleg de ce rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Cum pot repara asta?,code_help,1
+"Nu înțeleg de ce personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. E frustrant, ajutor!",code_help,0
+"Salut, am o problemă: clona sprite-ului meu nu primește mesajul trimis prin 'broadcast', restul personajelor da. Mersi anticipat!",code_help,0
+"Codul meu are un bug: media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Cum pot repara asta?",code_help,1
+"Ajutor cu eroarea asta: clona sprite-ului meu nu primește mesajul trimis prin 'broadcast', restul personajelor da. E frustrant, ajutor!",code_help,0
+"Am scris codul acesta și python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Îmi poți explica de ce?",code_help,2
+M-am blocat aici: de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? Ce am greșit?,code_help,1
+M-am blocat aici: de ce fundalul se schimbă la nivelul următor înainte să termin toate sarcinile? Ce am greșit?,code_help,1
+"De ce se întâmplă că de ce fundalul se schimbă la nivelul următor înainte să termin toate sarcinile? E frustrant, ajutor!",code_help,1
+"Întrebare despre cod: am o problemă cu un pointer care devine NULL după ce ies dintr-o buclă, deși nu l-am modificat. Mersi anticipat!",code_help,2
+"Ajutor cu eroarea asta: vreau să fac personajul să sară, dar el pur și simplu zboară în sus fără să mai cadă. Mersi anticipat!",code_help,0
+Am scris codul acesta și cum scapi de 'expected expression' în C la un bloc 'switch-case'? Mersi anticipat!,code_help,1
+Nu înțeleg de ce de ce primesc 'TypeError' când încerc să unesc un șir de caractere cu un număr? Îmi poți explica de ce?,code_help,1
+"Salut, am o problemă: am o problemă cu un pointer care devine NULL după ce ies dintr-o buclă, deși nu l-am modificat. Cum pot repara asta?",code_help,2
+"De ce se întâmplă că media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Nu găsesc rezolvarea pe Google.",code_help,1
+M-am blocat aici: cum scapi de 'expected expression' în C la un bloc 'switch-case'? Cum pot repara asta?,code_help,1
+Codul meu are un bug: rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Unde este eroarea?,code_help,1
+"M-am blocat aici: în loc de text, în consolă apar doar niște pătrățele și simboluri ciudate. Ce am greșit?",code_help,1
+"Salut, am o problemă: muzica de fundal se suprapune de mai multe ori și se aude foarte distorsionat. Mersi anticipat!",code_help,1
+"De ce se întâmplă că python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Îmi poți explica de ce?",code_help,2
+"Am scris codul acesta și python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Cum pot repara asta?",code_help,2
+Nu înțeleg de ce de ce variabila mea globală nu se schimbă deloc după ce apelez funcția în Python? Mersi anticipat!,code_help,1
+M-am blocat aici: ce înseamnă 'NameError: name 'x' is not defined' dacă am declarat variabila mai sus? Nu găsesc rezolvarea pe Google.,code_help,1
+M-am blocat aici: de ce primesc eroarea 'stack overflow' chiar dacă funcția mea are o condiție de oprire? Mersi anticipat!,code_help,2
+"De ce se întâmplă că de ce bucla 'while' nu se oprește niciodată, deși am incrementat variabila de control? Mersi anticipat!",code_help,1
+"Salut, am o problemă: programul meu se închide instantaneu când ajunge la funcția de calcul, fără să dea niciun mesaj. Poți să te uiți pe codul meu?",code_help,1
+Nu înțeleg de ce muzica de fundal se suprapune de mai multe ori și se aude foarte distorsionat. Cum pot repara asta?,code_help,1
+De ce se întâmplă că de ce primesc 'TypeError' când încerc să unesc un șir de caractere cu un număr? Îmi poți explica de ce?,code_help,1
+Nu înțeleg de ce de ce îmi dă crash programul în C când încerc să printez un șir de caractere lung? Poți să te uiți pe codul meu?,code_help,1
+"Ajutor cu eroarea asta: media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Unde este eroarea?",code_help,1
+"Salut, am o problemă: de ce cronometrul meu merge invers sau se blochează la secundele de început? Îmi poți explica de ce?",code_help,1
+"Codul meu are un bug: de ce bucla 'while' nu se oprește niciodată, deși am incrementat variabila de control? Mersi anticipat!",code_help,1
+"Salut, am o problemă: de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? Îmi poți explica de ce?",code_help,1
+"Întrebare despre cod: am pus blocul 'atunci când se dă clic pe acest sprite', dar nu se întâmplă nimic când apăs. Ce am greșit?",code_help,0
+M-am blocat aici: de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? Poți să te uiți pe codul meu?,code_help,1
+"Ajutor cu eroarea asta: am eroarea 'invalid syntax' chiar la începutul fișierului, dar codul pare corect. E frustrant, ajutor!",code_help,1
+"M-am blocat aici: de ce primesc 'TypeError' când încerc să unesc un șir de caractere cu un număr? E frustrant, ajutor!",code_help,1
+"Nu înțeleg de ce python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Unde este eroarea?",code_help,2
+Ajutor cu eroarea asta: ce înseamnă 'NameError: name 'x' is not defined' dacă am declarat variabila mai sus? Mersi anticipat!,code_help,1
+"Salut, am o problemă: am făcut un sistem de vieți, dar scade câte 10 vieți deodată în loc de una singură. Îmi poți explica de ce?",code_help,1
+"Codul meu are un bug: am încercat să folosesc 'free()' pe un pointer, dar programul crapă cu mesajul 'double free or corruption'. Nu găsesc rezolvarea pe Google.",code_help,2
+"Întrebare despre cod: am pus blocul 'atunci când se dă clic pe acest sprite', dar nu se întâmplă nimic când apăs. Nu găsesc rezolvarea pe Google.",code_help,0
+Nu înțeleg de ce codul meu sare peste a doua citire de la tastatură și trece direct la final. Unde este eroarea?,code_help,1
+"De ce se întâmplă că am făcut un sistem de vieți, dar scade câte 10 vieți deodată în loc de una singură. Ce am greșit?",code_help,1
+Ajutor cu eroarea asta: de ce variabila mea globală nu se schimbă deloc după ce apelez funcția în Python? Ce am greșit?,code_help,1
+"Am scris codul acesta și media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Unde este eroarea?",code_help,1
+"Am scris codul acesta și am făcut un sistem de vieți, dar scade câte 10 vieți deodată în loc de una singură. Cum pot repara asta?",code_help,1
+Întrebare despre cod: de ce fundalul se schimbă la nivelul următor înainte să termin toate sarcinile? Unde este eroarea?,code_help,1
+"De ce se întâmplă că am pus două puncte (:) la finalul liniei în Python, dar tot îmi dă eroare de sintaxă. Nu găsesc rezolvarea pe Google.",code_help,1
+M-am blocat aici: codul meu sare peste a doua citire de la tastatură și trece direct la final. Mersi anticipat!,code_help,1
+"M-am blocat aici: în loc de text, în consolă apar doar niște pătrățele și simboluri ciudate. Nu găsesc rezolvarea pe Google.",code_help,1
+De ce se întâmplă că de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? Poți să te uiți pe codul meu?,code_help,1
+"Întrebare despre cod: ce înseamnă 'NameError: name 'x' is not defined' dacă am declarat variabila mai sus? E frustrant, ajutor!",code_help,1
+"M-am blocat aici: iau un 'segfault' (segmentation fault) exact când încerc să atribui o valoare în array, deși am alocat memorie. Poți să te uiți pe codul meu?",code_help,2
+Am scris codul acesta și personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Poți să te uiți pe codul meu?,code_help,0
+"Codul meu are un bug: am eroarea 'invalid syntax' chiar la începutul fișierului, dar codul pare corect. Ce am greșit?",code_help,1
+"Nu înțeleg de ce am pus blocul 'atunci când se dă clic pe acest sprite', dar nu se întâmplă nimic când apăs. Unde este eroarea?",code_help,0
+"Am scris codul acesta și de ce primesc eroarea 'stack overflow' chiar dacă funcția mea are o condiție de oprire? E frustrant, ajutor!",code_help,2
+Ajutor cu eroarea asta: de ce variabila mea globală nu se schimbă deloc după ce apelez funcția în Python? Unde este eroarea?,code_help,1
+De ce se întâmplă că de ce cronometrul meu merge invers sau se blochează la secundele de început? Cum pot repara asta?,code_help,1
+"Am scris codul acesta și programul meu se închide instantaneu când ajunge la funcția de calcul, fără să dea niciun mesaj. Îmi poți explica de ce?",code_help,1
+De ce se întâmplă că cum scapi de 'expected expression' în C la un bloc 'switch-case'? Mersi anticipat!,code_help,1
+"Ajutor cu eroarea asta: am o listă care pare goală când o printez, deși am folosit 'append' de mai multe ori. E frustrant, ajutor!",code_help,1
+"Nu înțeleg de ce de ce îmi dă eroare la 'printf' în C dacă nu includ 'stdio.h'? E frustrant, ajutor!",code_help,1
+"Salut, am o problemă: de ce îmi dă crash programul în C când încerc să printez un șir de caractere lung? Nu găsesc rezolvarea pe Google.",code_help,1
+De ce se întâmplă că cum scapi de 'expected expression' în C la un bloc 'switch-case'? Ce am greșit?,code_help,1
+"De ce se întâmplă că am pus un 'if' să verifice egalitatea, dar codul intră mereu pe ramura 'else' indiferent de ce introduc. Nu găsesc rezolvarea pe Google.",code_help,1
+"Nu înțeleg de ce python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Cum pot repara asta?",code_help,2
+Codul meu are un bug: de ce fundalul se schimbă la nivelul următor înainte să termin toate sarcinile? Nu găsesc rezolvarea pe Google.,code_help,1
+M-am blocat aici: codul meu sare peste a doua citire de la tastatură și trece direct la final. Poți să te uiți pe codul meu?,code_help,1
+"Codul meu are un bug: ce înseamnă 'NameError: name 'x' is not defined' dacă am declarat variabila mai sus? E frustrant, ajutor!",code_help,1
+"Codul meu are un bug: python îmi dă 'RecursionError' la o funcție de căutare binară, de ce? Unde este eroarea?",code_help,2
+M-am blocat la faza asta: de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Orice sugestie e binevenită.,code_help,1
+"Ajutor, vă rog! de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Orice sugestie e binevenită.",code_help,1
+"De ce apare mesajul am setat direcția la 90 de grade, dar personajul meu merge în jos. Vreau să înțeleg unde greșesc.",code_help,0
+Întâmpin o dificultate: de ce 'sizeof' returnează o valoare diferită pe sistemul meu față de exemplul din curs? Mersi mult pentru timp!,code_help,1
+"Îmi puteți spune de ce am un memory leak raportat de Valgrind, dar am dat free la toate variabilele principale. Se poate rezolva fără a rescrie tot?",code_help,2
+"Am un bug ciudat: am setat direcția la 90 de grade, dar personajul meu merge în jos. Este pentru un proiect școlar.",code_help,0
+"M-am blocat la faza asta: am setat direcția la 90 de grade, dar personajul meu merge în jos. Sunt începător și mă depășește.",code_help,0
+Nu înțeleg eroarea asta: cum fac să nu se mai suprapună sunetele în Scratch când apăs repede pe clape? Sunt începător și mă depășește.,code_help,0
+De ce apare mesajul primesc 'Bus error: 10' pe Mac când încerc să accesez un element din structură. Se poate rezolva fără a rescrie tot?,code_help,2
+Îmi puteți spune de ce compilatorul spune 'file not found' pentru un header pe care l-am creat în același folder. Nu știu ce să-i mai fac.,code_help,1
+M-am blocat la faza asta: de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Nu știu ce să-i mai fac.,code_help,1
+"Nu înțeleg eroarea asta: am un memory leak raportat de Valgrind, dar am dat free la toate variabilele principale. Sunt începător și mă depășește.",code_help,2
+"M-am blocat la faza asta: am făcut un inamic care să urmărească jucătorul, dar merge cu spatele. Nu știu ce să-i mai fac.",code_help,1
+"De ce apare mesajul am făcut un inamic care să urmărească jucătorul, dar merge cu spatele. Se poate rezolva fără a rescrie tot?",code_help,1
+M-am blocat la faza asta: am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Nu știu ce să-i mai fac.,code_help,2
+Nu înțeleg eroarea asta: de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Am verificat totul de trei ori.,code_help,1
+Îmi puteți spune de ce de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Nu știu ce să-i mai fac.,code_help,1
+Am un bug ciudat: am o eroare 'permission denied' când încerc să scriu într-o fișier text din Python. Nu știu ce să-i mai fac.,code_help,1
+Îmi puteți spune de ce de ce 'realloc' îmi dă crash dacă dimensiunea nouă este mai mică decât cea veche? Vreau să înțeleg unde greșesc.,code_help,2
+"Am un bug ciudat: am făcut un inamic care să urmărească jucătorul, dar merge cu spatele. Sunt începător și mă depășește.",code_help,1
+Îmi puteți spune de ce de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Mersi mult pentru timp!,code_help,1
+"Ajutor, vă rog! de ce blocul 'când primesc mesaj' se execută de două ori la rând? Este pentru un proiect școlar.",code_help,1
+"Ajutor, vă rog! de ce debug-erul trece peste liniile de cod fără să se oprească la breakpoint? Este pentru un proiect școlar.",code_help,1
+"Întâmpin o dificultate: am setat direcția la 90 de grade, dar personajul meu merge în jos. Orice sugestie e binevenită.",code_help,0
+De ce apare mesajul compilatorul spune 'file not found' pentru un header pe care l-am creat în același folder. Se poate rezolva fără a rescrie tot?,code_help,1
+Îmi puteți spune de ce de ce debug-erul trece peste liniile de cod fără să se oprească la breakpoint? Se poate rezolva fără a rescrie tot?,code_help,1
+"Ajutor, vă rog! personajul meu tremură când atinge un obstacol și nu se mai oprește din mișcare. Am verificat totul de trei ori.",code_help,0
+Îmi puteți spune de ce cum verific dacă un pointer este valid înainte de a-l folosi pentru a evita crash-ul? Sunt începător și mă depășește.,code_help,2
+Am un bug ciudat: încerc să sortez o listă care conține și numere și string-uri și primesc TypeError. Orice sugestie e binevenită.,code_help,1
+M-am blocat la faza asta: de ce clona mea nu dispare deși am pus blocul 'șterge această clonă' la final. Am verificat totul de trei ori.,code_help,0
+Am un bug ciudat: primesc 'Bus error: 10' pe Mac când încerc să accesez un element din structură. Orice sugestie e binevenită.,code_help,2
+"Am un bug ciudat: am definit un macro, dar rezultatul calculului este greșit din cauza lipsei parantezelor. Nu știu ce să-i mai fac.",code_help,1
+Codul meu se comportă ciudat: încerc să sortez o listă care conține și numere și string-uri și primesc TypeError. Nu știu ce să-i mai fac.,code_help,1
+Întâmpin o dificultate: personajul meu tremură când atinge un obstacol și nu se mai oprește din mișcare. Am verificat totul de trei ori.,code_help,0
+Am un bug ciudat: de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Este pentru un proiect școlar.,code_help,1
+Întâmpin o dificultate: de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Este pentru un proiect școlar.,code_help,1
+"Întâmpin o dificultate: de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Vreau să înțeleg unde greșesc.",code_help,1
+Nu înțeleg eroarea asta: personajul meu tremură când atinge un obstacol și nu se mai oprește din mișcare. Am verificat totul de trei ori.,code_help,0
+Nu înțeleg eroarea asta: compilatorul spune 'file not found' pentru un header pe care l-am creat în același folder. Vreau să înțeleg unde greșesc.,code_help,1
+Nu înțeleg eroarea asta: cum verific dacă un pointer este valid înainte de a-l folosi pentru a evita crash-ul? Sunt începător și mă depășește.,code_help,2
+Codul meu se comportă ciudat: cum evit eroarea 'division by zero' într-o listă unde unele elemente pot fi nule? Orice sugestie e binevenită.,code_help,1
+Nu înțeleg eroarea asta: de ce blocul 'când primesc mesaj' se execută de două ori la rând? Sunt începător și mă depășește.,code_help,1
+Am un bug ciudat: am o eroare 'permission denied' când încerc să scriu într-o fișier text din Python. Am verificat totul de trei ori.,code_help,1
+Întâmpin o dificultate: cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Sunt începător și mă depășește.,code_help,0
+"Ajutor, vă rog! de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Nu știu ce să-i mai fac.",code_help,1
+Întâmpin o dificultate: python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Am verificat totul de trei ori.,code_help,1
+Întâmpin o dificultate: de ce variabila 'scor' scade în loc să crească atunci când colectez un obiect? Orice sugestie e binevenită.,code_help,0
+"Codul meu se comportă ciudat: de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Nu știu ce să-i mai fac.",code_help,1
+Îmi puteți spune de ce python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Sunt începător și mă depășește.,code_help,1
+"Ajutor, vă rog! am definit un macro, dar rezultatul calculului este greșit din cauza lipsei parantezelor. Mersi mult pentru timp!",code_help,1
+Am un bug ciudat: de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Orice sugestie e binevenită.,code_help,1
+De ce apare mesajul cum fac să nu se mai suprapună sunetele în Scratch când apăs repede pe clape? Mersi mult pentru timp!,code_help,0
+M-am blocat la faza asta: primesc 'Bus error: 10' pe Mac când încerc să accesez un element din structură. Este pentru un proiect școlar.,code_help,2
+Am un bug ciudat: compilatorul spune 'file not found' pentru un header pe care l-am creat în același folder. Am verificat totul de trei ori.,code_help,1
+Codul meu se comportă ciudat: cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Este pentru un proiect școlar.,code_help,0
+"Am un bug ciudat: programul rulează în IDE, dar dacă dau dublu click pe executabil se închide instant. Nu știu ce să-i mai fac.",code_help,1
+"Ajutor, vă rog! personajul meu tremură când atinge un obstacol și nu se mai oprește din mișcare. Se poate rezolva fără a rescrie tot?",code_help,0
+Am un bug ciudat: compilatorul spune 'file not found' pentru un header pe care l-am creat în același folder. Nu știu ce să-i mai fac.,code_help,1
+"Îmi puteți spune de ce am definit un macro, dar rezultatul calculului este greșit din cauza lipsei parantezelor. Sunt începător și mă depășește.",code_help,1
+"De ce apare mesajul am o eroare 'KeyError' în dicționar, deși cheia apare dacă dau print la dicționar. Mersi mult pentru timp!",code_help,1
+M-am blocat la faza asta: încerc să sortez o listă care conține și numere și string-uri și primesc TypeError. Am verificat totul de trei ori.,code_help,1
+De ce apare mesajul am o eroare 'permission denied' când încerc să scriu într-o fișier text din Python. Orice sugestie e binevenită.,code_help,1
+Nu înțeleg eroarea asta: primesc 'Bus error: 10' pe Mac când încerc să accesez un element din structură. Vreau să înțeleg unde greșesc.,code_help,2
+Îmi puteți spune de ce de ce clona mea nu dispare deși am pus blocul 'șterge această clonă' la final. Orice sugestie e binevenită.,code_help,0
+"De ce apare mesajul am definit un macro, dar rezultatul calculului este greșit din cauza lipsei parantezelor. Se poate rezolva fără a rescrie tot?",code_help,1
+De ce apare mesajul python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Orice sugestie e binevenită.,code_help,1
+Întâmpin o dificultate: de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Am verificat totul de trei ori.,code_help,1
+"De ce apare mesajul am făcut un inamic care să urmărească jucătorul, dar merge cu spatele. Nu știu ce să-i mai fac.",code_help,1
+"Ajutor, vă rog! de ce blocul 'când primesc mesaj' se execută de două ori la rând? Vreau să înțeleg unde greșesc.",code_help,1
+Codul meu se comportă ciudat: am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Este pentru un proiect școlar.,code_help,2
+Nu înțeleg eroarea asta: python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Sunt începător și mă depășește.,code_help,1
+De ce apare mesajul de ce bucla mea for nu parcurge toate elementele dintr-un generator? Se poate rezolva fără a rescrie tot?,code_help,1
+"M-am blocat la faza asta: am un memory leak raportat de Valgrind, dar am dat free la toate variabilele principale. Vreau să înțeleg unde greșesc.",code_help,2
+"Ajutor, vă rog! de ce debug-erul trece peste liniile de cod fără să se oprească la breakpoint? Sunt începător și mă depășește.",code_help,1
+Codul meu se comportă ciudat: de ce funcția 'random.choice' îmi returnează mereu același element la fiecare rulare? Nu știu ce să-i mai fac.,code_help,1
+De ce apare mesajul am o eroare 'permission denied' când încerc să scriu într-o fișier text din Python. Vreau să înțeleg unde greșesc.,code_help,1
+Întâmpin o dificultate: încerc să sortez o listă care conține și numere și string-uri și primesc TypeError. Mersi mult pentru timp!,code_help,1
+"Nu înțeleg eroarea asta: am o eroare 'KeyError' în dicționar, deși cheia apare dacă dau print la dicționar. Este pentru un proiect școlar.",code_help,1
+Codul meu se comportă ciudat: încerc să sortez o listă care conține și numere și string-uri și primesc TypeError. Am verificat totul de trei ori.,code_help,1
+Codul meu se comportă ciudat: de ce debug-erul trece peste liniile de cod fără să se oprească la breakpoint? Nu știu ce să-i mai fac.,code_help,1
+Nu înțeleg eroarea asta: am o problemă cu 'f-string' unde variabilele nu sunt înlocuite cu valorile lor. Orice sugestie e binevenită.,code_help,1
+"De ce apare mesajul de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Vreau să înțeleg unde greșesc.",code_help,1
+M-am blocat la faza asta: de ce variabila 'scor' scade în loc să crească atunci când colectez un obiect? Am verificat totul de trei ori.,code_help,0
+De ce apare mesajul de ce terminalul nu îmi recunoaște comanda 'gcc' deși am instalat Code::Blocks? Vreau să înțeleg unde greșesc.,code_help,1
+De ce apare mesajul de ce blocul 'când primesc mesaj' se execută de două ori la rând? Orice sugestie e binevenită.,code_help,1
+"Nu înțeleg eroarea asta: am definit un macro, dar rezultatul calculului este greșit din cauza lipsei parantezelor. Sunt începător și mă depășește.",code_help,1
+Am un bug ciudat: cum verific dacă un pointer este valid înainte de a-l folosi pentru a evita crash-ul? Am verificat totul de trei ori.,code_help,2
+M-am blocat la faza asta: cum fac să nu se mai suprapună sunetele în Scratch când apăs repede pe clape? Nu știu ce să-i mai fac.,code_help,0
+"M-am blocat la faza asta: am o eroare 'KeyError' în dicționar, deși cheia apare dacă dau print la dicționar. Orice sugestie e binevenită.",code_help,1
+Codul meu se comportă ciudat: python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Mersi mult pentru timp!,code_help,1
+"Ajutor, vă rog! cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Se poate rezolva fără a rescrie tot?",code_help,0
+Am un bug ciudat: cum accesez un membru dintr-un pointer către o structură fără să folosesc operatorul '->'? Mersi mult pentru timp!,code_help,2
+M-am blocat la faza asta: python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Nu știu ce să-i mai fac.,code_help,1
+Îmi puteți spune de ce python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Am verificat totul de trei ori.,code_help,1
+De ce apare mesajul personajul meu tremură când atinge un obstacol și nu se mai oprește din mișcare. Vreau să înțeleg unde greșesc.,code_help,0
+"Ajutor, vă rog! am o eroare 'permission denied' când încerc să scriu într-o fișier text din Python. Mersi mult pentru timp!",code_help,1
+"De ce apare mesajul am definit un macro, dar rezultatul calculului este greșit din cauza lipsei parantezelor. Este pentru un proiect școlar.",code_help,1
+Codul meu se comportă ciudat: personajul meu tremură când atinge un obstacol și nu se mai oprește din mișcare. Mersi mult pentru timp!,code_help,0
+Codul meu se comportă ciudat: de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Nu știu ce să-i mai fac.,code_help,1
+De ce apare mesajul am o problemă cu 'f-string' unde variabilele nu sunt înlocuite cu valorile lor. Mersi mult pentru timp!,code_help,1
+Îmi puteți spune de ce am o eroare 'permission denied' când încerc să scriu într-o fișier text din Python. Nu știu ce să-i mai fac.,code_help,1
+M-am blocat la faza asta: de ce variabila 'scor' scade în loc să crească atunci când colectez un obiect? Mersi mult pentru timp!,code_help,0
+Nu înțeleg eroarea asta: de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Am verificat totul de trei ori.,code_help,1
+"Am un bug ciudat: de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Vreau să înțeleg unde greșesc.",code_help,1
+Îmi puteți spune de ce de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Am verificat totul de trei ori.,code_help,1
+Codul meu se comportă ciudat: de ce 'sizeof' returnează o valoare diferită pe sistemul meu față de exemplul din curs? Mersi mult pentru timp!,code_help,1
+Codul meu se comportă ciudat: cum accesez un membru dintr-un pointer către o structură fără să folosesc operatorul '->'? Orice sugestie e binevenită.,code_help,2
+Îmi puteți spune de ce cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Am verificat totul de trei ori.,code_help,0
+"Ajutor, vă rog! programul rulează în IDE, dar dacă dau dublu click pe executabil se închide instant. Nu știu ce să-i mai fac.",code_help,1
+"Întâmpin o dificultate: am o eroare 'KeyError' în dicționar, deși cheia apare dacă dau print la dicționar. Am verificat totul de trei ori.",code_help,1
+"Îmi puteți spune de ce am un memory leak raportat de Valgrind, dar am dat free la toate variabilele principale. Vreau să înțeleg unde greșesc.",code_help,2
+"De ce apare mesajul de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Am verificat totul de trei ori.",code_help,1
+M-am blocat la faza asta: de ce funcția 'random.choice' îmi returnează mereu același element la fiecare rulare? Este pentru un proiect școlar.,code_help,1
+Nu înțeleg eroarea asta: am o eroare 'permission denied' când încerc să scriu într-o fișier text din Python. Vreau să înțeleg unde greșesc.,code_help,1
+Întâmpin o dificultate: cum verific dacă un pointer este valid înainte de a-l folosi pentru a evita crash-ul? Vreau să înțeleg unde greșesc.,code_help,2
+Întâmpin o dificultate: python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Sunt începător și mă depășește.,code_help,1
+Îmi puteți spune de ce de ce terminalul nu îmi recunoaște comanda 'gcc' deși am instalat Code::Blocks? Am verificat totul de trei ori.,code_help,1
+Îmi puteți spune de ce am o eroare 'permission denied' când încerc să scriu într-o fișier text din Python. Este pentru un proiect școlar.,code_help,1
+Nu înțeleg eroarea asta: cum fac să nu se mai suprapună sunetele în Scratch când apăs repede pe clape? Nu știu ce să-i mai fac.,code_help,0
+M-am blocat la faza asta: cum evit eroarea 'division by zero' într-o listă unde unele elemente pot fi nule? Sunt începător și mă depășește.,code_help,1
+M-am blocat la faza asta: de ce variabila 'scor' scade în loc să crească atunci când colectez un obiect? Orice sugestie e binevenită.,code_help,0
+M-am blocat la faza asta: cum accesez un membru dintr-un pointer către o structură fără să folosesc operatorul '->'? Am verificat totul de trei ori.,code_help,2
+De ce apare mesajul de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Se poate rezolva fără a rescrie tot?,code_help,1
+"Îmi puteți spune de ce am setat direcția la 90 de grade, dar personajul meu merge în jos. Este pentru un proiect școlar.",code_help,0
+M-am blocat la faza asta: de ce bucla mea for nu parcurge toate elementele dintr-un generator? Sunt începător și mă depășește.,code_help,1
+Îmi puteți spune de ce de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Este pentru un proiect școlar.,code_help,1
+Îmi puteți spune de ce cum accesez un membru dintr-un pointer către o structură fără să folosesc operatorul '->'? Orice sugestie e binevenită.,code_help,2
+"Ajutor, vă rog! primesc 'Bus error: 10' pe Mac când încerc să accesez un element din structură. Orice sugestie e binevenită.",code_help,2
+Am un bug ciudat: de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Este pentru un proiect școlar.,code_help,1
+"Întâmpin o dificultate: de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Se poate rezolva fără a rescrie tot?",code_help,1
+Nu înțeleg eroarea asta: de ce bucla mea for nu parcurge toate elementele dintr-un generator? Se poate rezolva fără a rescrie tot?,code_help,1
+De ce apare mesajul de ce debug-erul trece peste liniile de cod fără să se oprească la breakpoint? Sunt începător și mă depășește.,code_help,1
+"Nu înțeleg eroarea asta: am setat direcția la 90 de grade, dar personajul meu merge în jos. Orice sugestie e binevenită.",code_help,0
+Am un bug ciudat: de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Nu știu ce să-i mai fac.,code_help,1
+"Ajutor, vă rog! de ce debug-erul trece peste liniile de cod fără să se oprească la breakpoint? Se poate rezolva fără a rescrie tot?",code_help,1
+Am un bug ciudat: am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Sunt începător și mă depășește.,code_help,2
+"Ajutor, vă rog! am o problemă cu 'f-string' unde variabilele nu sunt înlocuite cu valorile lor. Vreau să înțeleg unde greșesc.",code_help,1
+Am un bug ciudat: de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Mersi mult pentru timp!,code_help,1
+Îmi puteți spune de ce de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Vreau să înțeleg unde greșesc.,code_help,1
+Întâmpin o dificultate: de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Sunt începător și mă depășește.,code_help,1
+Codul meu se comportă ciudat: python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Vreau să înțeleg unde greșesc.,code_help,1
+Codul meu se comportă ciudat: încerc să sortez o listă care conține și numere și string-uri și primesc TypeError. Orice sugestie e binevenită.,code_help,1
+Nu înțeleg eroarea asta: cum fac să nu se mai suprapună sunetele în Scratch când apăs repede pe clape? Vreau să înțeleg unde greșesc.,code_help,0
+Am un bug ciudat: cum accesez un membru dintr-un pointer către o structură fără să folosesc operatorul '->'? Este pentru un proiect școlar.,code_help,2
+Codul meu se comportă ciudat: de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Se poate rezolva fără a rescrie tot?,code_help,1
+De ce apare mesajul am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Am verificat totul de trei ori.,code_help,2
+Îmi puteți spune de ce de ce variabila 'scor' scade în loc să crească atunci când colectez un obiect? Se poate rezolva fără a rescrie tot?,code_help,0
+Codul meu se comportă ciudat: am o eroare 'permission denied' când încerc să scriu într-o fișier text din Python. Orice sugestie e binevenită.,code_help,1
+Îmi puteți spune de ce personajul meu tremură când atinge un obstacol și nu se mai oprește din mișcare. Orice sugestie e binevenită.,code_help,0
+Întâmpin o dificultate: de ce 'realloc' îmi dă crash dacă dimensiunea nouă este mai mică decât cea veche? Vreau să înțeleg unde greșesc.,code_help,2
+"Ajutor, vă rog! python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Vreau să înțeleg unde greșesc.",code_help,1
+Îmi puteți spune de ce de ce 'realloc' îmi dă crash dacă dimensiunea nouă este mai mică decât cea veche? Mersi mult pentru timp!,code_help,2
+Codul meu se comportă ciudat: cum fac să nu se mai suprapună sunetele în Scratch când apăs repede pe clape? Nu știu ce să-i mai fac.,code_help,0
+Codul meu se comportă ciudat: am o problemă cu 'f-string' unde variabilele nu sunt înlocuite cu valorile lor. Sunt începător și mă depășește.,code_help,1
+Codul meu se comportă ciudat: de ce funcția 'random.choice' îmi returnează mereu același element la fiecare rulare? Este pentru un proiect școlar.,code_help,1
+M-am blocat la faza asta: am o eroare 'permission denied' când încerc să scriu într-o fișier text din Python. Sunt începător și mă depășește.,code_help,1
+Codul meu se comportă ciudat: primesc 'Bus error: 10' pe Mac când încerc să accesez un element din structură. Am verificat totul de trei ori.,code_help,2
+De ce apare mesajul am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Nu știu ce să-i mai fac.,code_help,2
+Întâmpin o dificultate: am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Vreau să înțeleg unde greșesc.,code_help,2
+"Ajutor, vă rog! de ce clona mea nu dispare deși am pus blocul 'șterge această clonă' la final. Se poate rezolva fără a rescrie tot?",code_help,0
+De ce apare mesajul cum verific dacă un pointer este valid înainte de a-l folosi pentru a evita crash-ul? Sunt începător și mă depășește.,code_help,2
+M-am blocat la faza asta: de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Sunt începător și mă depășește.,code_help,1
+Îmi puteți spune de ce de ce funcția 'random.choice' îmi returnează mereu același element la fiecare rulare? Am verificat totul de trei ori.,code_help,1
+M-am blocat la faza asta: de ce terminalul nu îmi recunoaște comanda 'gcc' deși am instalat Code::Blocks? Este pentru un proiect școlar.,code_help,1
+De ce apare mesajul de ce variabila 'scor' scade în loc să crească atunci când colectez un obiect? Mersi mult pentru timp!,code_help,0
+Am un bug ciudat: de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Orice sugestie e binevenită.,code_help,1
+Nu înțeleg eroarea asta: am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Am verificat totul de trei ori.,code_help,2
+M-am blocat la faza asta: personajul meu tremură când atinge un obstacol și nu se mai oprește din mișcare. Vreau să înțeleg unde greșesc.,code_help,0
+Nu înțeleg eroarea asta: de ce debug-erul trece peste liniile de cod fără să se oprească la breakpoint? Am verificat totul de trei ori.,code_help,1
+"De ce apare mesajul programul rulează în IDE, dar dacă dau dublu click pe executabil se închide instant. Se poate rezolva fără a rescrie tot?",code_help,1
+Codul meu se comportă ciudat: python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Sunt începător și mă depășește.,code_help,1
+Codul meu se comportă ciudat: de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Este pentru un proiect școlar.,code_help,1
+De ce apare mesajul de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Orice sugestie e binevenită.,code_help,1
+"De ce apare mesajul am făcut un inamic care să urmărească jucătorul, dar merge cu spatele. Orice sugestie e binevenită.",code_help,1
+Codul meu se comportă ciudat: de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Se poate rezolva fără a rescrie tot?,code_help,1
+Codul meu se comportă ciudat: am o eroare 'permission denied' când încerc să scriu într-o fișier text din Python. Se poate rezolva fără a rescrie tot?,code_help,1
+Codul meu se comportă ciudat: compilatorul spune 'file not found' pentru un header pe care l-am creat în același folder. Mersi mult pentru timp!,code_help,1
+De ce apare mesajul cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Nu știu ce să-i mai fac.,code_help,0
+"Ajutor, vă rog! de ce terminalul nu îmi recunoaște comanda 'gcc' deși am instalat Code::Blocks? Nu știu ce să-i mai fac.",code_help,1
+Am un bug ciudat: primesc 'Bus error: 10' pe Mac când încerc să accesez un element din structură. Este pentru un proiect școlar.,code_help,2
+Nu înțeleg eroarea asta: de ce blocul 'când primesc mesaj' se execută de două ori la rând? Am verificat totul de trei ori.,code_help,1
+De ce apare mesajul de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Se poate rezolva fără a rescrie tot?,code_help,1
+Codul meu se comportă ciudat: primesc 'Bus error: 10' pe Mac când încerc să accesez un element din structură. Sunt începător și mă depășește.,code_help,2
+"M-am blocat la faza asta: am un memory leak raportat de Valgrind, dar am dat free la toate variabilele principale. Am verificat totul de trei ori.",code_help,2
+Codul meu se comportă ciudat: de ce debug-erul trece peste liniile de cod fără să se oprească la breakpoint? Orice sugestie e binevenită.,code_help,1
+"Nu înțeleg eroarea asta: programul rulează în IDE, dar dacă dau dublu click pe executabil se închide instant. Este pentru un proiect școlar.",code_help,1
+Întâmpin o dificultate: cum verific dacă un pointer este valid înainte de a-l folosi pentru a evita crash-ul? Mersi mult pentru timp!,code_help,2
+"Ajutor, vă rog! de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Este pentru un proiect școlar.",code_help,1
+Întâmpin o dificultate: de ce 'sizeof' returnează o valoare diferită pe sistemul meu față de exemplul din curs? Am verificat totul de trei ori.,code_help,1
+"Ajutor, vă rog! am o problemă cu 'f-string' unde variabilele nu sunt înlocuite cu valorile lor. Este pentru un proiect școlar.",code_help,1
+"Ajutor, vă rog! de ce funcția 'random.choice' îmi returnează mereu același element la fiecare rulare? Vreau să înțeleg unde greșesc.",code_help,1
+Am un bug ciudat: de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Vreau să înțeleg unde greșesc.,code_help,1
+Codul meu se comportă ciudat: de ce variabila 'scor' scade în loc să crească atunci când colectez un obiect? Sunt începător și mă depășește.,code_help,0
+Îmi puteți spune de ce de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Se poate rezolva fără a rescrie tot?,code_help,1
+Am un bug ciudat: de ce funcția 'random.choice' îmi returnează mereu același element la fiecare rulare? Mersi mult pentru timp!,code_help,1
+Nu înțeleg eroarea asta: de ce debug-erul trece peste liniile de cod fără să se oprească la breakpoint? Se poate rezolva fără a rescrie tot?,code_help,1
+Nu înțeleg eroarea asta: de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Mersi mult pentru timp!,code_help,1
+Am un bug ciudat: de ce 'realloc' îmi dă crash dacă dimensiunea nouă este mai mică decât cea veche? Se poate rezolva fără a rescrie tot?,code_help,2
+"Ajutor, vă rog! de ce 'realloc' îmi dă crash dacă dimensiunea nouă este mai mică decât cea veche? Am verificat totul de trei ori.",code_help,2
+"Ajutor, vă rog! python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Mersi mult pentru timp!",code_help,1
+De ce apare mesajul de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Sunt începător și mă depășește.,code_help,1
+Am un bug ciudat: de ce blocul 'când primesc mesaj' se execută de două ori la rând? Nu știu ce să-i mai fac.,code_help,1
+M-am blocat la faza asta: de ce 'sizeof' returnează o valoare diferită pe sistemul meu față de exemplul din curs? Este pentru un proiect școlar.,code_help,1
+"Întâmpin o dificultate: am făcut un inamic care să urmărească jucătorul, dar merge cu spatele. Nu știu ce să-i mai fac.",code_help,1
+Întâmpin o dificultate: cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Este pentru un proiect școlar.,code_help,0
+Am un bug ciudat: primesc 'Bus error: 10' pe Mac când încerc să accesez un element din structură. Am verificat totul de trei ori.,code_help,2
+De ce apare mesajul compilatorul spune 'file not found' pentru un header pe care l-am creat în același folder. Vreau să înțeleg unde greșesc.,code_help,1
+De ce apare mesajul de ce blocul 'când primesc mesaj' se execută de două ori la rând? Sunt începător și mă depășește.,code_help,1
+M-am blocat la faza asta: cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Mersi mult pentru timp!,code_help,0
+Îmi puteți spune de ce de ce 'sizeof' returnează o valoare diferită pe sistemul meu față de exemplul din curs? Sunt începător și mă depășește.,code_help,1
+De ce apare mesajul cum evit eroarea 'division by zero' într-o listă unde unele elemente pot fi nule? Vreau să înțeleg unde greșesc.,code_help,1
+Am un bug ciudat: am o problemă cu 'f-string' unde variabilele nu sunt înlocuite cu valorile lor. Se poate rezolva fără a rescrie tot?,code_help,1
+Nu înțeleg eroarea asta: de ce clona mea nu dispare deși am pus blocul 'șterge această clonă' la final. Vreau să înțeleg unde greșesc.,code_help,0
+Întâmpin o dificultate: de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Nu știu ce să-i mai fac.,code_help,1
+"Nu înțeleg eroarea asta: am setat direcția la 90 de grade, dar personajul meu merge în jos. Am verificat totul de trei ori.",code_help,0
+Codul meu se comportă ciudat: de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Mersi mult pentru timp!,code_help,1
+"Nu înțeleg eroarea asta: de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Am verificat totul de trei ori.",code_help,1
+Am un bug ciudat: am o problemă cu 'f-string' unde variabilele nu sunt înlocuite cu valorile lor. Am verificat totul de trei ori.,code_help,1
+Codul meu se comportă ciudat: de ce blocul 'când primesc mesaj' se execută de două ori la rând? Am verificat totul de trei ori.,code_help,1
+Am un bug ciudat: de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit 'strncpy'? Nu știu ce să-i mai fac.,code_help,1
+Codul meu se comportă ciudat: de ce clona mea nu dispare deși am pus blocul 'șterge această clonă' la final. Nu știu ce să-i mai fac.,code_help,0
+Codul meu se comportă ciudat: de ce 'sizeof' returnează o valoare diferită pe sistemul meu față de exemplul din curs? Orice sugestie e binevenită.,code_help,1
+De ce apare mesajul cum verific dacă un pointer este valid înainte de a-l folosi pentru a evita crash-ul? Orice sugestie e binevenită.,code_help,2
+"Am un bug ciudat: am făcut un inamic care să urmărească jucătorul, dar merge cu spatele. Vreau să înțeleg unde greșesc.",code_help,1
+"Îmi puteți spune de ce programul rulează în IDE, dar dacă dau dublu click pe executabil se închide instant. Se poate rezolva fără a rescrie tot?",code_help,1
+Nu înțeleg eroarea asta: de ce clona mea nu dispare deși am pus blocul 'șterge această clonă' la final. Nu știu ce să-i mai fac.,code_help,0
+Am un bug ciudat: de ce bucla mea for nu parcurge toate elementele dintr-un generator? Am verificat totul de trei ori.,code_help,1
+Întâmpin o dificultate: am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Este pentru un proiect școlar.,code_help,2
+Întâmpin o dificultate: cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Se poate rezolva fără a rescrie tot?,code_help,0
+"Ajutor, vă rog! de ce clona mea nu dispare deși am pus blocul 'șterge această clonă' la final. Nu știu ce să-i mai fac.",code_help,0
+Codul meu se comportă ciudat: de ce 'realloc' îmi dă crash dacă dimensiunea nouă este mai mică decât cea veche? Nu știu ce să-i mai fac.,code_help,2
+Codul meu se comportă ciudat: am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Sunt începător și mă depășește.,code_help,2
+Nu înțeleg eroarea asta: de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Vreau să înțeleg unde greșesc.,code_help,1
+Nu înțeleg eroarea asta: cum accesez un membru dintr-un pointer către o structură fără să folosesc operatorul '->'? Sunt începător și mă depășește.,code_help,2
+M-am blocat la faza asta: am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Se poate rezolva fără a rescrie tot?,code_help,2
+De ce apare mesajul încerc să sortez o listă care conține și numere și string-uri și primesc TypeError. Orice sugestie e binevenită.,code_help,1
+Întâmpin o dificultate: de ce funcția 'random.choice' îmi returnează mereu același element la fiecare rulare? Am verificat totul de trei ori.,code_help,1
+Îmi puteți spune de ce de ce variabila 'scor' scade în loc să crească atunci când colectez un obiect? Vreau să înțeleg unde greșesc.,code_help,0
+Am un bug ciudat: cum accesez un membru dintr-un pointer către o structură fără să folosesc operatorul '->'? Sunt începător și mă depășește.,code_help,2
+Codul meu se comportă ciudat: de ce primesc 'multiple definition of' dacă am inclus fișierul .c în loc de .h? Mersi mult pentru timp!,code_help,1
+"Întâmpin o dificultate: am definit un macro, dar rezultatul calculului este greșit din cauza lipsei parantezelor. Nu știu ce să-i mai fac.",code_help,1
+Am un bug ciudat: de ce blocul 'când primesc mesaj' se execută de două ori la rând? Sunt începător și mă depășește.,code_help,1
+Am un bug ciudat: de ce 'input().split()' nu îmi desparte numerele dacă folosesc virgulă? Sunt începător și mă depășește.,code_help,1
+"Ajutor, vă rog! de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Este pentru un proiect școlar.",code_help,1
+"Am un bug ciudat: de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Se poate rezolva fără a rescrie tot?",code_help,1
+M-am blocat la faza asta: python îmi spune că 'tuple object has no attribute append'. Cum adaug elemente? Sunt începător și mă depășește.,code_help,1
+Am un bug ciudat: cum verific dacă un pointer este valid înainte de a-l folosi pentru a evita crash-ul? Este pentru un proiect școlar.,code_help,2
+"Nu înțeleg eroarea asta: de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Sunt începător și mă depășește.",code_help,1
+De ce apare mesajul de ce terminalul nu îmi recunoaște comanda 'gcc' deși am instalat Code::Blocks? Sunt începător și mă depășește.,code_help,1
+"Întâmpin o dificultate: programul rulează în IDE, dar dacă dau dublu click pe executabil se închide instant. Se poate rezolva fără a rescrie tot?",code_help,1

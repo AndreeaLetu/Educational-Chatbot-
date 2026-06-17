@@ -1,0 +1,451 @@
+text_clean,label,label_id,difficulty,difficulty_name
+Dă-mi soluția directă pentru cum fac un proiect întreg în care personajele comunică prin mesaje.,solution_request,5,0,beginner
+"Sincer, sunt la un pas de a renunța definitiv la cursul ăsta.",motivation_or_encouragement,4,0,beginner
+Vreau să văd varianta rezolvată a scriptul în C pentru citirea și afișarea elementelor unei structuri de tip angajat. Vreau doar să îi dau copy-paste.,solution_request,5,1,intermediate
+Ce face operatorul modulo ()?,concept_explanation,1,1,intermediate
+"Salut, am o problemă: clona sprite-ului meu nu primește mesajul trimis prin broadcast, restul personajelor da. Ce am greșit?",code_help,0,0,beginner
+Poți să-mi scrii rezolvarea pentru soluția pentru un joc de tip Catch the Falling Object. Mersi mult!,solution_request,5,1,intermediate
+Ce face blocul current year în Scratch?,concept_explanation,1,0,beginner
+Am nevoie de scriptul întreg pentru codul pentru a inversa un cuvânt fără a folosi slice-uri.,solution_request,5,1,intermediate
+Poți să-mi scrii rezolvarea pentru scriptul pentru un bot de Telegram simplu care răspunde la comenzi fără alte explicații inutile.,solution_request,5,1,intermediate
+Ce înseamnă scope global?,concept_explanation,1,1,intermediate
+Uite cum stă treaba: parcă fac un pas înainte și zece înapoi cu materia asta Spune-mi că o să fie bine.,motivation_or_encouragement,4,1,intermediate
+"Salut, nu cred că o să fiu capabil vreodată să lucrez în domeniu Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,4,2,advanced
+"Propune-mi o temă legată de un program care simulează aruncarea a două zaruri de 100 de ori și numără dublele, te rog.",exercise_request,2,1,intermediate
+Vreau soluția completă pentru cum fac un proiect întreg în care personajele comunică prin mesaje.,solution_request,5,0,beginner
+Poți să-mi dai o provocare cu o funcție care primește o listă de numere și returnează doar numerele pare care să fie distractiv.,exercise_request,2,1,intermediate
+Dă-mi un indiciu pentru a inversa un string folosind o metodă recursivă. Vreau să înțeleg singur logica.,hint_request,3,2,advanced
+"Salut, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod E normal să mă simt așa la început?",motivation_or_encouragement,4,0,beginner
+Propune-mi o temă legată de un program care citește un fișier text și afișează cel mai lung cuvânt găsit cu explicații la final.,exercise_request,2,1,intermediate
+"Nu-mi da soluția, ci doar un hint legat de folosirea operatorului modulo pentru a afla restul împărțirii.",hint_request,3,1,intermediate
+E așa greu... zici că e un zid în fața mea și nu pot să trec de el Simt că o iau razna.,motivation_or_encouragement,4,0,beginner
+Ai un task practic pentru un algoritm de căutare binară implementat recursiv pentru un vector sortat cu explicații la final.,exercise_request,2,2,advanced
+Am nevoie de o sugestie la inversarea unei liste simplu înlănțuite - nu știu ce funcție să folosesc aici.,hint_request,3,1,intermediate
+"Aș vrea să exersez un proiect care generează forme geometrice (triunghi, cerc) la cererea utilizatorului, te rog.",exercise_request,2,1,intermediate
+Dă-mi ceva de programat: un joc de tip flappy bird simplificat unde personajul cade gravitațional care să fie distractiv.,exercise_request,2,0,beginner
+Vreau să văd varianta rezolvată a scriptul pentru mișcarea personajului cu sărituri și gravitate. Trebuie să îl predau mâine la școală.,solution_request,5,0,beginner
+Ce este un tablou unidimensional?,concept_explanation,1,1,intermediate
+Vreau să rezolv o problemă cu o structură pentru o bibliotecă de cărți care permite sortarea după titlu de dificultate medie.,exercise_request,2,2,advanced
+Vreau să rezolv o problemă cu o aplicație consolă de tip To-Do List unde poți adăuga și șterge sarcini (nivel începător).,exercise_request,2,1,intermediate
+Ce este un operator ternar?,concept_explanation,1,2,advanced
+Am nevoie de scriptul întreg pentru implementarea unei funcții care să găsească cel mai mare divizor comun folosind algoritmul lui Euclid.,solution_request,5,1,intermediate
+Vreau soluția completă pentru scriptul pentru un bot de Telegram simplu care răspunde la comenzi pentru a-l rula direct în compilator.,solution_request,5,1,intermediate
+"Ajutor cu eroarea asta: în loc de text, în consolă apar doar niște pătrățele și simboluri ciudate. Nu găsesc rezolvarea pe Google.",code_help,0,1,intermediate
+"Salut, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Nu mai văd nicio soluție.",motivation_or_encouragement,4,0,beginner
+"Of, nu cred că o să fiu capabil vreodată să lucrez în domeniu.",motivation_or_encouragement,4,2,advanced
+"Îmi puteți spune de ce am definit un macro, dar rezultatul calculului este greșit din cauza lipsei parantezelor. Sunt începător și mă depășește.",code_help,0,1,intermediate
+Am nevoie de scriptul întreg pentru rezolvarea exercițiului cu generarea numerelor prime până la un n dat pentru a-l rula direct în compilator.,solution_request,5,1,intermediate
+"Ajutor cu eroarea asta: am o problemă cu un pointer care devine NULL după ce ies dintr-o buclă, deși nu l-am modificat. Nu găsesc rezolvarea pe Google.",code_help,0,2,advanced
+Ce reprezintă protected access modifier?,concept_explanation,1,2,advanced
+Ce reprezintă heap fragmentation?,concept_explanation,1,2,advanced
+Dă-mi soluția directă pentru rezolvarea pentru un joc cu scor și vieți care se resetează.,solution_request,5,1,intermediate
+Am scris codul acesta și cum scapi de expected expression în C la un bloc switch-case? Mersi anticipat!,code_help,0,1,intermediate
+"Nu mai pot, toate liniile de cod se amestecă în capul meu acum Simt că o iau razna.",motivation_or_encouragement,4,2,advanced
+Vreau să văd varianta rezolvată a soluția pentru un joc de tip Catch the Falling Object fără alte explicații inutile.,solution_request,5,1,intermediate
+De ce funcția main returnează un întreg în C?,concept_explanation,1,1,intermediate
+Vreau soluția completă pentru scriptul pentru mișcarea personajului cu sărituri și gravitate. Trebuie să îl predau mâine la școală.,solution_request,5,0,beginner
+Dă-mi soluția directă pentru varianta finală a jocului în care trebuie să eviți obstacole. Mersi mult!,solution_request,5,1,intermediate
+"Salut, mi se pare totul prea matematic și logic pentru cum gândesc eu Ce să fac să nu renunț?",motivation_or_encouragement,4,0,beginner
+E așa greu... nu cred că o să fiu capabil vreodată să lucrez în domeniu Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,4,1,intermediate
+"Aș vrea să exersez un script care inversează ordinea elementelor într-un vector folosind doar pointeri, te rog.",exercise_request,2,2,advanced
+Nu înțeleg eroarea asta: de ce blocul când primesc mesaj se execută de două ori la rând? Am verificat totul de trei ori.,code_help,0,1,intermediate
+Dă-mi codul gata de rulat pentru codul pentru a inversa un cuvânt fără a folosi slice-uri în cel mai scurt timp posibil.,solution_request,5,1,intermediate
+Vreau să fac un proiect care implică o cursă de mașini controlată de la tastele săgeți cu detectarea ieșirii de pe pistă de dificultate medie.,exercise_request,2,1,intermediate
+Ai un task practic pentru un proiect în care un liliac urmărește un fluture folosind blocul glide fără a folosi funcții gata făcute.,exercise_request,2,1,intermediate
+"Întrebare despre cod: am o problemă cu un pointer care devine NULL după ce ies dintr-o buclă, deși nu l-am modificat. Mersi anticipat!",code_help,0,2,advanced
+"Sincer, e frustrant să stai ore întregi pentru un punct și virgulă lipsă.",motivation_or_encouragement,4,1,intermediate
+"Ce face blocul dacă atingi marginea, ricoșează?",concept_explanation,1,0,beginner
+Vreau să rezolv o problemă cu un script care inversează ordinea elementelor într-un vector folosind doar pointeri cât mai repede.,exercise_request,2,2,advanced
+Dă-mi un indiciu cum să citesc un fișier CSV și să extrag doar o coloană anume.,hint_request,3,1,intermediate
+Îmi puteți spune de ce de ce sizeof returnează o valoare diferită pe sistemul meu față de exemplul din curs? Sunt începător și mă depășește.,code_help,0,1,intermediate
+Ce este o iterație?,concept_explanation,1,1,intermediate
+Dă-mi un punct de plecare pentru a parcurge o matrice folosind doar aritmetica pointerilor - nu știu ce funcție să folosesc aici.,hint_request,3,2,advanced
+Ai un task practic pentru un program în care un sprite întreabă tabla înmulțirii și verifică răspunsul care să fie distractiv.,exercise_request,2,0,beginner
+"Salut, am o problemă: am o listă care pare goală când o printez, deși am folosit append de mai multe ori. Cum pot repara asta?",code_help,0,1,intermediate
+Poți să-mi dai o provocare cu un program care calculează cel mai mare divizor comun a două numere (CMMDC) (nivel începător).,exercise_request,2,1,intermediate
+Scrie tu codul cap-coadă pentru codul complet pentru un joc de tip Labirint în Scratch.,solution_request,5,0,beginner
+Am nevoie de scriptul întreg pentru codul pentru sortarea unui vector folosind Quicksort. Trebuie să îl predau mâine la școală.,solution_request,5,2,advanced
+"Salut, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Spune-mi că o să fie bine.",motivation_or_encouragement,4,2,advanced
+Arată-mi cum arată codul final pentru rezolvarea pentru un joc cu scor și vieți care se resetează. Vreau doar să îi dau copy-paste.,solution_request,5,1,intermediate
+Ce este standardul PEP 8?,concept_explanation,1,2,advanced
+"Nu mai pot, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Mai are rost să continui?",motivation_or_encouragement,4,0,beginner
+Vreau să văd varianta rezolvată a scriptul pentru un bot de Telegram simplu care răspunde la comenzi. Mersi mult!,solution_request,5,1,intermediate
+Întâmpin o dificultate: cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Sunt începător și mă depășește.,code_help,0,0,beginner
+Dă-mi ceva de programat: o aplicație consolă de tip To-Do List unde poți adăuga și șterge sarcini cât mai repede.,exercise_request,2,1,intermediate
+Ce reprezintă managementul memoriei?,concept_explanation,1,2,advanced
+Ce reprezintă operatorul sizeof în C?,concept_explanation,1,1,intermediate
+M-am blocat la faza asta: de ce terminalul nu îmi recunoaște comanda gcc deși am instalat Code::Blocks? Este pentru un proiect școlar.,code_help,0,1,intermediate
+"Of, sunt la un pas de a renunța definitiv la cursul ăsta Nu mai văd nicio soluție.",motivation_or_encouragement,4,1,intermediate
+"Uite cum stă treaba: toți colegii mei par să înțeleagă, doar eu am rămas în urmă Nu mai văd nicio soluție.",motivation_or_encouragement,4,2,advanced
+De ce apare mesajul încerc să sortez o listă care conține și numere și string-uri și primesc TypeError. Orice sugestie e binevenită.,code_help,0,1,intermediate
+"Mă simt groaznic, parcă fac un pas înainte și zece înapoi cu materia asta Simt că o iau razna.",motivation_or_encouragement,4,0,beginner
+Îmi poți da o mână de ajutor cu un hint la lucrul cu librăria random pentru a genera parole unice.,hint_request,3,1,intermediate
+"Codul meu are un bug: de ce cronometrul meu merge invers sau se blochează la secundele de început? E frustrant, ajutor!",code_help,0,1,intermediate
+Întrebare despre cod: de ce îmi dă eroare la printf în C dacă nu includ stdio.h? Unde este eroarea?,code_help,0,1,intermediate
+Dă-mi soluția directă pentru implementarea unei funcții care să găsească cel mai mare divizor comun folosind algoritmul lui Euclid. Vreau doar să îi dau copy-paste.,solution_request,5,1,intermediate
+Propune-mi o temă legată de o aplicație consolă de tip To-Do List unde poți adăuga și șterge sarcini pentru portofoliu.,exercise_request,2,1,intermediate
+Ce înseamnă obsolete code?,concept_explanation,1,1,intermediate
+Dă-mi un exercițiu despre un proiect în care un liliac urmărește un fluture folosind blocul glide de dificultate medie.,exercise_request,2,1,intermediate
+Am nevoie de scriptul întreg pentru scriptul în C pentru citirea și afișarea elementelor unei structuri de tip angajat pentru a-l rula direct în compilator.,solution_request,5,1,intermediate
+Ce este o variabilă de tip unsigned char?,concept_explanation,1,1,intermediate
+"Mă simt groaznic, sunt la un pas de a renunța definitiv la cursul ăsta Spune-mi că o să fie bine.",motivation_or_encouragement,4,1,intermediate
+Îmi puteți spune de ce de ce input().split() nu îmi desparte numerele dacă folosesc virgulă? Se poate rezolva fără a rescrie tot?,code_help,0,1,intermediate
+Ce este un pointer la o funcție?,concept_explanation,1,2,advanced
+"Nu-mi da soluția, ci doar un hint ca să fac un cronometru care scade în timp ce joc.",hint_request,3,1,intermediate
+Dă-mi ceva de programat: un joc de hide and seek unde personajul apare și dispare în locuri aleatorii de dificultate medie.,exercise_request,2,0,beginner
+Ce reprezintă dunder methods în Python?,concept_explanation,1,2,advanced
+Întâmpin o dificultate: cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Se poate rezolva fără a rescrie tot?,code_help,0,0,beginner
+"Am nevoie de o sugestie pentru a schimba fundalul doar când scorul ajunge la 10 de nivel avansat, dacă se poate.",hint_request,3,1,intermediate
+Sunt la un pas de a renunța definitiv la cursul ăsta...,motivation_or_encouragement,4,0,beginner
+Vreau soluția completă pentru varianta finală a jocului în care trebuie să eviți obstacole în cel mai scurt timp posibil.,solution_request,5,1,intermediate
+Vreau doar o mică direcție despre folosirea extensiei Pen pentru a desena un cerc - nu știu ce funcție să folosesc aici.,hint_request,3,1,intermediate
+Vreau doar o mică direcție la inversarea unei liste simplu înlănțuite - nu știu ce funcție să folosesc aici.,hint_request,3,1,intermediate
+Dă-mi un punct de plecare cum să folosesc un mesaj broadcast ca să pornesc nivelul 2. Sunt la început și e greu.,hint_request,3,1,intermediate
+Vreau doar o mică direcție pentru a face personajul să sară dar să nu treacă prin tavan.,hint_request,3,0,beginner
+Aș vrea să exersez o animație cu un personaj care merge și își schimbă costumul la fiecare pas pentru portofoliu.,exercise_request,2,0,beginner
+Dă-mi soluția directă pentru codul sursă pentru implementarea unei liste simplu înlănțuite. Sunt blocat de ore întregi și am nevoie de cod.,solution_request,5,1,intermediate
+Dă-mi un exercițiu despre un program care generează automat adrese de email pornind de la nume și prenume cât mai repede.,exercise_request,2,1,intermediate
+Ce face funcția enumerate() în Python?,concept_explanation,1,1,intermediate
+"Of, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,4,0,beginner
+"Mă simt groaznic, îmi place informatica, dar problemele astea mă fac să mă simt inutil Mai are rost să continui?",motivation_or_encouragement,4,2,advanced
+"Îmi poți da o mână de ajutor cu un hint pentru a găsi cel mai mare element dintr-un array printr-o funcție, te rog frumos.",hint_request,3,1,intermediate
+"De ce apare mesajul programul rulează în IDE, dar dacă dau dublu click pe executabil se închide instant. Se poate rezolva fără a rescrie tot?",code_help,0,1,intermediate
+"Am scris codul acesta și de ce bucla while nu se oprește niciodată, deși am incrementat variabila de control? Unde este eroarea?",code_help,0,1,intermediate
+"Ajutor, vă rog! personajul meu tremură când atinge un obstacol și nu se mai oprește din mișcare. Am verificat totul de trei ori.",code_help,0,0,beginner
+Ce este un bitwise XOR și unde se folosește?,concept_explanation,1,2,advanced
+Ce face funcția min() și max()?,concept_explanation,1,0,beginner
+"Mă simt groaznic, îmi place informatica, dar problemele astea mă fac să mă simt inutil Simt că o iau razna.",motivation_or_encouragement,4,2,advanced
+Ai un task practic pentru un program care calculează cel mai mare divizor comun a două numere (CMMDC) de dificultate medie.,exercise_request,2,1,intermediate
+Propune-mi o temă legată de o structură pentru o bibliotecă de cărți care permite sortarea după titlu de dificultate medie.,exercise_request,2,2,advanced
+Vreau să văd varianta rezolvată a proiectul gata făcut pentru un ceas digital în Scratch. Mersi mult!,solution_request,5,0,beginner
+Aș vrea un sfat referitor la clonarea inamicilor la intervale de timp fără să-mi arăți tot codul.,hint_request,3,1,intermediate
+Dă-mi un punct de plecare pentru a inversa un string folosind o metodă recursivă.,hint_request,3,2,advanced
+Îmi puteți spune de ce de ce variabila scor scade în loc să crească atunci când colectez un obiect? Vreau să înțeleg unde greșesc.,code_help,0,0,beginner
+Ce reprezintă attribute inheritance?,concept_explanation,1,2,advanced
+"Salut, am o problemă: am o problemă cu un pointer care devine NULL după ce ies dintr-o buclă, deși nu l-am modificat. Cum pot repara asta?",code_help,0,2,advanced
+Ai un task practic pentru un instrument muzical virtual unde clapele sunt sprite-uri diferite cu explicații la final.,exercise_request,2,0,beginner
+"Nu-mi da soluția, ci doar un hint despre folosirea extensiei Pen pentru a desena un cerc pentru proiectul meu.",hint_request,3,1,intermediate
+M-am blocat la faza asta: cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Mersi mult pentru timp!,code_help,0,0,beginner
+Dă-mi un exercițiu despre o aplicație consolă de tip To-Do List unde poți adăuga și șterge sarcini de dificultate medie.,exercise_request,2,1,intermediate
+Am nevoie de scriptul întreg pentru proiectul gata făcut pentru un ceas digital în Scratch. Sunt blocat de ore întregi și am nevoie de cod.,solution_request,5,0,beginner
+Ai un task practic pentru o aplicație care citește un număr și afișează reprezentarea lui în binar de dificultate medie.,exercise_request,2,1,intermediate
+"Am nevoie de o încurajare: nu mai înțeleg nimic din ce scrie aici, parcă e chineză E normal să mă simt așa la început?",motivation_or_encouragement,4,1,intermediate
+Ce reprezintă visibility modifiers?,concept_explanation,1,2,advanced
+"Nu-mi da soluția, ci doar un hint referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre - nu știu ce funcție să folosesc aici.",hint_request,3,1,intermediate
+Vreau să fac un proiect care implică o animație cu un personaj care merge și își schimbă costumul la fiecare pas care să fie distractiv.,exercise_request,2,0,beginner
+"Uite cum stă treaba: mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie.",motivation_or_encouragement,4,0,beginner
+Dă-mi soluția directă pentru implementarea unui sistem de gestiune a stocurilor folosind fișiere binare pentru a-l rula direct în compilator.,solution_request,5,2,advanced
+Poți să mă ajuți cu o idee pentru a schimba fundalul doar când scorul ajunge la 10 pentru că m-am blocat complet.,hint_request,3,1,intermediate
+Poți să mă ajuți cu o idee despre cum se pot folosi variabilele pentru toate personajele fără să-mi arăți tot codul.,hint_request,3,0,beginner
+Vreau soluția completă pentru codul în C pentru determinarea dacă un șir de caractere este palindrom folosind pointeri. Trebuie să îl predau mâine la școală.,solution_request,5,2,advanced
+"Dă-mi un indiciu la inversarea unei liste simplu înlănțuite, te rog frumos.",hint_request,3,1,intermediate
+"M-am blocat aici: de ce primesc TypeError când încerc să unesc un șir de caractere cu un număr? E frustrant, ajutor!",code_help,0,1,intermediate
+"Poți să-mi dai o provocare cu un simulator de desen unde pot schimba culoarea creionului apăsând tastele 1, 2, 3 cât mai repede.",exercise_request,2,1,intermediate
+"Nu-mi da soluția, ci doar un hint referitor la transmiterea unui array ca argument într-o funcție - nu știu ce funcție să folosesc aici.",hint_request,3,1,intermediate
+"Salut, sunt la un pas de a renunța definitiv la cursul ăsta Mai are rost să continui?",motivation_or_encouragement,4,0,beginner
+Dă-mi un exercițiu despre o cursă de mașini controlată de la tastele săgeți cu detectarea ieșirii de pe pistă (nivel începător).,exercise_request,2,1,intermediate
+Ce este o metodă?,concept_explanation,1,2,advanced
+Codul meu are un bug: de ce îmi dă crash programul în C când încerc să printez un șir de caractere lung? Ce am greșit?,code_help,0,1,intermediate
+"Dă-mi soluția directă pentru cum fac un proiect întreg în care personajele comunică prin mesaje, te rog, nu am timp să îl fac singur.",solution_request,5,0,beginner
+"E așa greu... mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie.",motivation_or_encouragement,4,2,advanced
+Vreau să fac un proiect care implică o cursă de mașini controlată de la tastele săgeți cu detectarea ieșirii de pe pistă pentru portofoliu.,exercise_request,2,1,intermediate
+Ce este o variabilă locală vs una globală?,concept_explanation,1,1,intermediate
+Scrie tu codul cap-coadă pentru scriptul pentru mișcarea personajului cu sărituri și gravitate. Vreau doar să îi dau copy-paste.,solution_request,5,0,beginner
+Poți să-mi scrii rezolvarea pentru codul pentru o aplicație de tip calculator cu operații de bază pentru a-l rula direct în compilator.,solution_request,5,1,intermediate
+Codul meu are un bug: rezultatul adunării este mereu cu 1 mai mic decât ar trebui să fie. Cred că e o eroare de indexare. Ce am greșit?,code_help,0,1,intermediate
+Ce este memory compaction?,concept_explanation,1,2,advanced
+Am nevoie de scriptul întreg pentru scriptul Python care să îmi parseze un fișier XML și să salveze datele în JSON pentru a-l rula direct în compilator.,solution_request,5,1,intermediate
+Vreau soluția completă pentru soluția pentru rezolvarea sistemelor de ecuații liniare prin metoda Gauss pentru a-l rula direct în compilator.,solution_request,5,2,advanced
+Am nevoie de o sugestie cum să citesc un fișier CSV și să extrag doar o coloană anume. Sunt la început și e greu.,hint_request,3,1,intermediate
+Dă-mi un punct de plecare referitor la modul de citire al unui string cu spații folosind fgets pentru că m-am blocat complet.,hint_request,3,1,intermediate
+Am nevoie de o încurajare: nu cred că o să fiu capabil vreodată să lucrez în domeniu Ce să fac să nu renunț?,motivation_or_encouragement,4,1,intermediate
+"Mă simt groaznic, îmi place informatica, dar problemele astea mă fac să mă simt inutil Ce să fac să nu renunț?",motivation_or_encouragement,4,2,advanced
+Poți să mă ajuți cu o idee legat de folosirea operatorului modulo pentru a afla restul împărțirii.,hint_request,3,1,intermediate
+Poți să-mi dai o provocare cu un script care convertește temperatura din Celsius în Fahrenheit și invers care să fie distractiv.,exercise_request,2,1,intermediate
+"Mă simt groaznic, nu cred că o să fiu capabil vreodată să lucrez în domeniu.",motivation_or_encouragement,4,0,beginner
+Ce reprezintă instrucțiunea if-else?,concept_explanation,1,0,beginner
+"Dă-mi ceva de programat: un simulator de desen unde pot schimba culoarea creionului apăsând tastele 1, 2, 3 care să fie distractiv.",exercise_request,2,1,intermediate
+Scrie tu codul cap-coadă pentru codul pentru un sistem de schimbare a nivelurilor bazat pe punctaj.,solution_request,5,1,intermediate
+Ce înseamnă valoarea NULL sau nullptr?,concept_explanation,1,1,intermediate
+De ce apare mesajul personajul meu tremură când atinge un obstacol și nu se mai oprește din mișcare. Vreau să înțeleg unde greșesc.,code_help,0,0,beginner
+Vreau să văd varianta rezolvată a scriptul complet pentru un personaj care urmărește un cursor fără să treacă prin pereți.,solution_request,5,0,beginner
+Nu înțeleg eroarea asta: am o eroare permission denied când încerc să scriu într-o fișier text din Python. Vreau să înțeleg unde greșesc.,code_help,0,1,intermediate
+"De ce apare mesajul am setat direcția la 90 de grade, dar personajul meu merge în jos. Vreau să înțeleg unde greșesc.",code_help,0,0,beginner
+"Am scris codul acesta și am o listă care pare goală când o printez, deși am folosit append de mai multe ori. Ce am greșit?",code_help,0,1,intermediate
+"Poți să-mi dai o provocare cu un proiect care generează forme geometrice (triunghi, cerc) la cererea utilizatorului pentru portofoliu.",exercise_request,2,1,intermediate
+Ce este un bitwise shift?,concept_explanation,1,2,advanced
+Ce este un wildcard character?,concept_explanation,1,1,intermediate
+Poți să mă ajuți cu o idee la lucrul cu librăria random pentru a genera parole unice pentru proiectul meu.,hint_request,3,1,intermediate
+Ce reprezintă pointer to constant?,concept_explanation,1,2,advanced
+Ce reprezintă heap memory?,concept_explanation,1,2,advanced
+Propune-mi o temă legată de un proiect în care un liliac urmărește un fluture folosind blocul glide fără a folosi funcții gata făcute.,exercise_request,2,1,intermediate
+"E așa greu... îmi place informatica, dar problemele astea mă fac să mă simt inutil E normal să mă simt așa la început?",motivation_or_encouragement,4,2,advanced
+Ce este o metodă statică (staticmethod) în Python?,concept_explanation,1,2,advanced
+Ce este un memory dump?,concept_explanation,1,2,advanced
+"Sincer, toate liniile de cod se amestecă în capul meu acum Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,4,0,beginner
+E așa greu... sunt la un pas de a renunța definitiv la cursul ăsta Spune-mi că o să fie bine.,motivation_or_encouragement,4,0,beginner
+Scrie tu codul cap-coadă pentru codul pentru sortarea unui vector folosind Quicksort.,solution_request,5,2,advanced
+"Salut, îmi vine să plâng de nervi că nu se compilează programul Simt că o iau razna.",motivation_or_encouragement,4,2,advanced
+Am nevoie de o sugestie referitor la modul de citire al unui string cu spații folosind fgets pentru proiectul meu.,hint_request,3,1,intermediate
+"Nu-mi da soluția, ci doar un hint legat de utilizarea list comprehension pentru a filtra numere prime.",hint_request,3,1,intermediate
+Poți să-mi dai o provocare cu o funcție care verifică dacă două șiruri de caractere sunt anagrame cu explicații la final.,exercise_request,2,1,intermediate
+Poți să mă ajuți cu o idee despre cum să trimit argumente variabile către o funcție (args) pentru proiectul meu.,hint_request,3,1,intermediate
+Dă-mi ceva de programat: un program care generează automat adrese de email pornind de la nume și prenume fără a folosi funcții gata făcute.,exercise_request,2,1,intermediate
+Ce reprezintă instruction register?,concept_explanation,1,2,advanced
+"Nu mai pot, toate liniile de cod se amestecă în capul meu acum Mai are rost să continui?",motivation_or_encouragement,4,1,intermediate
+Vreau să văd varianta rezolvată a soluția pentru rezolvarea sistemelor de ecuații liniare prin metoda Gauss. Mersi mult!,solution_request,5,2,advanced
+Am nevoie de scriptul întreg pentru codul pentru sortarea unui vector folosind Quicksort. Vreau doar să îi dau copy-paste.,solution_request,5,2,advanced
+Am nevoie de o sugestie despre cum să trimit argumente variabile către o funcție (args) pentru proiectul meu.,hint_request,3,1,intermediate
+Dă-mi un indiciu referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre pentru proiectul meu.,hint_request,3,1,intermediate
+Am nevoie de scriptul întreg pentru soluția pentru rezolvarea sistemelor de ecuații liniare prin metoda Gauss.,solution_request,5,2,advanced
+Nu înțeleg eroarea asta: de ce debug-erul trece peste liniile de cod fără să se oprească la breakpoint? Se poate rezolva fără a rescrie tot?,code_help,0,1,intermediate
+"Poți să-mi dai o provocare cu un program care generează automat adrese de email pornind de la nume și prenume, te rog.",exercise_request,2,1,intermediate
+Ce este un operand?,concept_explanation,1,1,intermediate
+Vreau doar o mică direcție referitor la transmiterea unui array ca argument într-o funcție.,hint_request,3,1,intermediate
+Nu înțeleg eroarea asta: cum fac să nu se mai suprapună sunetele în Scratch când apăs repede pe clape? Sunt începător și mă depășește.,code_help,0,0,beginner
+Ce reprezintă FIFO (First In First Out)?,concept_explanation,1,1,intermediate
+Vreau doar o mică direcție pentru a parcurge o matrice folosind doar aritmetica pointerilor. Vreau să înțeleg singur logica.,hint_request,3,2,advanced
+Ce reprezintă module search path (sys.path)?,concept_explanation,1,2,advanced
+"Sincer, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Ce să fac să nu renunț?",motivation_or_encouragement,4,0,beginner
+"Vreau să fac un proiect care implică un simulator de desen unde pot schimba culoarea creionului apăsând tastele 1, 2, 3 cât mai repede.",exercise_request,2,1,intermediate
+Am nevoie de o încurajare: sunt la un pas de a renunța definitiv la cursul ăsta Ai vreun sfat pentru mine?,motivation_or_encouragement,4,1,intermediate
+Ce înseamnă pass în Python?,concept_explanation,1,1,intermediate
+Îmi poți da o mână de ajutor cu un hint pentru a face personajul să sară dar să nu treacă prin tavan. Vreau să înțeleg singur logica.,hint_request,3,0,beginner
+Ce reprezintă operator precedence?,concept_explanation,1,1,intermediate
+Codul meu se comportă ciudat: încerc să sortez o listă care conține și numere și string-uri și primesc TypeError. Am verificat totul de trei ori.,code_help,0,1,intermediate
+Ce înseamnă programare asincronă?,concept_explanation,1,2,advanced
+Ce reprezintă o variabilă de tip boolean?,concept_explanation,1,0,beginner
+Îmi poți da o mână de ajutor cu un hint la lucrul cu uniuni (union) și câmpuri pe biți.,hint_request,3,1,intermediate
+Poți să-mi dai o provocare cu o structură pentru o bibliotecă de cărți care permite sortarea după titlu fără a folosi funcții gata făcute.,exercise_request,2,2,advanced
+"Poți să-mi scrii rezolvarea pentru rezolvarea pentru un joc cu scor și vieți care se resetează, te rog, nu am timp să îl fac singur.",solution_request,5,1,intermediate
+Am nevoie de o sugestie referitor la transmiterea unui array ca argument într-o funcție. Sunt la început și e greu.,hint_request,3,1,intermediate
+"Ajutor, vă rog! am o eroare permission denied când încerc să scriu într-o fișier text din Python. Mersi mult pentru timp!",code_help,0,1,intermediate
+Codul meu se comportă ciudat: am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Este pentru un proiect școlar.,code_help,0,2,advanced
+"Îmi poți da o mână de ajutor cu un hint legat de blocurile de coliziune cu un alt sprite, te rog frumos.",hint_request,3,0,beginner
+Ce este o eroare de sintaxă?,concept_explanation,1,0,beginner
+Îmi puteți spune de ce python îmi spune că tuple object has no attribute append. Cum adaug elemente? Am verificat totul de trei ori.,code_help,0,1,intermediate
+Vreau să văd varianta rezolvată a rezolvarea completă pentru înmulțirea a două matrice în cel mai scurt timp posibil.,solution_request,5,2,advanced
+Dă-mi un indiciu legat de utilizarea list comprehension pentru a filtra numere prime.,hint_request,3,1,intermediate
+Vreau să fac un proiect care implică un joc de tip flappy bird simplificat unde personajul cade gravitațional pentru portofoliu.,exercise_request,2,0,beginner
+Vreau să rezolv o problemă cu un script care inversează ordinea elementelor într-un vector folosind doar pointeri de dificultate medie.,exercise_request,2,2,advanced
+"E așa greu... cred că programarea nu e de mine, sunt prea praf Simt că o iau razna.",motivation_or_encouragement,4,0,beginner
+"Uite cum stă treaba: cred că programarea nu e de mine, sunt prea praf.",motivation_or_encouragement,4,1,intermediate
+"Vreau să rezolv o problemă cu un instrument muzical virtual unde clapele sunt sprite-uri diferite, te rog.",exercise_request,2,0,beginner
+De ce apare mesajul de ce primesc multiple definition of dacă am inclus fișierul .c în loc de .h? Se poate rezolva fără a rescrie tot?,code_help,0,1,intermediate
+Vreau soluția completă pentru proiectul gata făcut pentru un ceas digital în Scratch. Sunt blocat de ore întregi și am nevoie de cod.,solution_request,5,0,beginner
+"Salut, am o problemă: iau un segfault (segmentation fault) exact când încerc să atribui o valoare în array, deși am alocat memorie. Unde este eroarea?",code_help,0,2,advanced
+Întâmpin o dificultate: de ce primesc multiple definition of dacă am inclus fișierul .c în loc de .h? Nu știu ce să-i mai fac.,code_help,0,1,intermediate
+"Salut, am o problemă: de ce îmi dă crash programul în C când încerc să printez un șir de caractere lung? Îmi poți explica de ce?",code_help,0,1,intermediate
+Aș vrea să exersez un script care inversează ordinea elementelor într-un vector folosind doar pointeri cât mai repede.,exercise_request,2,2,advanced
+Arată-mi cum arată codul final pentru codul pentru un sistem de schimbare a nivelurilor bazat pe punctaj.,solution_request,5,1,intermediate
+Poți să mă ajuți cu o idee legat de blocurile de coliziune cu un alt sprite pentru că m-am blocat complet.,hint_request,3,0,beginner
+Îmi puteți spune de ce de ce terminalul nu îmi recunoaște comanda gcc deși am instalat Code::Blocks? Am verificat totul de trei ori.,code_help,0,1,intermediate
+Vreau să rezolv o problemă cu un program în care un sprite întreabă tabla înmulțirii și verifică răspunsul fără a folosi funcții gata făcute.,exercise_request,2,0,beginner
+Vreau să văd varianta rezolvată a rezolvarea completă pentru calcularea mediei ponderate a unor note. Vreau doar să îi dau copy-paste.,solution_request,5,1,intermediate
+"Nu mai pot, am creierul prăjit, nu mai pot să procesez nici măcar un if Nu mai văd nicio soluție.",motivation_or_encouragement,4,0,beginner
+"Ajutor cu eroarea asta: media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Îmi poți explica de ce?",code_help,0,1,intermediate
+Propune-mi o temă legată de un script care convertește temperatura din Celsius în Fahrenheit și invers (nivel începător).,exercise_request,2,1,intermediate
+Îmi poți da o mână de ajutor cu un hint cum să citesc un fișier CSV și să extrag doar o coloană anume. Vreau să înțeleg singur logica.,hint_request,3,1,intermediate
+"De ce se întâmplă că am pus două puncte (:) la finalul liniei în Python, dar tot îmi dă eroare de sintaxă. Îmi poți explica de ce?",code_help,0,1,intermediate
+Ce este un dictionary key?,concept_explanation,1,1,intermediate
+Aș vrea să exersez un algoritm care verifică dacă un an introdus este bisect sau nu (nivel începător).,exercise_request,2,1,intermediate
+Propune-mi o temă legată de o funcție care primește o listă de numere și returnează doar numerele pare fără a folosi funcții gata făcute.,exercise_request,2,1,intermediate
+Vreau să fac un proiect care implică un sistem de securitate cu parolă pentru a debloca un fundal secret fără a folosi funcții gata făcute.,exercise_request,2,1,intermediate
+Ce înseamnă inheritance?,concept_explanation,1,2,advanced
+Întrebare despre cod: personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Poți să te uiți pe codul meu?,code_help,0,0,beginner
+"Am nevoie de scriptul întreg pentru scriptul complet pentru un personaj care urmărește un cursor fără să treacă prin pereți, te rog, nu am timp să îl fac singur.",solution_request,5,0,beginner
+Uite cum stă treaba: îmi vine să plâng de nervi că nu se compilează programul Nu mai văd nicio soluție.,motivation_or_encouragement,4,0,beginner
+Vreau doar o mică direcție cum să citesc un fișier CSV și să extrag doar o coloană anume pentru că m-am blocat complet.,hint_request,3,1,intermediate
+Vreau să fac un proiect care implică un program care simulează aruncarea a două zaruri de 100 de ori și numără dublele de dificultate medie.,exercise_request,2,1,intermediate
+Am nevoie de scriptul întreg pentru codul în C pentru determinarea dacă un șir de caractere este palindrom folosind pointeri.,solution_request,5,2,advanced
+Arată-mi cum arată codul final pentru codul în C pentru determinarea dacă un șir de caractere este palindrom folosind pointeri. Vreau doar să îi dau copy-paste.,solution_request,5,2,advanced
+"Of, există vreo șansă să învăț asta dacă nu am bazele din liceu? Spune-mi că o să fie bine.",motivation_or_encouragement,4,2,advanced
+Dă-mi codul gata de rulat pentru implementarea completă a algoritmului de sortare prin selecție. Mersi mult!,solution_request,5,1,intermediate
+"M-am blocat aici: media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Ce am greșit?",code_help,0,1,intermediate
+"Salut, chiar merită tot efortul ăsta? simt că nu progresez deloc Spune-mi că o să fie bine.",motivation_or_encouragement,4,1,intermediate
+Ce reprezintă global variables?,concept_explanation,1,1,intermediate
+Propune-mi o temă legată de o funcție care primește o listă de numere și returnează doar numerele pare care să fie distractiv.,exercise_request,2,1,intermediate
+Ce este un parse tree?,concept_explanation,1,2,advanced
+"Salut, există vreo șansă să învăț asta dacă nu am bazele din liceu?.",motivation_or_encouragement,4,1,intermediate
+Am nevoie de o sugestie referitor la clonarea inamicilor la intervale de timp. Vreau să înțeleg singur logica.,hint_request,3,1,intermediate
+"Of, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Simt că o iau razna.",motivation_or_encouragement,4,2,advanced
+Ai un task practic pentru o funcție care verifică dacă două șiruri de caractere sunt anagrame cât mai repede.,exercise_request,2,1,intermediate
+"Dă-mi un punct de plecare legat de folosirea operatorului modulo pentru a afla restul împărțirii, te rog frumos.",hint_request,3,1,intermediate
+Vreau să văd varianta rezolvată a rezolvarea pentru un joc cu scor și vieți care se resetează. Mersi mult!,solution_request,5,1,intermediate
+Am nevoie de o încurajare: m-am blocat și simt că intru în panică pentru că se apropie examenul.,motivation_or_encouragement,4,1,intermediate
+Vreau să rezolv o problemă cu un program care calculează cel mai mare divizor comun a două numere (CMMDC) cu explicații la final.,exercise_request,2,1,intermediate
+De ce apare mesajul python îmi spune că tuple object has no attribute append. Cum adaug elemente? Orice sugestie e binevenită.,code_help,0,1,intermediate
+Ce este un parametru formal?,concept_explanation,1,2,advanced
+Dă-mi un punct de plecare cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 pentru că m-am blocat complet.,hint_request,3,1,intermediate
+"Mă simt groaznic, nu cred că o să fiu capabil vreodată să lucrez în domeniu Ce să fac să nu renunț?",motivation_or_encouragement,4,0,beginner
+Ai un task practic pentru un sistem de securitate cu parolă pentru a debloca un fundal secret de dificultate medie.,exercise_request,2,1,intermediate
+"Of, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Simt că o iau razna.",motivation_or_encouragement,4,0,beginner
+Vreau soluția completă pentru soluția pentru rezolvarea sistemelor de ecuații liniare prin metoda Gauss.,solution_request,5,2,advanced
+"Întrebare despre cod: python îmi zice unindent does not match any outer indentation level. Cum găsesc unde e greșeala? E frustrant, ajutor!",code_help,0,1,intermediate
+"Vreau să fac un proiect care implică un simulator de desen unde pot schimba culoarea creionului apăsând tastele 1, 2, 3 (nivel începător).",exercise_request,2,1,intermediate
+Vreau să văd varianta rezolvată a scriptul pentru un bot de Telegram simplu care răspunde la comenzi fără alte explicații inutile.,solution_request,5,1,intermediate
+"Mă simt groaznic, am creierul prăjit, nu mai pot să procesez nici măcar un if.",motivation_or_encouragement,4,2,advanced
+"De ce se întâmplă că am o listă care pare goală când o printez, deși am folosit append de mai multe ori. Poți să te uiți pe codul meu?",code_help,0,1,intermediate
+Ce înseamnă deadlock în sisteme de operare?,concept_explanation,1,2,advanced
+Ce reprezintă constant correctness?,concept_explanation,1,2,advanced
+Ce face blocul stop all în Scratch?,concept_explanation,1,0,beginner
+"Am nevoie de o sugestie pentru rezolvarea problemei palindromului fără a folosi slicing de nivel avansat, dacă se poate.",hint_request,3,1,intermediate
+M-am blocat la faza asta: am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Nu știu ce să-i mai fac.,code_help,0,2,advanced
+Dă-mi codul gata de rulat pentru codul pentru a inversa un cuvânt fără a folosi slice-uri fără alte explicații inutile.,solution_request,5,1,intermediate
+Dă-mi un punct de plecare cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 fără să-mi arăți tot codul.,hint_request,3,1,intermediate
+Propune-mi o temă legată de un sistem de securitate cu parolă pentru a debloca un fundal secret cu explicații la final.,exercise_request,2,1,intermediate
+Vreau să văd varianta rezolvată a cum fac un proiect întreg în care personajele comunică prin mesaje.,solution_request,5,0,beginner
+Ce este un loop counter?,concept_explanation,1,1,intermediate
+"Scrie tu codul cap-coadă pentru codul pentru a inversa un cuvânt fără a folosi slice-uri, te rog, nu am timp să îl fac singur.",solution_request,5,1,intermediate
+"Mă simt groaznic, îmi place informatica, dar problemele astea mă fac să mă simt inutil Ai vreun sfat pentru mine?",motivation_or_encouragement,4,2,advanced
+Dă-mi ceva de programat: un script care convertește temperatura din Celsius în Fahrenheit și invers cât mai repede.,exercise_request,2,1,intermediate
+"Mă simt groaznic, îmi vine să plâng de nervi că nu se compilează programul Simt că o iau razna.",motivation_or_encouragement,4,0,beginner
+Ai un task practic pentru o aplicație consolă de tip To-Do List unde poți adăuga și șterge sarcini pentru portofoliu.,exercise_request,2,1,intermediate
+Propune-mi o temă legată de un instrument muzical virtual unde clapele sunt sprite-uri diferite de dificultate medie.,exercise_request,2,0,beginner
+Dă-mi ceva de programat: un program care calculează transpusa unei matrice citite de la tastatură (nivel începător).,exercise_request,2,2,advanced
+Ce este virtual machine?,concept_explanation,1,1,intermediate
+Nu înțeleg eroarea asta: am o problemă cu f-string unde variabilele nu sunt înlocuite cu valorile lor. Orice sugestie e binevenită.,code_help,0,1,intermediate
+Ce este o expresie regulată?,concept_explanation,1,2,advanced
+Ce face blocul loudness în Scratch?,concept_explanation,1,1,intermediate
+"Am nevoie de o încurajare: toți colegii mei par să înțeleagă, doar eu am rămas în urmă Ai vreun sfat pentru mine?",motivation_or_encouragement,4,0,beginner
+Ce face funcția zip() în Python?,concept_explanation,1,2,advanced
+Poți să-mi scrii rezolvarea pentru codul complet pentru un joc de tip Labirint în Scratch pentru a-l rula direct în compilator.,solution_request,5,0,beginner
+Ce înseamnă serialization a datelor?,concept_explanation,1,2,advanced
+"Îmi poți da o mână de ajutor cu un hint cum să aloc dinamic memorie pentru un vector de structuri, te rog frumos.",hint_request,3,2,advanced
+Am nevoie de o sugestie pentru a face personajul să sară dar să nu treacă prin tavan fără să-mi arăți tot codul.,hint_request,3,0,beginner
+Vreau doar o mică direcție despre cum să trimit argumente variabile către o funcție (args) fără să-mi arăți tot codul.,hint_request,3,1,intermediate
+"Of, m-am blocat și simt că intru în panică pentru că se apropie examenul.",motivation_or_encouragement,4,2,advanced
+"Întrebare despre cod: am o problemă cu un pointer care devine NULL după ce ies dintr-o buclă, deși nu l-am modificat. E frustrant, ajutor!",code_help,0,2,advanced
+Ce înseamnă interface în programarea orientată pe obiecte?,concept_explanation,1,2,advanced
+De ce se întâmplă că de ce primesc TypeError când încerc să unesc un șir de caractere cu un număr? Îmi poți explica de ce?,code_help,0,1,intermediate
+Nu înțeleg de ce personajul meu rămâne blocat în perete și nu mai poate ieși oricât aș apăsa pe taste. Cum pot repara asta?,code_help,0,0,beginner
+Am nevoie de o sugestie la inversarea unei liste simplu înlănțuite.,hint_request,3,1,intermediate
+De ce apare mesajul cum pot să fac un personaj să devină transparent treptat fără să folosesc multe blocuri? Nu știu ce să-i mai fac.,code_help,0,0,beginner
+Arată-mi cum arată codul final pentru implementarea unui sistem de gestiune a stocurilor folosind fișiere binare. Vreau doar să îi dau copy-paste.,solution_request,5,2,advanced
+Vreau să văd varianta rezolvată a soluția pentru un joc de tip Catch the Falling Object. Trebuie să îl predau mâine la școală.,solution_request,5,1,intermediate
+Arată-mi cum arată codul final pentru implementarea unui sistem de gestiune a stocurilor folosind fișiere binare. Mersi mult!,solution_request,5,2,advanced
+"Nu înțeleg eroarea asta: de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Am verificat totul de trei ori.",code_help,0,1,intermediate
+Îmi puteți spune de ce de ce șirul meu de caractere are simboluri ciudate la final după ce am folosit strncpy? Mersi mult pentru timp!,code_help,0,1,intermediate
+Vreau doar o mică direcție pentru rezolvarea problemei palindromului fără a folosi slicing. Sunt la început și e greu.,hint_request,3,1,intermediate
+"Sincer, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Nu mai văd nicio soluție.",motivation_or_encouragement,4,0,beginner
+"Salut, mă simt copleșit de atâtea concepte noi într-un timp atât de scurt Mai are rost să continui?",motivation_or_encouragement,4,2,advanced
+"Întâmpin o dificultate: am setat direcția la 90 de grade, dar personajul meu merge în jos. Orice sugestie e binevenită.",code_help,0,0,beginner
+"Aș vrea să exersez un sistem de securitate cu parolă pentru a debloca un fundal secret, te rog.",exercise_request,2,1,intermediate
+Uite cum stă treaba: toate liniile de cod se amestecă în capul meu acum Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,4,2,advanced
+Vreau soluția completă pentru codul pentru o aplicație de tip calculator cu operații de bază. Sunt blocat de ore întregi și am nevoie de cod.,solution_request,5,1,intermediate
+De ce apare mesajul cum evit eroarea division by zero într-o listă unde unele elemente pot fi nule? Vreau să înțeleg unde greșesc.,code_help,0,1,intermediate
+"Mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie...",motivation_or_encouragement,4,1,intermediate
+"Am scris codul acesta și de ce primesc eroarea stack overflow chiar dacă funcția mea are o condiție de oprire? E frustrant, ajutor!",code_help,0,2,advanced
+Dă-mi codul gata de rulat pentru rezolvarea completă pentru calcularea mediei ponderate a unor note pentru a-l rula direct în compilator.,solution_request,5,1,intermediate
+Care este rolul compilatorului în limbajul C?,concept_explanation,1,1,intermediate
+Vreau soluția completă pentru varianta finală a jocului în care trebuie să eviți obstacole fără alte explicații inutile.,solution_request,5,1,intermediate
+Dă-mi un exercițiu despre o funcție care verifică dacă două șiruri de caractere sunt anagrame cu explicații la final.,exercise_request,2,1,intermediate
+"Propune-mi o temă legată de un program care calculează transpusa unei matrice citite de la tastatură, te rog.",exercise_request,2,2,advanced
+"Salut, nu cred că o să fiu capabil vreodată să lucrez în domeniu.",motivation_or_encouragement,4,1,intermediate
+"Nu mai pot, am creierul prăjit, nu mai pot să procesez nici măcar un if Spune-mi că o să fie bine.",motivation_or_encouragement,4,2,advanced
+Arată-mi cum arată codul final pentru rezolvarea completă pentru înmulțirea a două matrice fără alte explicații inutile.,solution_request,5,2,advanced
+Ce reprezintă page fault?,concept_explanation,1,2,advanced
+E așa greu... e frustrant să stai ore întregi pentru un punct și virgulă lipsă Ce să fac să nu renunț?,motivation_or_encouragement,4,2,advanced
+"Of, toate liniile de cod se amestecă în capul meu acum Nu mai văd nicio soluție.",motivation_or_encouragement,4,0,beginner
+"Ajutor, vă rog! personajul meu tremură când atinge un obstacol și nu se mai oprește din mișcare. Se poate rezolva fără a rescrie tot?",code_help,0,0,beginner
+Vreau să rezolv o problemă cu un joc de hide and seek unde personajul apare și dispare în locuri aleatorii cu explicații la final.,exercise_request,2,0,beginner
+Dă-mi codul gata de rulat pentru codul complet pentru un joc de tip Labirint în Scratch.,solution_request,5,0,beginner
+Am un bug ciudat: de ce primesc multiple definition of dacă am inclus fișierul .c în loc de .h? Mersi mult pentru timp!,code_help,0,1,intermediate
+Ce este un generator expression în Python?,concept_explanation,1,2,advanced
+Îmi poți da o mână de ajutor cu un hint pentru a face personajul să sară dar să nu treacă prin tavan pentru că m-am blocat complet.,hint_request,3,0,beginner
+Vreau doar o mică direcție referitor la clonarea inamicilor la intervale de timp pentru că m-am blocat complet.,hint_request,3,1,intermediate
+Aș vrea să exersez un script care inversează ordinea elementelor într-un vector folosind doar pointeri fără a folosi funcții gata făcute.,exercise_request,2,2,advanced
+Am nevoie de o sugestie pentru a schimba fundalul doar când scorul ajunge la 10.,hint_request,3,1,intermediate
+"Aș vrea un sfat pentru a inversa un string folosind o metodă recursivă de nivel avansat, dacă se poate.",hint_request,3,2,advanced
+Ce este un binary search tree?,concept_explanation,1,2,advanced
+"Propune-mi o temă legată de o implementare de listă simplu înlănțuită cu funcție de inserare la final, te rog.",exercise_request,2,1,intermediate
+"Salut, am o problemă: programul meu se închide instantaneu când ajunge la funcția de calcul, fără să dea niciun mesaj. Cum pot repara asta?",code_help,0,1,intermediate
+Dă-mi un indiciu cum să folosesc un mesaj broadcast ca să pornesc nivelul 2. Vreau să înțeleg singur logica.,hint_request,3,1,intermediate
+"Aș vrea să exersez un proiect care generează forme geometrice (triunghi, cerc) la cererea utilizatorului pentru portofoliu.",exercise_request,2,1,intermediate
+Ce reprezintă minification?,concept_explanation,1,2,advanced
+Arată-mi cum arată codul final pentru rezolvarea pentru calcularea factorialului unui număr folosind recursivitatea. Mersi mult!,solution_request,5,2,advanced
+Vreau să fac un proiect care implică un script care calculează dobânda compusă pe baza unei sume inițiale fără a folosi funcții gata făcute.,exercise_request,2,1,intermediate
+E așa greu... îmi vine să plâng de nervi că nu se compilează programul.,motivation_or_encouragement,4,2,advanced
+Ce este un pointer la o structură?,concept_explanation,1,2,advanced
+Poți să mă ajuți cu o idee despre cum se pot folosi variabilele pentru toate personajele. Vreau să înțeleg singur logica.,hint_request,3,0,beginner
+Arată-mi cum arată codul final pentru scriptul complet pentru un personaj care urmărește un cursor fără să treacă prin pereți. Mersi mult!,solution_request,5,0,beginner
+Dă-mi ceva de programat: o cursă de mașini controlată de la tastele săgeți cu detectarea ieșirii de pe pistă fără a folosi funcții gata făcute.,exercise_request,2,1,intermediate
+Ce face funcția getchar() în C?,concept_explanation,1,1,intermediate
+"Of, îmi place informatica, dar problemele astea mă fac să mă simt inutil E normal să mă simt așa la început?",motivation_or_encouragement,4,0,beginner
+"De ce apare mesajul am făcut un inamic care să urmărească jucătorul, dar merge cu spatele. Se poate rezolva fără a rescrie tot?",code_help,0,1,intermediate
+Poți să mă ajuți cu o idee despre cum să trimit argumente variabile către o funcție (args). Sunt la început și e greu.,hint_request,3,1,intermediate
+Dă-mi un indiciu ca să fac un cronometru care scade în timp ce joc pentru că m-am blocat complet.,hint_request,3,1,intermediate
+Am nevoie de scriptul întreg pentru codul pentru a inversa un cuvânt fără a folosi slice-uri. Trebuie să îl predau mâine la școală.,solution_request,5,1,intermediate
+"Nu înțeleg de ce de ce îmi dă eroare la printf în C dacă nu includ stdio.h? E frustrant, ajutor!",code_help,0,1,intermediate
+"Ajutor cu eroarea asta: media aritmetică îmi dă mereu 0 sau 1, chiar dacă numerele sunt mari. E ceva cu tipul de date? Cum pot repara asta?",code_help,0,1,intermediate
+Poți să mă ajuți cu o idee legat de blocurile de coliziune cu un alt sprite.,hint_request,3,0,beginner
+Ce este un syntax tree?,concept_explanation,1,2,advanced
+Codul meu se comportă ciudat: python îmi spune că tuple object has no attribute append. Cum adaug elemente? Mersi mult pentru timp!,code_help,0,1,intermediate
+Dă-mi soluția directă pentru scriptul pentru un bot de Telegram simplu care răspunde la comenzi în cel mai scurt timp posibil.,solution_request,5,1,intermediate
+"Întâmpin o dificultate: am o eroare KeyError în dicționar, deși cheia apare dacă dau print la dicționar. Am verificat totul de trei ori.",code_help,0,1,intermediate
+Scrie tu codul cap-coadă pentru codul pentru un sistem de schimbare a nivelurilor bazat pe punctaj. Vreau doar să îi dau copy-paste.,solution_request,5,1,intermediate
+"Am nevoie de o încurajare: îmi place informatica, dar problemele astea mă fac să mă simt inutil Simt că o iau razna.",motivation_or_encouragement,4,0,beginner
+Dă-mi ceva de programat: o funcție care primește o listă de numere și returnează doar numerele pare care să fie distractiv.,exercise_request,2,1,intermediate
+Poți să mă ajuți cu o idee pentru a face personajul să sară dar să nu treacă prin tavan. Sunt la început și e greu.,hint_request,3,0,beginner
+"De ce se întâmplă că am pus două puncte (:) la finalul liniei în Python, dar tot îmi dă eroare de sintaxă. Unde este eroarea?",code_help,0,1,intermediate
+Ce face blocul creează o clonă?,concept_explanation,1,1,intermediate
+Am nevoie de o sugestie cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 pentru proiectul meu.,hint_request,3,1,intermediate
+E așa greu... toate liniile de cod se amestecă în capul meu acum.,motivation_or_encouragement,4,2,advanced
+Care este diferența dintre bit și byte?,concept_explanation,1,0,beginner
+"Vreau doar o mică direcție despre cum să trimit argumente variabile către o funcție (args) de nivel avansat, dacă se poate.",hint_request,3,1,intermediate
+Arată-mi cum arată codul final pentru codul pentru a inversa un cuvânt fără a folosi slice-uri. Mersi mult!,solution_request,5,1,intermediate
+"Sincer, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Ce să fac să nu renunț?",motivation_or_encouragement,4,2,advanced
+Vreau să rezolv o problemă cu un utilitar care concatenează două fișiere text într-un al treilea care să fie distractiv.,exercise_request,2,1,intermediate
+Ce reprezintă double precision?,concept_explanation,1,2,advanced
+Dă-mi codul gata de rulat pentru implementarea unei structuri de date de tip stivă în Python. Vreau doar să îi dau copy-paste.,solution_request,5,1,intermediate
+"Nu mai pot, zici că e un zid în fața mea și nu pot să trec de el.",motivation_or_encouragement,4,0,beginner
+Vreau doar o mică direcție referitor la modul de citire al unui string cu spații folosind fgets. Sunt la început și e greu.,hint_request,3,1,intermediate
+"Salut, zici că e un zid în fața mea și nu pot să trec de el Ce să fac să nu renunț?",motivation_or_encouragement,4,0,beginner
+Dă-mi un indiciu despre cum să compar două șiruri de caractere fără strcmp pentru că m-am blocat complet.,hint_request,3,1,intermediate
+Ce reprezintă global interpreter lock (GIL)?,concept_explanation,1,2,advanced
+"Uite cum stă treaba: nu mai înțeleg nimic din ce scrie aici, parcă e chineză Nu mai văd nicio soluție.",motivation_or_encouragement,4,0,beginner
+Poți să-mi dai o provocare cu un script care inversează ordinea elementelor într-un vector folosind doar pointeri de dificultate medie.,exercise_request,2,2,advanced
+"Întrebare despre cod: python îmi dă RecursionError la o funcție de căutare binară, de ce? Nu găsesc rezolvarea pe Google.",code_help,0,2,advanced
+Aș vrea un sfat referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre fără să-mi arăți tot codul.,hint_request,3,1,intermediate
+"Dă-mi un indiciu pentru a face personajul să sară dar să nu treacă prin tavan, te rog frumos.",hint_request,3,0,beginner
+"Nu-mi da soluția, ci doar un hint la lucrul cu uniuni (union) și câmpuri pe biți pentru că m-am blocat complet.",hint_request,3,1,intermediate
+Uite cum stă treaba: e frustrant să stai ore întregi pentru un punct și virgulă lipsă.,motivation_or_encouragement,4,1,intermediate
+Am un bug ciudat: am o eroare de link-editare (linker error) deși codul sursă nu are nicio eroare de sintaxă. Sunt începător și mă depășește.,code_help,0,2,advanced
+Îmi poți da o mână de ajutor cu un hint cum să folosesc un mesaj broadcast ca să pornesc nivelul 2. Vreau să înțeleg singur logica.,hint_request,3,1,intermediate
+Ce înseamnă type annotation?,concept_explanation,1,1,intermediate
+"Sincer, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod.",motivation_or_encouragement,4,1,intermediate
+Aș vrea un sfat cum să verific dacă o cheie există într-un dicționar înainte de a o accesa pentru că m-am blocat complet.,hint_request,3,1,intermediate
+Am scris codul acesta și de ce primesc eroarea stack overflow chiar dacă funcția mea are o condiție de oprire? Nu găsesc rezolvarea pe Google.,code_help,0,2,advanced
+Poți să-mi scrii rezolvarea pentru implementarea unei funcții care să găsească cel mai mare divizor comun folosind algoritmul lui Euclid. Sunt blocat de ore întregi și am nevoie de cod.,solution_request,5,1,intermediate
+Vreau să fac un proiect care implică o aplicație care citește un număr și afișează reprezentarea lui în binar (nivel începător).,exercise_request,2,1,intermediate
+Am nevoie de scriptul întreg pentru codul pentru sortarea unui vector folosind Quicksort.,solution_request,5,2,advanced
+Vreau să fac un proiect care implică un validator de parole care verifică lungimea și prezența caracterelor speciale cât mai repede.,exercise_request,2,1,intermediate
+Dă-mi ceva de programat: un script care calculează dobânda compusă pe baza unei sume inițiale de dificultate medie.,exercise_request,2,1,intermediate
+Vreau soluția completă pentru codul pentru o aplicație de tip calculator cu operații de bază. Trebuie să îl predau mâine la școală.,solution_request,5,1,intermediate
+Ce este physical memory?,concept_explanation,1,2,advanced
+Întrebare despre cod: python îmi zice unindent does not match any outer indentation level. Cum găsesc unde e greșeala? Nu găsesc rezolvarea pe Google.,code_help,0,1,intermediate
+Ce este un argument de linie de comandă?,concept_explanation,1,2,advanced
+"Dă-mi un punct de plecare la lucrul cu librăria random pentru a genera parole unice, te rog frumos.",hint_request,3,1,intermediate
+Am nevoie de o sugestie cum să citesc un fișier CSV și să extrag doar o coloană anume pentru proiectul meu.,hint_request,3,1,intermediate
+Îmi puteți spune de ce de ce clona mea nu dispare deși am pus blocul șterge această clonă la final. Orice sugestie e binevenită.,code_help,0,0,beginner
+Ce este un callback function?,concept_explanation,1,2,advanced
+"Of, există vreo șansă să învăț asta dacă nu am bazele din liceu? Simt că o iau razna.",motivation_or_encouragement,4,1,intermediate
+"Sincer, îmi place informatica, dar problemele astea mă fac să mă simt inutil Nu mai văd nicio soluție.",motivation_or_encouragement,4,1,intermediate
+Arată-mi cum arată codul final pentru scriptul pentru mișcarea personajului cu sărituri și gravitate. Sunt blocat de ore întregi și am nevoie de cod.,solution_request,5,0,beginner
+Arată-mi cum arată codul final pentru scriptul în C pentru citirea și afișarea elementelor unei structuri de tip angajat.,solution_request,5,1,intermediate
+Ce reprezintă polymorphism?,concept_explanation,1,2,advanced
+"Salut, îmi vine să plâng de nervi că nu se compilează programul Nu mai văd nicio soluție.",motivation_or_encouragement,4,1,intermediate
+Ce face blocul atunci când se dă clic pe steguleț?,concept_explanation,1,0,beginner
+Îmi vine să plâng de nervi că nu se compilează programul...,motivation_or_encouragement,4,2,advanced
+Ai un task practic pentru un utilitar care concatenează două fișiere text într-un al treilea care să fie distractiv.,exercise_request,2,1,intermediate
+"Ajutor cu eroarea asta: vreau să fac personajul să sară, dar el pur și simplu zboară în sus fără să mai cadă. Mersi anticipat!",code_help,0,0,beginner
+"Nu înțeleg eroarea asta: de ce caracterele românești (ș, ț) apar ca semne de întrebare în consolă? Sunt începător și mă depășește.",code_help,0,1,intermediate
+"Sincer, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Ai vreun sfat pentru mine?",motivation_or_encouragement,4,2,advanced
+"Nu-mi da soluția, ci doar un hint pentru rezolvarea problemei palindromului fără a folosi slicing. Sunt la început și e greu.",hint_request,3,1,intermediate
+Vreau doar o mică direcție la lucrul cu uniuni (union) și câmpuri pe biți - nu știu ce funcție să folosesc aici.,hint_request,3,1,intermediate
+Scrie tu codul cap-coadă pentru codul pentru sortarea unui vector folosind Quicksort în cel mai scurt timp posibil.,solution_request,5,2,advanced
+Am nevoie de o sugestie referitor la modul de citire al unui string cu spații folosind fgets pentru că m-am blocat complet.,hint_request,3,1,intermediate
+De ce se întâmplă că cum scapi de expected expression în C la un bloc switch-case? Ce am greșit?,code_help,0,1,intermediate
+Dă-mi un exercițiu despre un algoritm care verifică dacă un an introdus este bisect sau nu (nivel începător).,exercise_request,2,1,intermediate
+Dă-mi un punct de plecare pentru rezolvarea problemei palindromului fără a folosi slicing.,hint_request,3,1,intermediate
+"Salut, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Spune-mi că o să fie bine.",motivation_or_encouragement,4,2,advanced

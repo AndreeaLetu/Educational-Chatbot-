@@ -1,0 +1,501 @@
+text,label,difficulty
+Dă-mi un punct de plecare cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 - nu știu ce funcție să folosesc aici.,hint_request,1
+"Vreau doar o mică direcție cum să detectez când mouse-ul este apăsat deasupra unui buton, te rog frumos.",hint_request,1
+"Am nevoie de o sugestie pentru rezolvarea problemei palindromului fără a folosi slicing de nivel avansat, dacă se poate.",hint_request,1
+Poți să mă ajuți cu o idee despre cum să trimit argumente variabile către o funcție (*args). Sunt la început și e greu.,hint_request,1
+"Nu-mi da soluția, ci doar un hint cum să citesc un fișier CSV și să extrag doar o coloană anume pentru proiectul meu.",hint_request,1
+"Îmi poți da o mână de ajutor cu un hint pentru a schimba fundalul doar când scorul ajunge la 10 de nivel avansat, dacă se poate.",hint_request,1
+"Dă-mi un punct de plecare pentru rezolvarea problemei palindromului fără a folosi slicing de nivel avansat, dacă se poate.",hint_request,1
+Îmi poți da o mână de ajutor cu un hint pentru a inversa un string folosind o metodă recursivă - nu știu ce funcție să folosesc aici.,hint_request,2
+"Îmi poți da o mână de ajutor cu un hint referitor la clonarea inamicilor la intervale de timp, te rog frumos.",hint_request,1
+Dă-mi un punct de plecare despre folosirea extensiei Pen pentru a desena un cerc.,hint_request,1
+"Aș vrea un sfat despre cum se pot folosi variabilele 'pentru toate personajele', te rog frumos.",hint_request,0
+"Nu-mi da soluția, ci doar un hint cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 pentru proiectul meu.",hint_request,1
+Aș vrea un sfat cum să verific dacă o cheie există într-un dicționar înainte de a o accesa.,hint_request,1
+Poți să mă ajuți cu o idee despre cum să compar două șiruri de caractere fără strcmp fără să-mi arăți tot codul.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint cum să citesc un fișier CSV și să extrag doar o coloană anume. Vreau să înțeleg singur logica.,hint_request,1
+Am nevoie de o sugestie pentru a schimba fundalul doar când scorul ajunge la 10.,hint_request,1
+"Nu-mi da soluția, ci doar un hint referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre de nivel avansat, dacă se poate.",hint_request,1
+Poți să mă ajuți cu o idee despre folosirea extensiei Pen pentru a desena un cerc.,hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru a găsi cel mai mare element dintr-un array printr-o funcție.",hint_request,1
+"Dă-mi un indiciu pentru rezolvarea problemei palindromului fără a folosi slicing de nivel avansat, dacă se poate.",hint_request,1
+Vreau doar o mică direcție despre cum se pot folosi variabilele 'pentru toate personajele'.,hint_request,0
+"Nu-mi da soluția, ci doar un hint referitor la transmiterea unui array ca argument într-o funcție.",hint_request,1
+"Nu-mi da soluția, ci doar un hint la lucrul cu librăria 'random' pentru a genera parole unice de nivel avansat, dacă se poate.",hint_request,1
+Dă-mi un indiciu pentru a găsi cel mai mare element dintr-un array printr-o funcție.,hint_request,1
+Dă-mi un punct de plecare pentru a inversa un string folosind o metodă recursivă fără să-mi arăți tot codul.,hint_request,2
+"Poți să mă ajuți cu o idee cum să detectez când mouse-ul este apăsat deasupra unui buton de nivel avansat, dacă se poate.",hint_request,1
+Dă-mi un punct de plecare pentru a face personajul să sară dar să nu treacă prin tavan.,hint_request,0
+Aș vrea un sfat cum să folosesc un mesaj broadcast ca să pornesc nivelul 2.,hint_request,1
+"Nu-mi da soluția, ci doar un hint ca să fac un cronometru care scade în timp ce joc.",hint_request,1
+"Nu-mi da soluția, ci doar un hint cum să citesc un fișier CSV și să extrag doar o coloană anume, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint la inversarea unei liste simplu înlănțuite. Sunt la început și e greu.",hint_request,1
+Dă-mi un punct de plecare despre cum să trimit argumente variabile către o funcție (*args). Vreau să înțeleg singur logica.,hint_request,1
+Dă-mi un indiciu despre cum să trimit argumente variabile către o funcție (*args) fără să-mi arăți tot codul.,hint_request,1
+Dă-mi un indiciu cum să citesc un fișier CSV și să extrag doar o coloană anume.,hint_request,1
+Vreau doar o mică direcție pentru a găsi cel mai mare element dintr-un array printr-o funcție pentru proiectul meu.,hint_request,1
+Vreau doar o mică direcție referitor la transmiterea unui array ca argument într-o funcție - nu știu ce funcție să folosesc aici.,hint_request,1
+"Dă-mi un indiciu referitor la modul de citire al unui string cu spații folosind fgets, te rog frumos.",hint_request,1
+Vreau doar o mică direcție cum să convertesc un șir de caractere în număr întreg manual.,hint_request,1
+"Îmi poți da o mână de ajutor cu un hint legat de blocurile de coliziune cu un alt sprite, te rog frumos.",hint_request,0
+Vreau doar o mică direcție referitor la modul de citire al unui string cu spații folosind fgets pentru proiectul meu.,hint_request,1
+Am nevoie de o sugestie la lucrul cu uniuni (union) și câmpuri pe biți.,hint_request,1
+"Nu-mi da soluția, ci doar un hint cum să convertesc un șir de caractere în număr întreg manual fără să-mi arăți tot codul.",hint_request,1
+Am nevoie de o sugestie pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos.,hint_request,1
+Am nevoie de o sugestie cum să convertesc un șir de caractere în număr întreg manual pentru proiectul meu.,hint_request,1
+"Aș vrea un sfat referitor la clonarea inamicilor la intervale de timp, te rog frumos.",hint_request,1
+Am nevoie de o sugestie cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 pentru că m-am blocat complet.,hint_request,1
+Vreau doar o mică direcție pentru a găsi cel mai mare element dintr-un array printr-o funcție fără să-mi arăți tot codul.,hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos fără să-mi arăți tot codul.",hint_request,1
+Am nevoie de o sugestie despre cum se pot folosi variabilele 'pentru toate personajele'.,hint_request,0
+Dă-mi un indiciu la algoritmul de sortare a unei liste de dicționare pentru proiectul meu.,hint_request,1
+Poți să mă ajuți cu o idee la lucrul cu librăria 'random' pentru a genera parole unice fără să-mi arăți tot codul.,hint_request,1
+Aș vrea un sfat cum să detectez când mouse-ul este apăsat deasupra unui buton.,hint_request,1
+Vreau doar o mică direcție la inversarea unei liste simplu înlănțuite fără să-mi arăți tot codul.,hint_request,1
+Dă-mi un indiciu cum să verific dacă o cheie există într-un dicționar înainte de a o accesa pentru că m-am blocat complet.,hint_request,1
+Dă-mi un punct de plecare despre cum se folosește un context manager (with open) pentru scrierea în fișiere. Sunt la început și e greu.,hint_request,1
+Aș vrea un sfat la lucrul cu librăria 'random' pentru a genera parole unice fără să-mi arăți tot codul.,hint_request,1
+Vreau doar o mică direcție despre cum se pot folosi variabilele 'pentru toate personajele' pentru că m-am blocat complet.,hint_request,0
+Dă-mi un indiciu cum să convertesc un șir de caractere în număr întreg manual.,hint_request,1
+"Îmi poți da o mână de ajutor cu un hint despre cum să compar două șiruri de caractere fără strcmp de nivel avansat, dacă se poate.",hint_request,1
+Îmi poți da o mână de ajutor cu un hint despre cum se pot folosi variabilele 'pentru toate personajele'. Sunt la început și e greu.,hint_request,0
+Am nevoie de o sugestie cum să citesc un fișier CSV și să extrag doar o coloană anume pentru proiectul meu.,hint_request,1
+"Îmi poți da o mână de ajutor cu un hint referitor la modul de citire al unui string cu spații folosind fgets, te rog frumos.",hint_request,1
+Îmi poți da o mână de ajutor cu un hint cum să verific dacă o cheie există într-un dicționar înainte de a o accesa pentru proiectul meu.,hint_request,1
+Poți să mă ajuți cu o idee la lucrul cu uniuni (union) și câmpuri pe biți fără să-mi arăți tot codul.,hint_request,1
+Am nevoie de o sugestie referitor la transmiterea unui array ca argument într-o funcție. Sunt la început și e greu.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint cum să convertesc un șir de caractere în număr întreg manual.,hint_request,1
+Poți să mă ajuți cu o idee despre cum să trimit argumente variabile către o funcție (*args) - nu știu ce funcție să folosesc aici.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint cum să aloc dinamic memorie pentru un vector de structuri.,hint_request,2
+Poți să mă ajuți cu o idee la lucrul cu librăria 'random' pentru a genera parole unice.,hint_request,1
+Am nevoie de o sugestie referitor la transmiterea unui array ca argument într-o funcție.,hint_request,1
+Poți să mă ajuți cu o idee pentru a găsi cel mai mare element dintr-un array printr-o funcție.,hint_request,1
+Vreau doar o mică direcție legat de folosirea operatorului modulo pentru a afla restul împărțirii.,hint_request,1
+Aș vrea un sfat referitor la clonarea inamicilor la intervale de timp fără să-mi arăți tot codul.,hint_request,1
+Poți să mă ajuți cu o idee cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 pentru proiectul meu.,hint_request,1
+Dă-mi un punct de plecare despre cum se pot folosi variabilele 'pentru toate personajele' pentru că m-am blocat complet.,hint_request,0
+"Nu-mi da soluția, ci doar un hint despre folosirea extensiei Pen pentru a desena un cerc fără să-mi arăți tot codul.",hint_request,1
+Dă-mi un punct de plecare legat de folosirea operatorului modulo pentru a afla restul împărțirii.,hint_request,1
+"Aș vrea un sfat pentru a face personajul să sară dar să nu treacă prin tavan de nivel avansat, dacă se poate.",hint_request,0
+Poți să mă ajuți cu o idee referitor la clonarea inamicilor la intervale de timp.,hint_request,1
+"Nu-mi da soluția, ci doar un hint referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre.",hint_request,1
+"Aș vrea un sfat legat de folosirea operatorului modulo pentru a afla restul împărțirii de nivel avansat, dacă se poate.",hint_request,1
+Aș vrea un sfat referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre - nu știu ce funcție să folosesc aici.,hint_request,1
+"Nu-mi da soluția, ci doar un hint referitor la modul de citire al unui string cu spații folosind fgets pentru proiectul meu.",hint_request,1
+Vreau doar o mică direcție la lucrul cu librăria 'random' pentru a genera parole unice pentru proiectul meu.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint cum să aloc dinamic memorie pentru un vector de structuri. Vreau să înțeleg singur logica.,hint_request,2
+Poți să mă ajuți cu o idee cum să convertesc un șir de caractere în număr întreg manual pentru că m-am blocat complet.,hint_request,1
+Vreau doar o mică direcție pentru a parcurge o matrice folosind doar aritmetica pointerilor.,hint_request,2
+"Poți să mă ajuți cu o idee pentru a inversa un string folosind o metodă recursivă de nivel avansat, dacă se poate.",hint_request,2
+Am nevoie de o sugestie pentru a schimba fundalul doar când scorul ajunge la 10 fără să-mi arăți tot codul.,hint_request,1
+Am nevoie de o sugestie despre cum să compar două șiruri de caractere fără strcmp.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint despre cum să trimit argumente variabile către o funcție (*args) pentru că m-am blocat complet.,hint_request,1
+Aș vrea un sfat cum să aloc dinamic memorie pentru un vector de structuri pentru că m-am blocat complet.,hint_request,2
+Vreau doar o mică direcție la lucrul cu uniuni (union) și câmpuri pe biți pentru proiectul meu.,hint_request,1
+"Nu-mi da soluția, ci doar un hint despre cum să trimit argumente variabile către o funcție (*args) - nu știu ce funcție să folosesc aici.",hint_request,1
+"Nu-mi da soluția, ci doar un hint ca să fac un cronometru care scade în timp ce joc, te rog frumos.",hint_request,1
+Am nevoie de o sugestie cum să citesc un fișier CSV și să extrag doar o coloană anume. Sunt la început și e greu.,hint_request,1
+Am nevoie de o sugestie despre cum să trimit argumente variabile către o funcție (*args). Sunt la început și e greu.,hint_request,1
+Dă-mi un punct de plecare legat de blocurile de coliziune cu un alt sprite. Vreau să înțeleg singur logica.,hint_request,0
+Dă-mi un indiciu cum să aloc dinamic memorie pentru un vector de structuri - nu știu ce funcție să folosesc aici.,hint_request,2
+"Nu-mi da soluția, ci doar un hint cum să detectez când mouse-ul este apăsat deasupra unui buton de nivel avansat, dacă se poate.",hint_request,1
+Poți să mă ajuți cu o idee pentru a schimba fundalul doar când scorul ajunge la 10.,hint_request,1
+Vreau doar o mică direcție pentru a schimba fundalul doar când scorul ajunge la 10. Sunt la început și e greu.,hint_request,1
+Am nevoie de o sugestie referitor la clonarea inamicilor la intervale de timp.,hint_request,1
+"Aș vrea un sfat despre cum să compar două șiruri de caractere fără strcmp de nivel avansat, dacă se poate.",hint_request,1
+"Dă-mi un punct de plecare cum să verific dacă o cheie există într-un dicționar înainte de a o accesa de nivel avansat, dacă se poate.",hint_request,1
+"Aș vrea un sfat ca să fac un cronometru care scade în timp ce joc de nivel avansat, dacă se poate.",hint_request,1
+Poți să mă ajuți cu o idee pentru a parcurge o matrice folosind doar aritmetica pointerilor.,hint_request,2
+Am nevoie de o sugestie cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 pentru proiectul meu.,hint_request,1
+Dă-mi un indiciu referitor la transmiterea unui array ca argument într-o funcție.,hint_request,1
+Vreau doar o mică direcție pentru rezolvarea problemei palindromului fără a folosi slicing pentru că m-am blocat complet.,hint_request,1
+Poți să mă ajuți cu o idee cum să citesc un fișier CSV și să extrag doar o coloană anume. Sunt la început și e greu.,hint_request,1
+Dă-mi un indiciu despre folosirea extensiei Pen pentru a desena un cerc.,hint_request,1
+Dă-mi un punct de plecare referitor la transmiterea unui array ca argument într-o funcție.,hint_request,1
+"Poți să mă ajuți cu o idee pentru a inversa un string folosind o metodă recursivă, te rog frumos.",hint_request,2
+Poți să mă ajuți cu o idee pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos.,hint_request,1
+Am nevoie de o sugestie despre folosirea extensiei Pen pentru a desena un cerc.,hint_request,1
+Dă-mi un indiciu despre cum se pot folosi variabilele 'pentru toate personajele'.,hint_request,0
+"Vreau doar o mică direcție pentru a parcurge o matrice folosind doar aritmetica pointerilor, te rog frumos.",hint_request,2
+"Am nevoie de o sugestie pentru a parcurge o matrice folosind doar aritmetica pointerilor de nivel avansat, dacă se poate.",hint_request,2
+Dă-mi un indiciu la lucrul cu uniuni (union) și câmpuri pe biți. Vreau să înțeleg singur logica.,hint_request,1
+Dă-mi un indiciu despre cum să compar două șiruri de caractere fără strcmp. Sunt la început și e greu.,hint_request,1
+"Aș vrea un sfat legat de utilizarea list comprehension pentru a filtra numere prime, te rog frumos.",hint_request,1
+Am nevoie de o sugestie cum să aloc dinamic memorie pentru un vector de structuri - nu știu ce funcție să folosesc aici.,hint_request,2
+"Îmi poți da o mână de ajutor cu un hint referitor la clonarea inamicilor la intervale de timp de nivel avansat, dacă se poate.",hint_request,1
+Dă-mi un indiciu pentru a schimba fundalul doar când scorul ajunge la 10. Sunt la început și e greu.,hint_request,1
+Aș vrea un sfat legat de folosirea operatorului modulo pentru a afla restul împărțirii.,hint_request,1
+Vreau doar o mică direcție ca să fac un cronometru care scade în timp ce joc pentru proiectul meu.,hint_request,1
+Poți să mă ajuți cu o idee la algoritmul de sortare a unei liste de dicționare fără să-mi arăți tot codul.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint pentru a schimba fundalul doar când scorul ajunge la 10. Vreau să înțeleg singur logica.,hint_request,1
+Am nevoie de o sugestie la algoritmul de sortare a unei liste de dicționare - nu știu ce funcție să folosesc aici.,hint_request,1
+Vreau doar o mică direcție cum să aloc dinamic memorie pentru un vector de structuri - nu știu ce funcție să folosesc aici.,hint_request,2
+Îmi poți da o mână de ajutor cu un hint pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos.,hint_request,1
+Dă-mi un punct de plecare la inversarea unei liste simplu înlănțuite pentru proiectul meu.,hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru a face personajul să sară dar să nu treacă prin tavan pentru că m-am blocat complet.",hint_request,0
+Îmi poți da o mână de ajutor cu un hint legat de blocurile de coliziune cu un alt sprite.,hint_request,0
+Vreau doar o mică direcție cum să detectez când mouse-ul este apăsat deasupra unui buton.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint despre cum se folosește un context manager (with open) pentru scrierea în fișiere. Sunt la început și e greu.,hint_request,1
+Vreau doar o mică direcție pentru a parcurge o matrice folosind doar aritmetica pointerilor pentru că m-am blocat complet.,hint_request,2
+"Nu-mi da soluția, ci doar un hint pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos. Sunt la început și e greu.",hint_request,1
+Dă-mi un indiciu pentru a inversa un string folosind o metodă recursivă. Vreau să înțeleg singur logica.,hint_request,2
+"Nu-mi da soluția, ci doar un hint la lucrul cu uniuni (union) și câmpuri pe biți pentru că m-am blocat complet.",hint_request,1
+Aș vrea un sfat referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre fără să-mi arăți tot codul.,hint_request,1
+Poți să mă ajuți cu o idee legat de utilizarea list comprehension pentru a filtra numere prime pentru că m-am blocat complet.,hint_request,1
+Dă-mi un indiciu despre cum să trimit argumente variabile către o funcție (*args). Vreau să înțeleg singur logica.,hint_request,1
+Aș vrea un sfat legat de blocurile de coliziune cu un alt sprite fără să-mi arăți tot codul.,hint_request,0
+Vreau doar o mică direcție referitor la modul de citire al unui string cu spații folosind fgets. Sunt la început și e greu.,hint_request,1
+Dă-mi un punct de plecare la lucrul cu librăria 'random' pentru a genera parole unice fără să-mi arăți tot codul.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint pentru a face personajul să sară dar să nu treacă prin tavan pentru proiectul meu.,hint_request,0
+Aș vrea un sfat pentru a parcurge o matrice folosind doar aritmetica pointerilor.,hint_request,2
+"Poți să mă ajuți cu o idee despre cum să trimit argumente variabile către o funcție (*args) de nivel avansat, dacă se poate.",hint_request,1
+Vreau doar o mică direcție cum să verific dacă o cheie există într-un dicționar înainte de a o accesa pentru că m-am blocat complet.,hint_request,1
+Aș vrea un sfat pentru a inversa un string folosind o metodă recursivă. Vreau să înțeleg singur logica.,hint_request,2
+Vreau doar o mică direcție la lucrul cu uniuni (union) și câmpuri pe biți - nu știu ce funcție să folosesc aici.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint legat de blocurile de coliziune cu un alt sprite. Sunt la început și e greu.,hint_request,0
+Am nevoie de o sugestie pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos pentru că m-am blocat complet.,hint_request,1
+Dă-mi un indiciu la lucrul cu uniuni (union) și câmpuri pe biți.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint cum să detectez când mouse-ul este apăsat deasupra unui buton pentru că m-am blocat complet.,hint_request,1
+"Dă-mi un indiciu pentru a face personajul să sară dar să nu treacă prin tavan, te rog frumos.",hint_request,0
+"Vreau doar o mică direcție despre cum să trimit argumente variabile către o funcție (*args), te rog frumos.",hint_request,1
+Aș vrea un sfat legat de folosirea operatorului modulo pentru a afla restul împărțirii pentru că m-am blocat complet.,hint_request,1
+"Nu-mi da soluția, ci doar un hint referitor la transmiterea unui array ca argument într-o funcție - nu știu ce funcție să folosesc aici.",hint_request,1
+"Am nevoie de o sugestie pentru a găsi cel mai mare element dintr-un array printr-o funcție, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint ca să fac un cronometru care scade în timp ce joc de nivel avansat, dacă se poate.",hint_request,1
+Aș vrea un sfat legat de utilizarea list comprehension pentru a filtra numere prime. Sunt la început și e greu.,hint_request,1
+"Poți să mă ajuți cu o idee pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos de nivel avansat, dacă se poate.",hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru a schimba fundalul doar când scorul ajunge la 10.",hint_request,1
+Dă-mi un indiciu legat de utilizarea list comprehension pentru a filtra numere prime - nu știu ce funcție să folosesc aici.,hint_request,1
+Vreau doar o mică direcție cum să aloc dinamic memorie pentru un vector de structuri.,hint_request,2
+Îmi poți da o mână de ajutor cu un hint cum să citesc un fișier CSV și să extrag doar o coloană anume fără să-mi arăți tot codul.,hint_request,1
+Vreau doar o mică direcție despre cum să trimit argumente variabile către o funcție (*args) fără să-mi arăți tot codul.,hint_request,1
+Dă-mi un punct de plecare legat de folosirea operatorului modulo pentru a afla restul împărțirii - nu știu ce funcție să folosesc aici.,hint_request,1
+Vreau doar o mică direcție despre folosirea extensiei Pen pentru a desena un cerc.,hint_request,1
+Aș vrea un sfat referitor la modul de citire al unui string cu spații folosind fgets pentru că m-am blocat complet.,hint_request,1
+Dă-mi un punct de plecare despre cum se folosește un context manager (with open) pentru scrierea în fișiere.,hint_request,1
+Dă-mi un indiciu cum să citesc un fișier CSV și să extrag doar o coloană anume fără să-mi arăți tot codul.,hint_request,1
+Aș vrea un sfat cum să citesc un fișier CSV și să extrag doar o coloană anume. Sunt la început și e greu.,hint_request,1
+"Vreau doar o mică direcție despre cum să trimit argumente variabile către o funcție (*args) de nivel avansat, dacă se poate.",hint_request,1
+"Nu-mi da soluția, ci doar un hint cum să citesc un fișier CSV și să extrag doar o coloană anume pentru că m-am blocat complet.",hint_request,1
+"Aș vrea un sfat cum să detectez când mouse-ul este apăsat deasupra unui buton, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint cum să verific dacă o cheie există într-un dicționar înainte de a o accesa.",hint_request,1
+"Aș vrea un sfat cum să folosesc un mesaj broadcast ca să pornesc nivelul 2, te rog frumos.",hint_request,1
+Dă-mi un punct de plecare pentru a găsi cel mai mare element dintr-un array printr-o funcție pentru proiectul meu.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint cum să folosesc un mesaj broadcast ca să pornesc nivelul 2. Vreau să înțeleg singur logica.,hint_request,1
+Vreau doar o mică direcție ca să fac un cronometru care scade în timp ce joc.,hint_request,1
+Am nevoie de o sugestie despre cum să trimit argumente variabile către o funcție (*args) pentru proiectul meu.,hint_request,1
+"Vreau doar o mică direcție despre cum să compar două șiruri de caractere fără strcmp de nivel avansat, dacă se poate.",hint_request,1
+Vreau doar o mică direcție referitor la clonarea inamicilor la intervale de timp pentru că m-am blocat complet.,hint_request,1
+Vreau doar o mică direcție despre cum să trimit argumente variabile către o funcție (*args). Sunt la început și e greu.,hint_request,1
+"Dă-mi un punct de plecare despre cum să compar două șiruri de caractere fără strcmp de nivel avansat, dacă se poate.",hint_request,1
+"Aș vrea un sfat referitor la modul de citire al unui string cu spații folosind fgets, te rog frumos.",hint_request,1
+Îmi poți da o mână de ajutor cu un hint pentru a găsi cel mai mare element dintr-un array printr-o funcție. Sunt la început și e greu.,hint_request,1
+Dă-mi un indiciu referitor la modul de citire al unui string cu spații folosind fgets.,hint_request,1
+"Îmi poți da o mână de ajutor cu un hint pentru a găsi cel mai mare element dintr-un array printr-o funcție, te rog frumos.",hint_request,1
+Dă-mi un punct de plecare la lucrul cu uniuni (union) și câmpuri pe biți. Sunt la început și e greu.,hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru a găsi cel mai mare element dintr-un array printr-o funcție - nu știu ce funcție să folosesc aici.",hint_request,1
+Aș vrea un sfat legat de folosirea operatorului modulo pentru a afla restul împărțirii. Sunt la început și e greu.,hint_request,1
+Poți să mă ajuți cu o idee despre folosirea extensiei Pen pentru a desena un cerc - nu știu ce funcție să folosesc aici.,hint_request,1
+Dă-mi un indiciu cum să convertesc un șir de caractere în număr întreg manual. Sunt la început și e greu.,hint_request,1
+Am nevoie de o sugestie legat de blocurile de coliziune cu un alt sprite.,hint_request,0
+"Dă-mi un punct de plecare la algoritmul de sortare a unei liste de dicționare de nivel avansat, dacă se poate.",hint_request,1
+Vreau doar o mică direcție referitor la modul de citire al unui string cu spații folosind fgets fără să-mi arăți tot codul.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint pentru a parcurge o matrice folosind doar aritmetica pointerilor.,hint_request,2
+Aș vrea un sfat legat de blocurile de coliziune cu un alt sprite - nu știu ce funcție să folosesc aici.,hint_request,0
+Dă-mi un punct de plecare despre cum să trimit argumente variabile către o funcție (*args).,hint_request,1
+"Îmi poți da o mână de ajutor cu un hint despre cum se pot folosi variabilele 'pentru toate personajele', te rog frumos.",hint_request,0
+Am nevoie de o sugestie pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos pentru proiectul meu.,hint_request,1
+Vreau doar o mică direcție la lucrul cu uniuni (union) și câmpuri pe biți.,hint_request,1
+"Nu-mi da soluția, ci doar un hint despre cum să trimit argumente variabile către o funcție (*args).",hint_request,1
+Am nevoie de o sugestie cum să citesc un fișier CSV și să extrag doar o coloană anume.,hint_request,1
+Vreau doar o mică direcție la inversarea unei liste simplu înlănțuite - nu știu ce funcție să folosesc aici.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint la algoritmul de sortare a unei liste de dicționare.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint despre cum să trimit argumente variabile către o funcție (*args).,hint_request,1
+Îmi poți da o mână de ajutor cu un hint despre cum se folosește un context manager (with open) pentru scrierea în fișiere.,hint_request,1
+Dă-mi un indiciu cum să convertesc un șir de caractere în număr întreg manual - nu știu ce funcție să folosesc aici.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint despre cum să compar două șiruri de caractere fără strcmp.,hint_request,1
+"Nu-mi da soluția, ci doar un hint la algoritmul de sortare a unei liste de dicționare.",hint_request,1
+"Vreau doar o mică direcție la algoritmul de sortare a unei liste de dicționare de nivel avansat, dacă se poate.",hint_request,1
+"Nu-mi da soluția, ci doar un hint cum să citesc un fișier CSV și să extrag doar o coloană anume. Sunt la început și e greu.",hint_request,1
+Vreau doar o mică direcție cum să citesc un fișier CSV și să extrag doar o coloană anume pentru proiectul meu.,hint_request,1
+Am nevoie de o sugestie referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre.,hint_request,1
+Vreau doar o mică direcție legat de blocurile de coliziune cu un alt sprite pentru că m-am blocat complet.,hint_request,0
+"Nu-mi da soluția, ci doar un hint pentru a găsi cel mai mare element dintr-un array printr-o funcție. Vreau să înțeleg singur logica.",hint_request,1
+Îmi poți da o mână de ajutor cu un hint pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos. Vreau să înțeleg singur logica.,hint_request,1
+Dă-mi un punct de plecare referitor la clonarea inamicilor la intervale de timp.,hint_request,1
+Vreau doar o mică direcție pentru a face personajul să sară dar să nu treacă prin tavan - nu știu ce funcție să folosesc aici.,hint_request,0
+"Aș vrea un sfat referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint legat de folosirea operatorului modulo pentru a afla restul împărțirii.",hint_request,1
+Vreau doar o mică direcție pentru a parcurge o matrice folosind doar aritmetica pointerilor - nu știu ce funcție să folosesc aici.,hint_request,2
+Aș vrea un sfat pentru a parcurge o matrice folosind doar aritmetica pointerilor - nu știu ce funcție să folosesc aici.,hint_request,2
+Vreau doar o mică direcție pentru a schimba fundalul doar când scorul ajunge la 10.,hint_request,1
+Vreau doar o mică direcție la algoritmul de sortare a unei liste de dicționare.,hint_request,1
+Vreau doar o mică direcție legat de blocurile de coliziune cu un alt sprite fără să-mi arăți tot codul.,hint_request,0
+"Poți să mă ajuți cu o idee ca să fac un cronometru care scade în timp ce joc, te rog frumos.",hint_request,1
+"Dă-mi un punct de plecare la inversarea unei liste simplu înlănțuite, te rog frumos.",hint_request,1
+Am nevoie de o sugestie cum să verific dacă o cheie există într-un dicționar înainte de a o accesa.,hint_request,1
+Dă-mi un punct de plecare cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 pentru că m-am blocat complet.,hint_request,1
+"Nu-mi da soluția, ci doar un hint cum să convertesc un șir de caractere în număr întreg manual, te rog frumos.",hint_request,1
+"Dă-mi un indiciu la lucrul cu uniuni (union) și câmpuri pe biți, te rog frumos.",hint_request,1
+Poți să mă ajuți cu o idee legat de folosirea operatorului modulo pentru a afla restul împărțirii.,hint_request,1
+"Îmi poți da o mână de ajutor cu un hint la algoritmul de sortare a unei liste de dicționare, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre pentru proiectul meu.",hint_request,1
+Aș vrea un sfat despre folosirea extensiei Pen pentru a desena un cerc fără să-mi arăți tot codul.,hint_request,1
+Dă-mi un punct de plecare referitor la modul de citire al unui string cu spații folosind fgets. Vreau să înțeleg singur logica.,hint_request,1
+Dă-mi un indiciu despre cum să compar două șiruri de caractere fără strcmp.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint la lucrul cu librăria 'random' pentru a genera parole unice.,hint_request,1
+"Dă-mi un punct de plecare referitor la clonarea inamicilor la intervale de timp de nivel avansat, dacă se poate.",hint_request,1
+"Dă-mi un punct de plecare legat de folosirea operatorului modulo pentru a afla restul împărțirii, te rog frumos.",hint_request,1
+Îmi poți da o mână de ajutor cu un hint legat de folosirea operatorului modulo pentru a afla restul împărțirii.,hint_request,1
+Dă-mi un punct de plecare ca să fac un cronometru care scade în timp ce joc fără să-mi arăți tot codul.,hint_request,1
+"Nu-mi da soluția, ci doar un hint legat de blocurile de coliziune cu un alt sprite de nivel avansat, dacă se poate.",hint_request,0
+Îmi poți da o mână de ajutor cu un hint pentru a face personajul să sară dar să nu treacă prin tavan pentru că m-am blocat complet.,hint_request,0
+Dă-mi un punct de plecare cum să verific dacă o cheie există într-un dicționar înainte de a o accesa pentru proiectul meu.,hint_request,1
+Aș vrea un sfat referitor la clonarea inamicilor la intervale de timp.,hint_request,1
+Poți să mă ajuți cu o idee la algoritmul de sortare a unei liste de dicționare pentru proiectul meu.,hint_request,1
+"Dă-mi un indiciu pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos de nivel avansat, dacă se poate.",hint_request,1
+"Am nevoie de o sugestie la algoritmul de sortare a unei liste de dicționare de nivel avansat, dacă se poate.",hint_request,1
+"Vreau doar o mică direcție cum să citesc un fișier CSV și să extrag doar o coloană anume de nivel avansat, dacă se poate.",hint_request,1
+"Nu-mi da soluția, ci doar un hint la lucrul cu uniuni (union) și câmpuri pe biți, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint la lucrul cu librăria 'random' pentru a genera parole unice fără să-mi arăți tot codul.",hint_request,1
+Îmi poți da o mână de ajutor cu un hint referitor la modul de citire al unui string cu spații folosind fgets.,hint_request,1
+Dă-mi un punct de plecare legat de utilizarea list comprehension pentru a filtra numere prime pentru că m-am blocat complet.,hint_request,1
+Am nevoie de o sugestie ca să fac un cronometru care scade în timp ce joc.,hint_request,1
+Am nevoie de o sugestie pentru rezolvarea problemei palindromului fără a folosi slicing.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint despre folosirea extensiei Pen pentru a desena un cerc - nu știu ce funcție să folosesc aici.,hint_request,1
+Vreau doar o mică direcție referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre. Vreau să înțeleg singur logica.,hint_request,1
+Dă-mi un indiciu ca să fac un cronometru care scade în timp ce joc pentru că m-am blocat complet.,hint_request,1
+Vreau doar o mică direcție pentru a schimba fundalul doar când scorul ajunge la 10 fără să-mi arăți tot codul.,hint_request,1
+Am nevoie de o sugestie pentru a inversa un string folosind o metodă recursivă. Sunt la început și e greu.,hint_request,2
+Dă-mi un punct de plecare cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 fără să-mi arăți tot codul.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint pentru a schimba fundalul doar când scorul ajunge la 10.,hint_request,1
+Am nevoie de o sugestie pentru a găsi cel mai mare element dintr-un array printr-o funcție pentru proiectul meu.,hint_request,1
+Aș vrea un sfat cum să verific dacă o cheie există într-un dicționar înainte de a o accesa pentru că m-am blocat complet.,hint_request,1
+Poți să mă ajuți cu o idee cum să citesc un fișier CSV și să extrag doar o coloană anume fără să-mi arăți tot codul.,hint_request,1
+Am nevoie de o sugestie referitor la clonarea inamicilor la intervale de timp. Vreau să înțeleg singur logica.,hint_request,1
+"Îmi poți da o mână de ajutor cu un hint despre folosirea extensiei Pen pentru a desena un cerc de nivel avansat, dacă se poate.",hint_request,1
+Dă-mi un punct de plecare ca să fac un cronometru care scade în timp ce joc.,hint_request,1
+Am nevoie de o sugestie despre cum se pot folosi variabilele 'pentru toate personajele' pentru proiectul meu.,hint_request,0
+Dă-mi un indiciu la lucrul cu uniuni (union) și câmpuri pe biți - nu știu ce funcție să folosesc aici.,hint_request,1
+"Am nevoie de o sugestie cum să detectez când mouse-ul este apăsat deasupra unui buton de nivel avansat, dacă se poate.",hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru a inversa un string folosind o metodă recursivă.",hint_request,2
+"Nu-mi da soluția, ci doar un hint ca să fac un cronometru care scade în timp ce joc. Vreau să înțeleg singur logica.",hint_request,1
+Dă-mi un indiciu referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre pentru că m-am blocat complet.,hint_request,1
+Dă-mi un punct de plecare la lucrul cu librăria 'random' pentru a genera parole unice. Vreau să înțeleg singur logica.,hint_request,1
+Aș vrea un sfat ca să fac un cronometru care scade în timp ce joc.,hint_request,1
+Poți să mă ajuți cu o idee la lucrul cu uniuni (union) și câmpuri pe biți pentru proiectul meu.,hint_request,1
+Dă-mi un indiciu pentru a găsi cel mai mare element dintr-un array printr-o funcție fără să-mi arăți tot codul.,hint_request,1
+Am nevoie de o sugestie la lucrul cu librăria 'random' pentru a genera parole unice. Sunt la început și e greu.,hint_request,1
+Dă-mi un indiciu pentru a găsi cel mai mare element dintr-un array printr-o funcție. Vreau să înțeleg singur logica.,hint_request,1
+Poți să mă ajuți cu o idee pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos fără să-mi arăți tot codul.,hint_request,1
+"Nu-mi da soluția, ci doar un hint la inversarea unei liste simplu înlănțuite.",hint_request,1
+Dă-mi un punct de plecare legat de blocurile de coliziune cu un alt sprite.,hint_request,0
+"Poți să mă ajuți cu o idee ca să fac un cronometru care scade în timp ce joc de nivel avansat, dacă se poate.",hint_request,1
+Dă-mi un punct de plecare pentru a inversa un string folosind o metodă recursivă.,hint_request,2
+"Nu-mi da soluția, ci doar un hint referitor la modul de citire al unui string cu spații folosind fgets.",hint_request,1
+Am nevoie de o sugestie despre cum se pot folosi variabilele 'pentru toate personajele' - nu știu ce funcție să folosesc aici.,hint_request,0
+Dă-mi un punct de plecare ca să fac un cronometru care scade în timp ce joc - nu știu ce funcție să folosesc aici.,hint_request,1
+Aș vrea un sfat legat de blocurile de coliziune cu un alt sprite pentru că m-am blocat complet.,hint_request,0
+"Aș vrea un sfat pentru rezolvarea problemei palindromului fără a folosi slicing, te rog frumos.",hint_request,1
+Poți să mă ajuți cu o idee ca să fac un cronometru care scade în timp ce joc.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint legat de blocurile de coliziune cu un alt sprite fără să-mi arăți tot codul.,hint_request,0
+Vreau doar o mică direcție cum să detectez când mouse-ul este apăsat deasupra unui buton pentru că m-am blocat complet.,hint_request,1
+Poți să mă ajuți cu o idee legat de blocurile de coliziune cu un alt sprite pentru că m-am blocat complet.,hint_request,0
+Vreau doar o mică direcție pentru a parcurge o matrice folosind doar aritmetica pointerilor. Sunt la început și e greu.,hint_request,2
+Am nevoie de o sugestie despre cum se folosește un context manager (with open) pentru scrierea în fișiere. Vreau să înțeleg singur logica.,hint_request,1
+Dă-mi un punct de plecare referitor la modul de citire al unui string cu spații folosind fgets pentru că m-am blocat complet.,hint_request,1
+Poți să mă ajuți cu o idee cum să convertesc un șir de caractere în număr întreg manual.,hint_request,1
+Vreau doar o mică direcție referitor la modul de citire al unui string cu spații folosind fgets.,hint_request,1
+"Nu-mi da soluția, ci doar un hint referitor la clonarea inamicilor la intervale de timp. Sunt la început și e greu.",hint_request,1
+Îmi poți da o mână de ajutor cu un hint la algoritmul de sortare a unei liste de dicționare - nu știu ce funcție să folosesc aici.,hint_request,1
+"Îmi poți da o mână de ajutor cu un hint pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint legat de utilizarea list comprehension pentru a filtra numere prime.",hint_request,1
+Dă-mi un punct de plecare cum să citesc un fișier CSV și să extrag doar o coloană anume. Vreau să înțeleg singur logica.,hint_request,1
+Aș vrea un sfat pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos.,hint_request,1
+Dă-mi un punct de plecare pentru a schimba fundalul doar când scorul ajunge la 10 fără să-mi arăți tot codul.,hint_request,1
+"Dă-mi un indiciu referitor la clonarea inamicilor la intervale de timp de nivel avansat, dacă se poate.",hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru a schimba fundalul doar când scorul ajunge la 10 de nivel avansat, dacă se poate.",hint_request,1
+Dă-mi un punct de plecare pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos pentru proiectul meu.,hint_request,1
+Dă-mi un indiciu despre cum să compar două șiruri de caractere fără strcmp pentru că m-am blocat complet.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint cum să detectez când mouse-ul este apăsat deasupra unui buton - nu știu ce funcție să folosesc aici.,hint_request,1
+Am nevoie de o sugestie la lucrul cu librăria 'random' pentru a genera parole unice pentru că m-am blocat complet.,hint_request,1
+Aș vrea un sfat despre folosirea extensiei Pen pentru a desena un cerc.,hint_request,1
+Am nevoie de o sugestie referitor la clonarea inamicilor la intervale de timp pentru proiectul meu.,hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru rezolvarea problemei palindromului fără a folosi slicing. Vreau să înțeleg singur logica.",hint_request,1
+Poți să mă ajuți cu o idee despre cum să trimit argumente variabile către o funcție (*args) pentru proiectul meu.,hint_request,1
+Poți să mă ajuți cu o idee referitor la clonarea inamicilor la intervale de timp pentru că m-am blocat complet.,hint_request,1
+Dă-mi un punct de plecare legat de utilizarea list comprehension pentru a filtra numere prime fără să-mi arăți tot codul.,hint_request,1
+Aș vrea un sfat ca să fac un cronometru care scade în timp ce joc pentru că m-am blocat complet.,hint_request,1
+Dă-mi un punct de plecare legat de utilizarea list comprehension pentru a filtra numere prime. Vreau să înțeleg singur logica.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 pentru proiectul meu.,hint_request,1
+Dă-mi un punct de plecare cum să detectez când mouse-ul este apăsat deasupra unui buton pentru că m-am blocat complet.,hint_request,1
+Dă-mi un indiciu cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 pentru că m-am blocat complet.,hint_request,1
+Vreau doar o mică direcție la lucrul cu librăria 'random' pentru a genera parole unice - nu știu ce funcție să folosesc aici.,hint_request,1
+Vreau doar o mică direcție legat de folosirea operatorului modulo pentru a afla restul împărțirii fără să-mi arăți tot codul.,hint_request,1
+Dă-mi un indiciu cum să verific dacă o cheie există într-un dicționar înainte de a o accesa.,hint_request,1
+"Aș vrea un sfat referitor la transmiterea unui array ca argument într-o funcție de nivel avansat, dacă se poate.",hint_request,1
+Aș vrea un sfat despre cum să trimit argumente variabile către o funcție (*args) - nu știu ce funcție să folosesc aici.,hint_request,1
+Dă-mi un indiciu cum să citesc un fișier CSV și să extrag doar o coloană anume - nu știu ce funcție să folosesc aici.,hint_request,1
+"Nu-mi da soluția, ci doar un hint referitor la transmiterea unui array ca argument într-o funcție de nivel avansat, dacă se poate.",hint_request,1
+Îmi poți da o mână de ajutor cu un hint pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos pentru că m-am blocat complet.,hint_request,1
+"Dă-mi un indiciu la inversarea unei liste simplu înlănțuite, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint legat de folosirea operatorului modulo pentru a afla restul împărțirii fără să-mi arăți tot codul.",hint_request,1
+Poți să mă ajuți cu o idee despre cum se folosește un context manager (with open) pentru scrierea în fișiere fără să-mi arăți tot codul.,hint_request,1
+Poți să mă ajuți cu o idee pentru a parcurge o matrice folosind doar aritmetica pointerilor fără să-mi arăți tot codul.,hint_request,2
+Dă-mi un indiciu referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre pentru proiectul meu.,hint_request,1
+"Dă-mi un indiciu pentru a găsi cel mai mare element dintr-un array printr-o funcție de nivel avansat, dacă se poate.",hint_request,1
+Îmi poți da o mână de ajutor cu un hint pentru a schimba fundalul doar când scorul ajunge la 10 pentru proiectul meu.,hint_request,1
+Dă-mi un indiciu pentru a face personajul să sară dar să nu treacă prin tavan.,hint_request,0
+"Nu-mi da soluția, ci doar un hint cum să citesc un fișier CSV și să extrag doar o coloană anume.",hint_request,1
+Vreau doar o mică direcție pentru a face personajul să sară dar să nu treacă prin tavan.,hint_request,0
+Îmi poți da o mână de ajutor cu un hint despre cum să compar două șiruri de caractere fără strcmp - nu știu ce funcție să folosesc aici.,hint_request,1
+Aș vrea un sfat legat de utilizarea list comprehension pentru a filtra numere prime - nu știu ce funcție să folosesc aici.,hint_request,1
+Dă-mi un punct de plecare legat de utilizarea list comprehension pentru a filtra numere prime.,hint_request,1
+"Nu-mi da soluția, ci doar un hint referitor la modul de citire al unui string cu spații folosind fgets, te rog frumos.",hint_request,1
+Poți să mă ajuți cu o idee legat de folosirea operatorului modulo pentru a afla restul împărțirii - nu știu ce funcție să folosesc aici.,hint_request,1
+Am nevoie de o sugestie despre cum să trimit argumente variabile către o funcție (*args).,hint_request,1
+Am nevoie de o sugestie cum să citesc un fișier CSV și să extrag doar o coloană anume. Vreau să înțeleg singur logica.,hint_request,1
+"Îmi poți da o mână de ajutor cu un hint pentru a schimba fundalul doar când scorul ajunge la 10, te rog frumos.",hint_request,1
+Dă-mi un punct de plecare la inversarea unei liste simplu înlănțuite. Vreau să înțeleg singur logica.,hint_request,1
+"Am nevoie de o sugestie pentru a schimba fundalul doar când scorul ajunge la 10 de nivel avansat, dacă se poate.",hint_request,1
+"Am nevoie de o sugestie despre cum se folosește un context manager (with open) pentru scrierea în fișiere de nivel avansat, dacă se poate.",hint_request,1
+Am nevoie de o sugestie despre folosirea extensiei Pen pentru a desena un cerc. Vreau să înțeleg singur logica.,hint_request,1
+Dă-mi un indiciu pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos.,hint_request,1
+Dă-mi un indiciu cum să folosesc un mesaj broadcast ca să pornesc nivelul 2. Sunt la început și e greu.,hint_request,1
+Dă-mi un indiciu legat de utilizarea list comprehension pentru a filtra numere prime.,hint_request,1
+Aș vrea un sfat cum să verific dacă o cheie există într-un dicționar înainte de a o accesa pentru proiectul meu.,hint_request,1
+"Nu-mi da soluția, ci doar un hint la algoritmul de sortare a unei liste de dicționare - nu știu ce funcție să folosesc aici.",hint_request,1
+Am nevoie de o sugestie despre cum se pot folosi variabilele 'pentru toate personajele'. Vreau să înțeleg singur logica.,hint_request,0
+"Dă-mi un indiciu referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre de nivel avansat, dacă se poate.",hint_request,1
+Dă-mi un punct de plecare la lucrul cu librăria 'random' pentru a genera parole unice.,hint_request,1
+"Poți să mă ajuți cu o idee referitor la modul de citire al unui string cu spații folosind fgets, te rog frumos.",hint_request,1
+Îmi poți da o mână de ajutor cu un hint cum să verific dacă o cheie există într-un dicționar înainte de a o accesa.,hint_request,1
+"Nu-mi da soluția, ci doar un hint referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre. Sunt la început și e greu.",hint_request,1
+"Nu-mi da soluția, ci doar un hint legat de utilizarea list comprehension pentru a filtra numere prime pentru că m-am blocat complet.",hint_request,1
+Dă-mi un indiciu legat de blocurile de coliziune cu un alt sprite.,hint_request,0
+"Nu-mi da soluția, ci doar un hint despre cum se folosește un context manager (with open) pentru scrierea în fișiere pentru proiectul meu.",hint_request,1
+"Aș vrea un sfat pentru a inversa un string folosind o metodă recursivă de nivel avansat, dacă se poate.",hint_request,2
+Poți să mă ajuți cu o idee legat de blocurile de coliziune cu un alt sprite.,hint_request,0
+Am nevoie de o sugestie pentru rezolvarea problemei palindromului fără a folosi slicing fără să-mi arăți tot codul.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint la lucrul cu uniuni (union) și câmpuri pe biți.,hint_request,1
+Vreau doar o mică direcție pentru a inversa un string folosind o metodă recursivă.,hint_request,2
+Dă-mi un punct de plecare cum să citesc un fișier CSV și să extrag doar o coloană anume pentru că m-am blocat complet.,hint_request,1
+Poți să mă ajuți cu o idee la lucrul cu librăria 'random' pentru a genera parole unice pentru proiectul meu.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint cum să convertesc un șir de caractere în număr întreg manual fără să-mi arăți tot codul.,hint_request,1
+Poți să mă ajuți cu o idee pentru a inversa un string folosind o metodă recursivă fără să-mi arăți tot codul.,hint_request,2
+Poți să mă ajuți cu o idee referitor la modul de citire al unui string cu spații folosind fgets pentru proiectul meu.,hint_request,1
+"Nu-mi da soluția, ci doar un hint cum să verific dacă o cheie există într-un dicționar înainte de a o accesa. Sunt la început și e greu.",hint_request,1
+Dă-mi un punct de plecare cum să citesc un fișier CSV și să extrag doar o coloană anume.,hint_request,1
+Dă-mi un punct de plecare pentru rezolvarea problemei palindromului fără a folosi slicing pentru proiectul meu.,hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru rezolvarea problemei palindromului fără a folosi slicing. Sunt la început și e greu.",hint_request,1
+"Am nevoie de o sugestie pentru a schimba fundalul doar când scorul ajunge la 10, te rog frumos.",hint_request,1
+Poți să mă ajuți cu o idee pentru rezolvarea problemei palindromului fără a folosi slicing.,hint_request,1
+"Nu-mi da soluția, ci doar un hint legat de folosirea operatorului modulo pentru a afla restul împărțirii de nivel avansat, dacă se poate.",hint_request,1
+"Nu-mi da soluția, ci doar un hint referitor la modul de citire al unui string cu spații folosind fgets. Vreau să înțeleg singur logica.",hint_request,1
+Dă-mi un punct de plecare pentru a găsi cel mai mare element dintr-un array printr-o funcție fără să-mi arăți tot codul.,hint_request,1
+Vreau doar o mică direcție legat de blocurile de coliziune cu un alt sprite.,hint_request,0
+Aș vrea un sfat pentru a face personajul să sară dar să nu treacă prin tavan fără să-mi arăți tot codul.,hint_request,0
+Am nevoie de o sugestie la inversarea unei liste simplu înlănțuite.,hint_request,1
+Poți să mă ajuți cu o idee pentru a parcurge o matrice folosind doar aritmetica pointerilor pentru că m-am blocat complet.,hint_request,2
+"Nu-mi da soluția, ci doar un hint despre folosirea extensiei Pen pentru a desena un cerc pentru proiectul meu.",hint_request,1
+Dă-mi un punct de plecare pentru a parcurge o matrice folosind doar aritmetica pointerilor pentru că m-am blocat complet.,hint_request,2
+Am nevoie de o sugestie la algoritmul de sortare a unei liste de dicționare.,hint_request,1
+Dă-mi un punct de plecare cum să aloc dinamic memorie pentru un vector de structuri.,hint_request,2
+"Dă-mi un indiciu pentru a găsi cel mai mare element dintr-un array printr-o funcție, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint referitor la transmiterea unui array ca argument într-o funcție pentru proiectul meu.",hint_request,1
+Dă-mi un punct de plecare ca să fac un cronometru care scade în timp ce joc pentru proiectul meu.,hint_request,1
+Aș vrea un sfat legat de utilizarea list comprehension pentru a filtra numere prime.,hint_request,1
+Vreau doar o mică direcție legat de utilizarea list comprehension pentru a filtra numere prime.,hint_request,1
+Vreau doar o mică direcție pentru a inversa un string folosind o metodă recursivă pentru că m-am blocat complet.,hint_request,2
+"Nu-mi da soluția, ci doar un hint referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre - nu știu ce funcție să folosesc aici.",hint_request,1
+Dă-mi un punct de plecare pentru rezolvarea problemei palindromului fără a folosi slicing. Vreau să înțeleg singur logica.,hint_request,1
+Dă-mi un indiciu referitor la transmiterea unui array ca argument într-o funcție fără să-mi arăți tot codul.,hint_request,1
+Dă-mi un indiciu cum să aloc dinamic memorie pentru un vector de structuri.,hint_request,2
+Vreau doar o mică direcție referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre pentru că m-am blocat complet.,hint_request,1
+Vreau doar o mică direcție despre folosirea extensiei Pen pentru a desena un cerc - nu știu ce funcție să folosesc aici.,hint_request,1
+Aș vrea un sfat pentru a găsi cel mai mare element dintr-un array printr-o funcție fără să-mi arăți tot codul.,hint_request,1
+Dă-mi un indiciu cum să folosesc un mesaj broadcast ca să pornesc nivelul 2. Vreau să înțeleg singur logica.,hint_request,1
+Vreau doar o mică direcție despre folosirea extensiei Pen pentru a desena un cerc pentru că m-am blocat complet.,hint_request,1
+Poți să mă ajuți cu o idee cum să aloc dinamic memorie pentru un vector de structuri pentru proiectul meu.,hint_request,2
+"Nu-mi da soluția, ci doar un hint la lucrul cu librăria 'random' pentru a genera parole unice pentru că m-am blocat complet.",hint_request,1
+"Am nevoie de o sugestie pentru a găsi cel mai mare element dintr-un array printr-o funcție de nivel avansat, dacă se poate.",hint_request,1
+"Nu-mi da soluția, ci doar un hint despre folosirea extensiei Pen pentru a desena un cerc. Sunt la început și e greu.",hint_request,1
+"Poți să mă ajuți cu o idee pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint despre cum să compar două șiruri de caractere fără strcmp.",hint_request,1
+Am nevoie de o sugestie pentru a face personajul să sară dar să nu treacă prin tavan fără să-mi arăți tot codul.,hint_request,0
+"Dă-mi un indiciu cum să detectez când mouse-ul este apăsat deasupra unui buton de nivel avansat, dacă se poate.",hint_request,1
+Poți să mă ajuți cu o idee despre cum se pot folosi variabilele 'pentru toate personajele'. Vreau să înțeleg singur logica.,hint_request,0
+Dă-mi un punct de plecare cum să verific dacă o cheie există într-un dicționar înainte de a o accesa fără să-mi arăți tot codul.,hint_request,1
+Dă-mi un indiciu cum să convertesc un șir de caractere în număr întreg manual pentru proiectul meu.,hint_request,1
+Vreau doar o mică direcție referitor la transmiterea unui array ca argument într-o funcție.,hint_request,1
+Am nevoie de o sugestie referitor la transmiterea unui array ca argument într-o funcție pentru proiectul meu.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint pentru a găsi cel mai mare element dintr-un array printr-o funcție - nu știu ce funcție să folosesc aici.,hint_request,1
+Dă-mi un punct de plecare cum să folosesc un mesaj broadcast ca să pornesc nivelul 2. Sunt la început și e greu.,hint_request,1
+"Îmi poți da o mână de ajutor cu un hint despre cum se folosește un context manager (with open) pentru scrierea în fișiere, te rog frumos.",hint_request,1
+Dă-mi un indiciu pentru a parcurge o matrice folosind doar aritmetica pointerilor pentru proiectul meu.,hint_request,2
+Dă-mi un indiciu pentru rezolvarea problemei palindromului fără a folosi slicing. Sunt la început și e greu.,hint_request,1
+Aș vrea un sfat la lucrul cu uniuni (union) și câmpuri pe biți. Vreau să înțeleg singur logica.,hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos pentru proiectul meu.",hint_request,1
+Dă-mi un punct de plecare pentru a parcurge o matrice folosind doar aritmetica pointerilor - nu știu ce funcție să folosesc aici.,hint_request,2
+"Nu-mi da soluția, ci doar un hint despre cum să trimit argumente variabile către o funcție (*args), te rog frumos.",hint_request,1
+Am nevoie de o sugestie referitor la modul de citire al unui string cu spații folosind fgets pentru proiectul meu.,hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru a face personajul să sară dar să nu treacă prin tavan.",hint_request,0
+"Nu-mi da soluția, ci doar un hint legat de utilizarea list comprehension pentru a filtra numere prime. Vreau să înțeleg singur logica.",hint_request,1
+"Poți să mă ajuți cu o idee pentru a găsi cel mai mare element dintr-un array printr-o funcție de nivel avansat, dacă se poate.",hint_request,1
+Dă-mi un indiciu cum să folosesc un mesaj broadcast ca să pornesc nivelul 2.,hint_request,1
+Am nevoie de o sugestie pentru a schimba fundalul doar când scorul ajunge la 10. Sunt la început și e greu.,hint_request,1
+Poți să mă ajuți cu o idee pentru a face personajul să sară dar să nu treacă prin tavan. Sunt la început și e greu.,hint_request,0
+Am nevoie de o sugestie ca să fac un cronometru care scade în timp ce joc - nu știu ce funcție să folosesc aici.,hint_request,1
+Am nevoie de o sugestie la lucrul cu uniuni (union) și câmpuri pe biți pentru proiectul meu.,hint_request,1
+Dă-mi un punct de plecare referitor la modul de citire al unui string cu spații folosind fgets.,hint_request,1
+Am nevoie de o sugestie referitor la modul de citire al unui string cu spații folosind fgets pentru că m-am blocat complet.,hint_request,1
+"Nu-mi da soluția, ci doar un hint cum să detectez când mouse-ul este apăsat deasupra unui buton.",hint_request,1
+"Nu-mi da soluția, ci doar un hint despre cum se folosește un context manager (with open) pentru scrierea în fișiere.",hint_request,1
+Poți să mă ajuți cu o idee referitor la modul de citire al unui string cu spații folosind fgets.,hint_request,1
+Vreau doar o mică direcție pentru rezolvarea problemei palindromului fără a folosi slicing. Sunt la început și e greu.,hint_request,1
+"Aș vrea un sfat la lucrul cu uniuni (union) și câmpuri pe biți, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 fără să-mi arăți tot codul.",hint_request,1
+Dă-mi un punct de plecare referitor la clonarea inamicilor la intervale de timp pentru proiectul meu.,hint_request,1
+Am nevoie de o sugestie pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos. Sunt la început și e greu.,hint_request,1
+Dă-mi un punct de plecare referitor la modul de citire al unui string cu spații folosind fgets - nu știu ce funcție să folosesc aici.,hint_request,1
+Dă-mi un punct de plecare pentru rezolvarea problemei palindromului fără a folosi slicing.,hint_request,1
+Aș vrea un sfat la lucrul cu librăria 'random' pentru a genera parole unice.,hint_request,1
+Dă-mi un punct de plecare la inversarea unei liste simplu înlănțuite - nu știu ce funcție să folosesc aici.,hint_request,1
+Poți să mă ajuți cu o idee pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos - nu știu ce funcție să folosesc aici.,hint_request,1
+Vreau doar o mică direcție legat de blocurile de coliziune cu un alt sprite pentru proiectul meu.,hint_request,0
+Aș vrea un sfat cum să convertesc un șir de caractere în număr întreg manual fără să-mi arăți tot codul.,hint_request,1
+Am nevoie de o sugestie despre cum se folosește un context manager (with open) pentru scrierea în fișiere.,hint_request,1
+"Dă-mi un punct de plecare cum să detectez când mouse-ul este apăsat deasupra unui buton de nivel avansat, dacă se poate.",hint_request,1
+Vreau doar o mică direcție pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos.,hint_request,1
+Poți să mă ajuți cu o idee referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre.,hint_request,1
+"Îmi poți da o mână de ajutor cu un hint cum să aloc dinamic memorie pentru un vector de structuri, te rog frumos.",hint_request,2
+Îmi poți da o mână de ajutor cu un hint pentru a face personajul să sară dar să nu treacă prin tavan. Vreau să înțeleg singur logica.,hint_request,0
+Dă-mi un indiciu ca să fac un cronometru care scade în timp ce joc fără să-mi arăți tot codul.,hint_request,1
+Vreau doar o mică direcție despre cum se pot folosi variabilele 'pentru toate personajele' fără să-mi arăți tot codul.,hint_request,0
+Poți să mă ajuți cu o idee despre cum se pot folosi variabilele 'pentru toate personajele' fără să-mi arăți tot codul.,hint_request,0
+Vreau doar o mică direcție cum să convertesc un șir de caractere în număr întreg manual - nu știu ce funcție să folosesc aici.,hint_request,1
+Vreau doar o mică direcție pentru a parcurge o matrice folosind doar aritmetica pointerilor. Vreau să înțeleg singur logica.,hint_request,2
+Vreau doar o mică direcție la inversarea unei liste simplu înlănțuite.,hint_request,1
+Dă-mi un punct de plecare ca să fac un cronometru care scade în timp ce joc pentru că m-am blocat complet.,hint_request,1
+Am nevoie de o sugestie la inversarea unei liste simplu înlănțuite - nu știu ce funcție să folosesc aici.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint referitor la modul de citire al unui string cu spații folosind fgets fără să-mi arăți tot codul.,hint_request,1
+Am nevoie de o sugestie despre cum să compar două șiruri de caractere fără strcmp. Vreau să înțeleg singur logica.,hint_request,1
+Îmi poți da o mână de ajutor cu un hint despre cum să trimit argumente variabile către o funcție (*args) - nu știu ce funcție să folosesc aici.,hint_request,1
+Dă-mi un indiciu la inversarea unei liste simplu înlănțuite.,hint_request,1
+"Nu-mi da soluția, ci doar un hint despre cum se pot folosi variabilele 'pentru toate personajele'. Sunt la început și e greu.",hint_request,0
+Am nevoie de o sugestie cum să folosesc un mesaj broadcast ca să pornesc nivelul 2 fără să-mi arăți tot codul.,hint_request,1
+"Nu-mi da soluția, ci doar un hint la algoritmul de sortare a unei liste de dicționare de nivel avansat, dacă se poate.",hint_request,1
+"Dă-mi un punct de plecare pentru a crea o mișcare fluidă stânga-dreapta fără să se întoarcă cu capul în jos, te rog frumos.",hint_request,1
+"Nu-mi da soluția, ci doar un hint cum să detectez când mouse-ul este apăsat deasupra unui buton pentru proiectul meu.",hint_request,1
+Poți să mă ajuți cu o idee pentru a schimba fundalul doar când scorul ajunge la 10 pentru că m-am blocat complet.,hint_request,1
+Vreau doar o mică direcție la lucrul cu librăria 'random' pentru a genera parole unice.,hint_request,1
+Aș vrea un sfat ca să fac un cronometru care scade în timp ce joc. Vreau să înțeleg singur logica.,hint_request,1
+Dă-mi un indiciu pentru a inversa un string folosind o metodă recursivă - nu știu ce funcție să folosesc aici.,hint_request,2
+Vreau doar o mică direcție cum să citesc un fișier CSV și să extrag doar o coloană anume pentru că m-am blocat complet.,hint_request,1
+"Poți să mă ajuți cu o idee referitor la modul de a trata excepțiile când utilizatorul introduce text în loc de cifre de nivel avansat, dacă se poate.",hint_request,1
+"Dă-mi un punct de plecare la lucrul cu librăria 'random' pentru a genera parole unice, te rog frumos.",hint_request,1
+Aș vrea un sfat pentru a găsi cel mai mare element dintr-un array printr-o funcție pentru că m-am blocat complet.,hint_request,1
+"Dă-mi un punct de plecare referitor la transmiterea unui array ca argument într-o funcție de nivel avansat, dacă se poate.",hint_request,1
+"Nu-mi da soluția, ci doar un hint pentru a inversa un string folosind o metodă recursivă. Sunt la început și e greu.",hint_request,2
+"Nu-mi da soluția, ci doar un hint despre cum se pot folosi variabilele 'pentru toate personajele'.",hint_request,0
+"Poți să mă ajuți cu o idee despre folosirea extensiei Pen pentru a desena un cerc, te rog frumos.",hint_request,1

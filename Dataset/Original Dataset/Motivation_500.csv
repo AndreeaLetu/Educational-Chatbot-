@@ -1,0 +1,501 @@
+text,label,difficulty
+"Mă simt groaznic, nu cred că o să fiu capabil vreodată să lucrez în domeniu.",motivation_or_encouragement,0
+E frustrant să stai ore întregi pentru un punct și virgulă lipsă...,motivation_or_encouragement,1
+"E așa greu... îmi place informatica, dar problemele astea mă fac să mă simt inutil Ce să fac să nu renunț?",motivation_or_encouragement,1
+Zici că e un zid în fața mea și nu pot să trec de el...,motivation_or_encouragement,1
+"Mă simt groaznic, sunt la un pas de a renunța definitiv la cursul ăsta Ce să fac să nu renunț?",motivation_or_encouragement,0
+Mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod...,motivation_or_encouragement,0
+"Of, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie.",motivation_or_encouragement,2
+"Salut, mi se pare totul prea matematic și logic pentru cum gândesc eu Nu mai văd nicio soluție.",motivation_or_encouragement,2
+"Mă simt groaznic, cred că programarea nu e de mine, sunt prea praf.",motivation_or_encouragement,2
+"Salut, mă simt copleșit de atâtea concepte noi într-un timp atât de scurt Mai are rost să continui?",motivation_or_encouragement,2
+"Salut, cred că programarea nu e de mine, sunt prea praf Spune-mi că o să fie bine.",motivation_or_encouragement,1
+"Sincer, e frustrant să stai ore întregi pentru un punct și virgulă lipsă.",motivation_or_encouragement,1
+"Am creierul prăjit, nu mai pot să procesez nici măcar un 'if'...",motivation_or_encouragement,0
+"Sincer, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie.",motivation_or_encouragement,0
+"Salut, toate liniile de cod se amestecă în capul meu acum.",motivation_or_encouragement,1
+"Nu mai pot, îmi place informatica, dar problemele astea mă fac să mă simt inutil.",motivation_or_encouragement,2
+"Sincer, am creierul prăjit, nu mai pot să procesez nici măcar un 'if'.",motivation_or_encouragement,2
+Uite cum stă treaba: parcă fac un pas înainte și zece înapoi cu materia asta.,motivation_or_encouragement,1
+"Am nevoie de o încurajare: nu mai înțeleg nimic din ce scrie aici, parcă e chineză Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Nu mai pot, toate liniile de cod se amestecă în capul meu acum Simt că o iau razna.",motivation_or_encouragement,2
+"Îmi place informatica, dar problemele astea mă fac să mă simt inutil...",motivation_or_encouragement,0
+"Uite cum stă treaba: îmi place informatica, dar problemele astea mă fac să mă simt inutil.",motivation_or_encouragement,1
+"Sincer, îmi vine să plâng de nervi că nu se compilează programul Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,1
+Am nevoie de o încurajare: mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,1
+"Sincer, zici că e un zid în fața mea și nu pot să trec de el Spune-mi că o să fie bine.",motivation_or_encouragement,1
+"Sincer, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Nu mai văd nicio soluție.",motivation_or_encouragement,1
+"Nu mai pot, sunt la un pas de a renunța definitiv la cursul ăsta Mai are rost să continui?",motivation_or_encouragement,1
+"Salut, îmi vine să plâng de nervi că nu se compilează programul Nu mai văd nicio soluție.",motivation_or_encouragement,1
+"Of, toți colegii mei par să înțeleagă, doar eu am rămas în urmă.",motivation_or_encouragement,1
+"Nu mai pot, există vreo șansă să învăț asta dacă nu am bazele din liceu?.",motivation_or_encouragement,0
+"Of, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Ai vreun sfat pentru mine?",motivation_or_encouragement,2
+"Sincer, parcă fac un pas înainte și zece înapoi cu materia asta.",motivation_or_encouragement,0
+Există vreo șansă să învăț asta dacă nu am bazele din liceu?...,motivation_or_encouragement,0
+"Sincer, există vreo șansă să învăț asta dacă nu am bazele din liceu?.",motivation_or_encouragement,1
+"Of, toate liniile de cod se amestecă în capul meu acum Nu mai văd nicio soluție.",motivation_or_encouragement,0
+"E așa greu... mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,0
+Uite cum stă treaba: chiar merită tot efortul ăsta? simt că nu progresez deloc Nu mai văd nicio soluție.,motivation_or_encouragement,2
+"Uite cum stă treaba: am creierul prăjit, nu mai pot să procesez nici măcar un 'if'.",motivation_or_encouragement,2
+Parcă fac un pas înainte și zece înapoi cu materia asta...,motivation_or_encouragement,1
+"Uite cum stă treaba: nu mai înțeleg nimic din ce scrie aici, parcă e chineză.",motivation_or_encouragement,1
+"Sincer, m-am blocat și simt că intru în panică pentru că se apropie examenul E normal să mă simt așa la început?",motivation_or_encouragement,1
+"Salut, nu mai înțeleg nimic din ce scrie aici, parcă e chineză.",motivation_or_encouragement,0
+Am nevoie de o încurajare: sunt la un pas de a renunța definitiv la cursul ăsta.,motivation_or_encouragement,2
+"Of, nu cred că o să fiu capabil vreodată să lucrez în domeniu.",motivation_or_encouragement,2
+E așa greu... zici că e un zid în fața mea și nu pot să trec de el.,motivation_or_encouragement,0
+"Nu mai pot, îmi vine să plâng de nervi că nu se compilează programul.",motivation_or_encouragement,2
+"Salut, zici că e un zid în fața mea și nu pot să trec de el.",motivation_or_encouragement,0
+"Nu mai pot, mi se pare totul prea matematic și logic pentru cum gândesc eu.",motivation_or_encouragement,0
+E așa greu... parcă fac un pas înainte și zece înapoi cu materia asta.,motivation_or_encouragement,2
+"Mă simt groaznic, îmi place informatica, dar problemele astea mă fac să mă simt inutil.",motivation_or_encouragement,2
+Chiar merită tot efortul ăsta? simt că nu progresez deloc...,motivation_or_encouragement,2
+E așa greu... e frustrant să stai ore întregi pentru un punct și virgulă lipsă.,motivation_or_encouragement,0
+"Sincer, toate liniile de cod se amestecă în capul meu acum.",motivation_or_encouragement,0
+E așa greu... există vreo șansă să învăț asta dacă nu am bazele din liceu?.,motivation_or_encouragement,2
+"Salut, parcă fac un pas înainte și zece înapoi cu materia asta Ce să fac să nu renunț?",motivation_or_encouragement,2
+Uite cum stă treaba: există vreo șansă să învăț asta dacă nu am bazele din liceu? Ai vreun sfat pentru mine?,motivation_or_encouragement,1
+Mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam...,motivation_or_encouragement,1
+Am nevoie de o încurajare: mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Spune-mi că o să fie bine.,motivation_or_encouragement,0
+"Mă simt groaznic, îmi vine să plâng de nervi că nu se compilează programul Simt că o iau razna.",motivation_or_encouragement,0
+E așa greu... mi se pare totul prea matematic și logic pentru cum gândesc eu Ce să fac să nu renunț?,motivation_or_encouragement,1
+"Nu mai pot, mă simt copleșit de atâtea concepte noi într-un timp atât de scurt.",motivation_or_encouragement,0
+Am nevoie de o încurajare: nu cred că o să fiu capabil vreodată să lucrez în domeniu.,motivation_or_encouragement,0
+"Of, zici că e un zid în fața mea și nu pot să trec de el.",motivation_or_encouragement,2
+Am nevoie de o încurajare: sunt la un pas de a renunța definitiv la cursul ăsta Ai vreun sfat pentru mine?,motivation_or_encouragement,1
+"Of, există vreo șansă să învăț asta dacă nu am bazele din liceu?.",motivation_or_encouragement,2
+"Mă simt groaznic, îmi place informatica, dar problemele astea mă fac să mă simt inutil Simt că o iau razna.",motivation_or_encouragement,2
+"Toți colegii mei par să înțeleagă, doar eu am rămas în urmă...",motivation_or_encouragement,1
+Uite cum stă treaba: toate liniile de cod se amestecă în capul meu acum.,motivation_or_encouragement,1
+Uite cum stă treaba: m-am blocat și simt că intru în panică pentru că se apropie examenul Spune-mi că o să fie bine.,motivation_or_encouragement,1
+E așa greu... mă simt copleșit de atâtea concepte noi într-un timp atât de scurt Spune-mi că o să fie bine.,motivation_or_encouragement,0
+"Of, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Nu mai văd nicio soluție.",motivation_or_encouragement,2
+"Nu mai pot, chiar merită tot efortul ăsta? simt că nu progresez deloc Mai are rost să continui?",motivation_or_encouragement,2
+"Uite cum stă treaba: nu mai înțeleg nimic din ce scrie aici, parcă e chineză Simt că o iau razna.",motivation_or_encouragement,0
+"E așa greu... nu mai înțeleg nimic din ce scrie aici, parcă e chineză.",motivation_or_encouragement,2
+"Salut, îmi place informatica, dar problemele astea mă fac să mă simt inutil.",motivation_or_encouragement,0
+"Sincer, cred că programarea nu e de mine, sunt prea praf.",motivation_or_encouragement,2
+Uite cum stă treaba: nu cred că o să fiu capabil vreodată să lucrez în domeniu.,motivation_or_encouragement,1
+E așa greu... nu cred că o să fiu capabil vreodată să lucrez în domeniu.,motivation_or_encouragement,0
+Uite cum stă treaba: îmi vine să plâng de nervi că nu se compilează programul Ce să fac să nu renunț?,motivation_or_encouragement,1
+Am nevoie de o încurajare: m-am blocat și simt că intru în panică pentru că se apropie examenul.,motivation_or_encouragement,1
+"Sincer, îmi vine să plâng de nervi că nu se compilează programul Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Salut, mă simt copleșit de atâtea concepte noi într-un timp atât de scurt.",motivation_or_encouragement,0
+"Cred că programarea nu e de mine, sunt prea praf...",motivation_or_encouragement,0
+"Nu mai pot, m-am blocat și simt că intru în panică pentru că se apropie examenul Ce să fac să nu renunț?",motivation_or_encouragement,1
+"Mă simt groaznic, mă simt copleșit de atâtea concepte noi într-un timp atât de scurt.",motivation_or_encouragement,0
+"Nu mai pot, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Mai are rost să continui?",motivation_or_encouragement,2
+"Mă simt groaznic, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Simt că o iau razna.",motivation_or_encouragement,0
+Nu cred că o să fiu capabil vreodată să lucrez în domeniu...,motivation_or_encouragement,1
+"Sincer, chiar merită tot efortul ăsta? simt că nu progresez deloc E normal să mă simt așa la început?",motivation_or_encouragement,2
+"Nu mai pot, îmi place informatica, dar problemele astea mă fac să mă simt inutil Spune-mi că o să fie bine.",motivation_or_encouragement,1
+"Nu mai pot, nu cred că o să fiu capabil vreodată să lucrez în domeniu.",motivation_or_encouragement,0
+Mi se pare totul prea matematic și logic pentru cum gândesc eu...,motivation_or_encouragement,2
+"Mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie...",motivation_or_encouragement,1
+"Of, sunt la un pas de a renunța definitiv la cursul ăsta E normal să mă simt așa la început?",motivation_or_encouragement,2
+"E așa greu... am creierul prăjit, nu mai pot să procesez nici măcar un 'if' E normal să mă simt așa la început?",motivation_or_encouragement,1
+"Of, nu cred că o să fiu capabil vreodată să lucrez în domeniu E normal să mă simt așa la început?",motivation_or_encouragement,2
+"Mă simt groaznic, zici că e un zid în fața mea și nu pot să trec de el Mai are rost să continui?",motivation_or_encouragement,0
+"E așa greu... nu mai înțeleg nimic din ce scrie aici, parcă e chineză Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Mă simt groaznic, parcă fac un pas înainte și zece înapoi cu materia asta Ai vreun sfat pentru mine?",motivation_or_encouragement,2
+Am nevoie de o încurajare: chiar merită tot efortul ăsta? simt că nu progresez deloc.,motivation_or_encouragement,0
+"Mă simt groaznic, m-am blocat și simt că intru în panică pentru că se apropie examenul.",motivation_or_encouragement,0
+Toate liniile de cod se amestecă în capul meu acum...,motivation_or_encouragement,0
+"Mă simt groaznic, există vreo șansă să învăț asta dacă nu am bazele din liceu? Ai vreun sfat pentru mine?",motivation_or_encouragement,2
+"Of, toate liniile de cod se amestecă în capul meu acum.",motivation_or_encouragement,1
+"Am nevoie de o încurajare: îmi place informatica, dar problemele astea mă fac să mă simt inutil.",motivation_or_encouragement,1
+Uite cum stă treaba: parcă fac un pas înainte și zece înapoi cu materia asta Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,2
+Sunt la un pas de a renunța definitiv la cursul ăsta...,motivation_or_encouragement,0
+"Of, sunt la un pas de a renunța definitiv la cursul ăsta Nu mai văd nicio soluție.",motivation_or_encouragement,1
+"Sincer, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Of, nu mai înțeleg nimic din ce scrie aici, parcă e chineză E normal să mă simt așa la început?",motivation_or_encouragement,2
+"E așa greu... mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Ai vreun sfat pentru mine?",motivation_or_encouragement,2
+Uite cum stă treaba: m-am blocat și simt că intru în panică pentru că se apropie examenul.,motivation_or_encouragement,1
+Uite cum stă treaba: mă simt copleșit de atâtea concepte noi într-un timp atât de scurt.,motivation_or_encouragement,2
+"Nu mai pot, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod E normal să mă simt așa la început?",motivation_or_encouragement,1
+"Mă simt groaznic, chiar merită tot efortul ăsta? simt că nu progresez deloc.",motivation_or_encouragement,0
+"Of, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam.",motivation_or_encouragement,1
+"Am nevoie de o încurajare: am creierul prăjit, nu mai pot să procesez nici măcar un 'if'.",motivation_or_encouragement,1
+"Of, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Simt că o iau razna.",motivation_or_encouragement,2
+"Mă simt groaznic, parcă fac un pas înainte și zece înapoi cu materia asta Simt că o iau razna.",motivation_or_encouragement,0
+Uite cum stă treaba: e frustrant să stai ore întregi pentru un punct și virgulă lipsă.,motivation_or_encouragement,1
+"Salut, există vreo șansă să învăț asta dacă nu am bazele din liceu?.",motivation_or_encouragement,1
+"Salut, cred că programarea nu e de mine, sunt prea praf Ce să fac să nu renunț?",motivation_or_encouragement,2
+Am nevoie de o încurajare: mi se pare totul prea matematic și logic pentru cum gândesc eu E normal să mă simt așa la început?,motivation_or_encouragement,1
+Am nevoie de o încurajare: m-am blocat și simt că intru în panică pentru că se apropie examenul Nu mai văd nicio soluție.,motivation_or_encouragement,2
+"Salut, m-am blocat și simt că intru în panică pentru că se apropie examenul.",motivation_or_encouragement,2
+"Sincer, chiar merită tot efortul ăsta? simt că nu progresez deloc.",motivation_or_encouragement,1
+"Of, zici că e un zid în fața mea și nu pot să trec de el E normal să mă simt așa la început?",motivation_or_encouragement,2
+"Salut, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Mai are rost să continui?",motivation_or_encouragement,1
+"Mă simt groaznic, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+Uite cum stă treaba: toate liniile de cod se amestecă în capul meu acum Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,2
+"Salut, îmi vine să plâng de nervi că nu se compilează programul.",motivation_or_encouragement,1
+"Salut, cred că programarea nu e de mine, sunt prea praf E normal să mă simt așa la început?",motivation_or_encouragement,2
+"Of, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,0
+Uite cum stă treaba: chiar merită tot efortul ăsta? simt că nu progresez deloc.,motivation_or_encouragement,2
+"Mă simt groaznic, mi se pare totul prea matematic și logic pentru cum gândesc eu.",motivation_or_encouragement,2
+Am nevoie de o încurajare: mă simt copleșit de atâtea concepte noi într-un timp atât de scurt E normal să mă simt așa la început?,motivation_or_encouragement,0
+Mă simt copleșit de atâtea concepte noi într-un timp atât de scurt...,motivation_or_encouragement,1
+"Salut, nu cred că o să fiu capabil vreodată să lucrez în domeniu Nu mai văd nicio soluție.",motivation_or_encouragement,2
+E așa greu... există vreo șansă să învăț asta dacă nu am bazele din liceu? Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,0
+Am nevoie de o încurajare: mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam.,motivation_or_encouragement,1
+"Sincer, îmi place informatica, dar problemele astea mă fac să mă simt inutil.",motivation_or_encouragement,0
+"Mă simt groaznic, toate liniile de cod se amestecă în capul meu acum Mai are rost să continui?",motivation_or_encouragement,2
+Uite cum stă treaba: există vreo șansă să învăț asta dacă nu am bazele din liceu? Mai are rost să continui?,motivation_or_encouragement,2
+"Am nevoie de o încurajare: cred că programarea nu e de mine, sunt prea praf Simt că o iau razna.",motivation_or_encouragement,2
+Uite cum stă treaba: zici că e un zid în fața mea și nu pot să trec de el Spune-mi că o să fie bine.,motivation_or_encouragement,0
+E așa greu... mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,1
+"Of, e frustrant să stai ore întregi pentru un punct și virgulă lipsă.",motivation_or_encouragement,2
+"Mă simt groaznic, există vreo șansă să învăț asta dacă nu am bazele din liceu?.",motivation_or_encouragement,2
+"Mă simt groaznic, îmi vine să plâng de nervi că nu se compilează programul Ce să fac să nu renunț?",motivation_or_encouragement,1
+"Nu mai pot, îmi vine să plâng de nervi că nu se compilează programul Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Of, îmi vine să plâng de nervi că nu se compilează programul.",motivation_or_encouragement,0
+"E așa greu... nu mai înțeleg nimic din ce scrie aici, parcă e chineză E normal să mă simt așa la început?",motivation_or_encouragement,1
+"Nu mai pot, m-am blocat și simt că intru în panică pentru că se apropie examenul.",motivation_or_encouragement,0
+"Salut, chiar merită tot efortul ăsta? simt că nu progresez deloc.",motivation_or_encouragement,0
+"Salut, sunt la un pas de a renunța definitiv la cursul ăsta.",motivation_or_encouragement,0
+"Mă simt groaznic, sunt la un pas de a renunța definitiv la cursul ăsta Spune-mi că o să fie bine.",motivation_or_encouragement,1
+M-am blocat și simt că intru în panică pentru că se apropie examenul...,motivation_or_encouragement,2
+Uite cum stă treaba: există vreo șansă să învăț asta dacă nu am bazele din liceu? Spune-mi că o să fie bine.,motivation_or_encouragement,1
+"Of, am creierul prăjit, nu mai pot să procesez nici măcar un 'if'.",motivation_or_encouragement,2
+"Mă simt groaznic, există vreo șansă să învăț asta dacă nu am bazele din liceu? Mai are rost să continui?",motivation_or_encouragement,2
+"Sincer, sunt la un pas de a renunța definitiv la cursul ăsta.",motivation_or_encouragement,0
+"Mă simt groaznic, parcă fac un pas înainte și zece înapoi cu materia asta.",motivation_or_encouragement,0
+"Mă simt groaznic, îmi place informatica, dar problemele astea mă fac să mă simt inutil Ce să fac să nu renunț?",motivation_or_encouragement,2
+Am nevoie de o încurajare: nu cred că o să fiu capabil vreodată să lucrez în domeniu Ce să fac să nu renunț?,motivation_or_encouragement,1
+"Sincer, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Sincer, mă simt copleșit de atâtea concepte noi într-un timp atât de scurt Mai are rost să continui?",motivation_or_encouragement,2
+"Mă simt groaznic, nu mai înțeleg nimic din ce scrie aici, parcă e chineză.",motivation_or_encouragement,1
+Uite cum stă treaba: sunt la un pas de a renunța definitiv la cursul ăsta.,motivation_or_encouragement,2
+"Mă simt groaznic, nu cred că o să fiu capabil vreodată să lucrez în domeniu Simt că o iau razna.",motivation_or_encouragement,1
+Uite cum stă treaba: mi se pare totul prea matematic și logic pentru cum gândesc eu Simt că o iau razna.,motivation_or_encouragement,1
+"Mă simt groaznic, nu cred că o să fiu capabil vreodată să lucrez în domeniu Ce să fac să nu renunț?",motivation_or_encouragement,0
+"Salut, parcă fac un pas înainte și zece înapoi cu materia asta Mai are rost să continui?",motivation_or_encouragement,2
+"Sincer, cred că programarea nu e de mine, sunt prea praf E normal să mă simt așa la început?",motivation_or_encouragement,1
+"Salut, cred că programarea nu e de mine, sunt prea praf.",motivation_or_encouragement,1
+"Salut, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod E normal să mă simt așa la început?",motivation_or_encouragement,0
+Uite cum stă treaba: îmi vine să plâng de nervi că nu se compilează programul.,motivation_or_encouragement,1
+"Of, sunt la un pas de a renunța definitiv la cursul ăsta.",motivation_or_encouragement,0
+Am nevoie de o încurajare: toate liniile de cod se amestecă în capul meu acum Spune-mi că o să fie bine.,motivation_or_encouragement,2
+"Mă simt groaznic, îmi place informatica, dar problemele astea mă fac să mă simt inutil Mai are rost să continui?",motivation_or_encouragement,2
+"Mă simt groaznic, e frustrant să stai ore întregi pentru un punct și virgulă lipsă.",motivation_or_encouragement,2
+"Mă simt groaznic, am creierul prăjit, nu mai pot să procesez nici măcar un 'if'.",motivation_or_encouragement,2
+"E așa greu... am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Ai vreun sfat pentru mine?",motivation_or_encouragement,2
+"Mă simt groaznic, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam.",motivation_or_encouragement,2
+"Sincer, îmi vine să plâng de nervi că nu se compilează programul Spune-mi că o să fie bine.",motivation_or_encouragement,0
+"Of, mi se pare totul prea matematic și logic pentru cum gândesc eu Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+"Sincer, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Nu mai pot, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam.",motivation_or_encouragement,1
+"Nu mai pot, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,0
+"Am nevoie de o încurajare: toți colegii mei par să înțeleagă, doar eu am rămas în urmă Simt că o iau razna.",motivation_or_encouragement,0
+"Nu mai pot, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod.",motivation_or_encouragement,1
+"Of, cred că programarea nu e de mine, sunt prea praf Ai vreun sfat pentru mine?",motivation_or_encouragement,2
+Uite cum stă treaba: mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam.,motivation_or_encouragement,1
+E așa greu... toate liniile de cod se amestecă în capul meu acum Ce să fac să nu renunț?,motivation_or_encouragement,2
+"Sincer, mi se pare totul prea matematic și logic pentru cum gândesc eu.",motivation_or_encouragement,1
+"Uite cum stă treaba: cred că programarea nu e de mine, sunt prea praf.",motivation_or_encouragement,1
+"Uite cum stă treaba: cred că programarea nu e de mine, sunt prea praf Ce să fac să nu renunț?",motivation_or_encouragement,0
+"Mă simt groaznic, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Simt că o iau razna.",motivation_or_encouragement,2
+"Nu mai pot, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Mai are rost să continui?",motivation_or_encouragement,0
+"Sincer, toți colegii mei par să înțeleagă, doar eu am rămas în urmă.",motivation_or_encouragement,2
+"E așa greu... cred că programarea nu e de mine, sunt prea praf.",motivation_or_encouragement,1
+Am nevoie de o încurajare: îmi vine să plâng de nervi că nu se compilează programul Ce să fac să nu renunț?,motivation_or_encouragement,0
+"Of, cred că programarea nu e de mine, sunt prea praf.",motivation_or_encouragement,0
+"Salut, parcă fac un pas înainte și zece înapoi cu materia asta Simt că o iau razna.",motivation_or_encouragement,2
+"Sincer, îmi place informatica, dar problemele astea mă fac să mă simt inutil Nu mai văd nicio soluție.",motivation_or_encouragement,1
+"Nu mai pot, toți colegii mei par să înțeleagă, doar eu am rămas în urmă.",motivation_or_encouragement,0
+"Nu mai pot, zici că e un zid în fața mea și nu pot să trec de el.",motivation_or_encouragement,0
+"Nu mai pot, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Spune-mi că o să fie bine.",motivation_or_encouragement,2
+Am nevoie de o încurajare: îmi vine să plâng de nervi că nu se compilează programul Nu mai văd nicio soluție.,motivation_or_encouragement,2
+"Sincer, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,1
+E așa greu... sunt la un pas de a renunța definitiv la cursul ăsta Ce să fac să nu renunț?,motivation_or_encouragement,0
+"Mă simt groaznic, toate liniile de cod se amestecă în capul meu acum.",motivation_or_encouragement,0
+"Nu mai înțeleg nimic din ce scrie aici, parcă e chineză...",motivation_or_encouragement,2
+"Nu mai pot, îmi place informatica, dar problemele astea mă fac să mă simt inutil Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+"Am nevoie de o încurajare: nu mai înțeleg nimic din ce scrie aici, parcă e chineză.",motivation_or_encouragement,0
+"Sincer, există vreo șansă să învăț asta dacă nu am bazele din liceu? Spune-mi că o să fie bine.",motivation_or_encouragement,0
+"Sincer, sunt la un pas de a renunța definitiv la cursul ăsta Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+"Of, mă simt copleșit de atâtea concepte noi într-un timp atât de scurt Ai vreun sfat pentru mine?",motivation_or_encouragement,2
+"Uite cum stă treaba: toți colegii mei par să înțeleagă, doar eu am rămas în urmă.",motivation_or_encouragement,0
+"Uite cum stă treaba: mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+Am nevoie de o încurajare: există vreo șansă să învăț asta dacă nu am bazele din liceu?.,motivation_or_encouragement,0
+E așa greu... mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod.,motivation_or_encouragement,1
+Am nevoie de o încurajare: zici că e un zid în fața mea și nu pot să trec de el Simt că o iau razna.,motivation_or_encouragement,2
+Uite cum stă treaba: toate liniile de cod se amestecă în capul meu acum Simt că o iau razna.,motivation_or_encouragement,2
+"Salut, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie E normal să mă simt așa la început?",motivation_or_encouragement,2
+Am nevoie de o încurajare: mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Ce să fac să nu renunț?,motivation_or_encouragement,0
+"Mă simt groaznic, toți colegii mei par să înțeleagă, doar eu am rămas în urmă.",motivation_or_encouragement,1
+E așa greu... chiar merită tot efortul ăsta? simt că nu progresez deloc.,motivation_or_encouragement,2
+Uite cum stă treaba: e frustrant să stai ore întregi pentru un punct și virgulă lipsă Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,1
+"Salut, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Spune-mi că o să fie bine.",motivation_or_encouragement,2
+"Nu mai pot, e frustrant să stai ore întregi pentru un punct și virgulă lipsă.",motivation_or_encouragement,2
+"Of, cred că programarea nu e de mine, sunt prea praf Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Salut, mi se pare totul prea matematic și logic pentru cum gândesc eu.",motivation_or_encouragement,2
+Am nevoie de o încurajare: nu cred că o să fiu capabil vreodată să lucrez în domeniu E normal să mă simt așa la început?,motivation_or_encouragement,2
+"Sincer, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam.",motivation_or_encouragement,0
+"Salut, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam.",motivation_or_encouragement,2
+Uite cum stă treaba: mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Simt că o iau razna.,motivation_or_encouragement,1
+"Nu mai pot, mi se pare totul prea matematic și logic pentru cum gândesc eu Nu mai văd nicio soluție.",motivation_or_encouragement,2
+"Of, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Spune-mi că o să fie bine.",motivation_or_encouragement,0
+"Salut, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+"Mă simt groaznic, îmi vine să plâng de nervi că nu se compilează programul.",motivation_or_encouragement,2
+"Of, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie E normal să mă simt așa la început?",motivation_or_encouragement,0
+"Sincer, mă simt copleșit de atâtea concepte noi într-un timp atât de scurt.",motivation_or_encouragement,0
+"Of, există vreo șansă să învăț asta dacă nu am bazele din liceu? Mai are rost să continui?",motivation_or_encouragement,2
+"Of, parcă fac un pas înainte și zece înapoi cu materia asta.",motivation_or_encouragement,0
+"Of, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Simt că o iau razna.",motivation_or_encouragement,0
+"Of, parcă fac un pas înainte și zece înapoi cu materia asta Mai are rost să continui?",motivation_or_encouragement,0
+"Salut, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie.",motivation_or_encouragement,0
+E așa greu... nu cred că o să fiu capabil vreodată să lucrez în domeniu Spune-mi că o să fie bine.,motivation_or_encouragement,1
+"Am nevoie de o încurajare: mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie.",motivation_or_encouragement,1
+"Mă simt groaznic, cred că programarea nu e de mine, sunt prea praf Simt că o iau razna.",motivation_or_encouragement,1
+"Salut, îmi vine să plâng de nervi că nu se compilează programul Simt că o iau razna.",motivation_or_encouragement,2
+"Sincer, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Simt că o iau razna.",motivation_or_encouragement,0
+"Sincer, îmi vine să plâng de nervi că nu se compilează programul.",motivation_or_encouragement,2
+Uite cum stă treaba: parcă fac un pas înainte și zece înapoi cu materia asta E normal să mă simt așa la început?,motivation_or_encouragement,1
+Am nevoie de o încurajare: parcă fac un pas înainte și zece înapoi cu materia asta.,motivation_or_encouragement,1
+"Of, îmi place informatica, dar problemele astea mă fac să mă simt inutil.",motivation_or_encouragement,0
+E așa greu... îmi vine să plâng de nervi că nu se compilează programul.,motivation_or_encouragement,2
+E așa greu... m-am blocat și simt că intru în panică pentru că se apropie examenul Nu mai văd nicio soluție.,motivation_or_encouragement,2
+Am nevoie de o încurajare: mă simt copleșit de atâtea concepte noi într-un timp atât de scurt.,motivation_or_encouragement,1
+Am nevoie de o încurajare: îmi vine să plâng de nervi că nu se compilează programul.,motivation_or_encouragement,0
+"Of, există vreo șansă să învăț asta dacă nu am bazele din liceu? Spune-mi că o să fie bine.",motivation_or_encouragement,2
+"Salut, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Ce să fac să nu renunț?",motivation_or_encouragement,2
+Uite cum stă treaba: mi se pare totul prea matematic și logic pentru cum gândesc eu E normal să mă simt așa la început?,motivation_or_encouragement,2
+"Uite cum stă treaba: nu mai înțeleg nimic din ce scrie aici, parcă e chineză Nu mai văd nicio soluție.",motivation_or_encouragement,0
+"Nu mai pot, parcă fac un pas înainte și zece înapoi cu materia asta.",motivation_or_encouragement,1
+"Am nevoie de o încurajare: toți colegii mei par să înțeleagă, doar eu am rămas în urmă Ai vreun sfat pentru mine?",motivation_or_encouragement,0
+"Am nevoie de o încurajare: îmi place informatica, dar problemele astea mă fac să mă simt inutil Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Nu mai pot, cred că programarea nu e de mine, sunt prea praf Nu mai văd nicio soluție.",motivation_or_encouragement,2
+"Uite cum stă treaba: mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie E normal să mă simt așa la început?",motivation_or_encouragement,1
+E așa greu... e frustrant să stai ore întregi pentru un punct și virgulă lipsă Ce să fac să nu renunț?,motivation_or_encouragement,2
+Am nevoie de o încurajare: mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Ai vreun sfat pentru mine?,motivation_or_encouragement,1
+"Am nevoie de o încurajare: toți colegii mei par să înțeleagă, doar eu am rămas în urmă.",motivation_or_encouragement,1
+E așa greu... nu cred că o să fiu capabil vreodată să lucrez în domeniu E normal să mă simt așa la început?,motivation_or_encouragement,0
+Am nevoie de o încurajare: parcă fac un pas înainte și zece înapoi cu materia asta Nu mai văd nicio soluție.,motivation_or_encouragement,1
+E așa greu... mă simt copleșit de atâtea concepte noi într-un timp atât de scurt.,motivation_or_encouragement,0
+"Salut, mi se pare totul prea matematic și logic pentru cum gândesc eu Ce să fac să nu renunț?",motivation_or_encouragement,0
+"Mă simt groaznic, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Ai vreun sfat pentru mine?",motivation_or_encouragement,1
+"Salut, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+"E așa greu... mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Mai are rost să continui?",motivation_or_encouragement,0
+"Mă simt groaznic, parcă fac un pas înainte și zece înapoi cu materia asta E normal să mă simt așa la început?",motivation_or_encouragement,2
+"Of, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Simt că o iau razna.",motivation_or_encouragement,2
+E așa greu... toate liniile de cod se amestecă în capul meu acum.,motivation_or_encouragement,2
+"Uite cum stă treaba: mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Simt că o iau razna.",motivation_or_encouragement,0
+"Sincer, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Ce să fac să nu renunț?",motivation_or_encouragement,0
+Îmi vine să plâng de nervi că nu se compilează programul...,motivation_or_encouragement,2
+Uite cum stă treaba: parcă fac un pas înainte și zece înapoi cu materia asta Mai are rost să continui?,motivation_or_encouragement,1
+"E așa greu... îmi place informatica, dar problemele astea mă fac să mă simt inutil E normal să mă simt așa la început?",motivation_or_encouragement,2
+"Nu mai pot, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Ai vreun sfat pentru mine?",motivation_or_encouragement,0
+"Mă simt groaznic, sunt la un pas de a renunța definitiv la cursul ăsta Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+"E așa greu... toți colegii mei par să înțeleagă, doar eu am rămas în urmă.",motivation_or_encouragement,0
+"Nu mai pot, am creierul prăjit, nu mai pot să procesez nici măcar un 'if'.",motivation_or_encouragement,0
+"Of, toate liniile de cod se amestecă în capul meu acum E normal să mă simt așa la început?",motivation_or_encouragement,1
+"Uite cum stă treaba: mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie.",motivation_or_encouragement,0
+"Of, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Nu mai pot, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie.",motivation_or_encouragement,2
+E așa greu... mi se pare totul prea matematic și logic pentru cum gândesc eu.,motivation_or_encouragement,0
+"Mă simt groaznic, sunt la un pas de a renunța definitiv la cursul ăsta Mai are rost să continui?",motivation_or_encouragement,1
+"Am nevoie de o încurajare: îmi place informatica, dar problemele astea mă fac să mă simt inutil Mai are rost să continui?",motivation_or_encouragement,2
+"Nu mai pot, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Mai are rost să continui?",motivation_or_encouragement,1
+"Sincer, sunt la un pas de a renunța definitiv la cursul ăsta Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Nu mai pot, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Nu mai văd nicio soluție.",motivation_or_encouragement,0
+Am nevoie de o încurajare: mă simt copleșit de atâtea concepte noi într-un timp atât de scurt Mai are rost să continui?,motivation_or_encouragement,0
+"Sincer, toate liniile de cod se amestecă în capul meu acum Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,0
+"Salut, există vreo șansă să învăț asta dacă nu am bazele din liceu? Ce să fac să nu renunț?",motivation_or_encouragement,1
+"Sincer, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod.",motivation_or_encouragement,1
+"Of, mă simt copleșit de atâtea concepte noi într-un timp atât de scurt.",motivation_or_encouragement,1
+Am nevoie de o încurajare: sunt la un pas de a renunța definitiv la cursul ăsta Ce să fac să nu renunț?,motivation_or_encouragement,2
+"Sincer, m-am blocat și simt că intru în panică pentru că se apropie examenul.",motivation_or_encouragement,2
+Uite cum stă treaba: există vreo șansă să învăț asta dacă nu am bazele din liceu? Simt că o iau razna.,motivation_or_encouragement,2
+"Salut, sunt la un pas de a renunța definitiv la cursul ăsta Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+Uite cum stă treaba: există vreo șansă să învăț asta dacă nu am bazele din liceu?.,motivation_or_encouragement,0
+"Sincer, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Nu mai văd nicio soluție.",motivation_or_encouragement,0
+"E așa greu... cred că programarea nu e de mine, sunt prea praf Simt că o iau razna.",motivation_or_encouragement,0
+"Of, nu mai înțeleg nimic din ce scrie aici, parcă e chineză.",motivation_or_encouragement,1
+Uite cum stă treaba: mi se pare totul prea matematic și logic pentru cum gândesc eu Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,0
+"Sincer, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Ai vreun sfat pentru mine?",motivation_or_encouragement,1
+"Salut, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Spune-mi că o să fie bine.",motivation_or_encouragement,0
+"E așa greu... îmi place informatica, dar problemele astea mă fac să mă simt inutil Nu mai văd nicio soluție.",motivation_or_encouragement,0
+"Of, zici că e un zid în fața mea și nu pot să trec de el Spune-mi că o să fie bine.",motivation_or_encouragement,1
+"Nu mai pot, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Simt că o iau razna.",motivation_or_encouragement,1
+"Sincer, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Simt că o iau razna.",motivation_or_encouragement,1
+"Mă simt groaznic, îmi place informatica, dar problemele astea mă fac să mă simt inutil Spune-mi că o să fie bine.",motivation_or_encouragement,2
+"Of, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Mai are rost să continui?",motivation_or_encouragement,0
+"Nu mai pot, parcă fac un pas înainte și zece înapoi cu materia asta Spune-mi că o să fie bine.",motivation_or_encouragement,1
+E așa greu... nu cred că o să fiu capabil vreodată să lucrez în domeniu Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,1
+"Nu mai pot, există vreo șansă să învăț asta dacă nu am bazele din liceu? Ce să fac să nu renunț?",motivation_or_encouragement,0
+E așa greu... chiar merită tot efortul ăsta? simt că nu progresez deloc E normal să mă simt așa la început?,motivation_or_encouragement,0
+"Mă simt groaznic, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Spune-mi că o să fie bine.",motivation_or_encouragement,2
+"Of, îmi place informatica, dar problemele astea mă fac să mă simt inutil Mai are rost să continui?",motivation_or_encouragement,2
+E așa greu... chiar merită tot efortul ăsta? simt că nu progresez deloc Simt că o iau razna.,motivation_or_encouragement,0
+"Mă simt groaznic, nu mai înțeleg nimic din ce scrie aici, parcă e chineză E normal să mă simt așa la început?",motivation_or_encouragement,1
+Uite cum stă treaba: parcă fac un pas înainte și zece înapoi cu materia asta Spune-mi că o să fie bine.,motivation_or_encouragement,1
+E așa greu... mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Spune-mi că o să fie bine.,motivation_or_encouragement,2
+"Salut, nu cred că o să fiu capabil vreodată să lucrez în domeniu.",motivation_or_encouragement,1
+"Of, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Spune-mi că o să fie bine.",motivation_or_encouragement,0
+"Sincer, nu mai înțeleg nimic din ce scrie aici, parcă e chineză.",motivation_or_encouragement,1
+"Salut, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod.",motivation_or_encouragement,1
+"Mă simt groaznic, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Ai vreun sfat pentru mine?",motivation_or_encouragement,1
+"Nu mai pot, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Ai vreun sfat pentru mine?",motivation_or_encouragement,1
+E așa greu... mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,2
+Uite cum stă treaba: sunt la un pas de a renunța definitiv la cursul ăsta E normal să mă simt așa la început?,motivation_or_encouragement,0
+"Sincer, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Nu mai văd nicio soluție.",motivation_or_encouragement,1
+"Salut, cred că programarea nu e de mine, sunt prea praf Nu mai văd nicio soluție.",motivation_or_encouragement,1
+E așa greu... există vreo șansă să învăț asta dacă nu am bazele din liceu? E normal să mă simt așa la început?,motivation_or_encouragement,0
+"Of, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Ce să fac să nu renunț?",motivation_or_encouragement,0
+"Sincer, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Ai vreun sfat pentru mine?",motivation_or_encouragement,0
+"Salut, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,0
+Uite cum stă treaba: toate liniile de cod se amestecă în capul meu acum Ai vreun sfat pentru mine?,motivation_or_encouragement,2
+"Mă simt groaznic, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod.",motivation_or_encouragement,0
+E așa greu... zici că e un zid în fața mea și nu pot să trec de el Simt că o iau razna.,motivation_or_encouragement,0
+"Sincer, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Nu mai văd nicio soluție.",motivation_or_encouragement,2
+"Nu mai pot, sunt la un pas de a renunța definitiv la cursul ăsta.",motivation_or_encouragement,0
+"Nu mai pot, chiar merită tot efortul ăsta? simt că nu progresez deloc.",motivation_or_encouragement,1
+"Of, parcă fac un pas înainte și zece înapoi cu materia asta Nu mai văd nicio soluție.",motivation_or_encouragement,2
+Am nevoie de o încurajare: e frustrant să stai ore întregi pentru un punct și virgulă lipsă Simt că o iau razna.,motivation_or_encouragement,0
+Am nevoie de o încurajare: zici că e un zid în fața mea și nu pot să trec de el.,motivation_or_encouragement,2
+"Of, parcă fac un pas înainte și zece înapoi cu materia asta Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,1
+E așa greu... mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Simt că o iau razna.,motivation_or_encouragement,1
+Am nevoie de o încurajare: toate liniile de cod se amestecă în capul meu acum Ce să fac să nu renunț?,motivation_or_encouragement,1
+"Nu mai pot, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,0
+"Of, m-am blocat și simt că intru în panică pentru că se apropie examenul.",motivation_or_encouragement,2
+"Of, chiar merită tot efortul ăsta? simt că nu progresez deloc.",motivation_or_encouragement,2
+Am nevoie de o încurajare: m-am blocat și simt că intru în panică pentru că se apropie examenul Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,2
+E așa greu... zici că e un zid în fața mea și nu pot să trec de el Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,1
+"Salut, e frustrant să stai ore întregi pentru un punct și virgulă lipsă.",motivation_or_encouragement,1
+"Salut, zici că e un zid în fața mea și nu pot să trec de el Simt că o iau razna.",motivation_or_encouragement,0
+E așa greu... sunt la un pas de a renunța definitiv la cursul ăsta Spune-mi că o să fie bine.,motivation_or_encouragement,0
+"Mă simt groaznic, sunt la un pas de a renunța definitiv la cursul ăsta.",motivation_or_encouragement,0
+"Uite cum stă treaba: nu mai înțeleg nimic din ce scrie aici, parcă e chineză Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,0
+"Salut, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Nu mai văd nicio soluție.",motivation_or_encouragement,0
+"Nu mai pot, toate liniile de cod se amestecă în capul meu acum.",motivation_or_encouragement,1
+E așa greu... parcă fac un pas înainte și zece înapoi cu materia asta Simt că o iau razna.,motivation_or_encouragement,1
+"Of, există vreo șansă să învăț asta dacă nu am bazele din liceu? Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+"Salut, nu cred că o să fiu capabil vreodată să lucrez în domeniu Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+"Mă simt groaznic, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Mai are rost să continui?",motivation_or_encouragement,2
+"Mă simt groaznic, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Simt că o iau razna.",motivation_or_encouragement,1
+E așa greu... mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Mai are rost să continui?,motivation_or_encouragement,1
+"Nu mai pot, nu mai înțeleg nimic din ce scrie aici, parcă e chineză.",motivation_or_encouragement,2
+E așa greu... există vreo șansă să învăț asta dacă nu am bazele din liceu? Nu mai văd nicio soluție.,motivation_or_encouragement,1
+"Nu mai pot, îmi place informatica, dar problemele astea mă fac să mă simt inutil Mai are rost să continui?",motivation_or_encouragement,2
+"Uite cum stă treaba: toți colegii mei par să înțeleagă, doar eu am rămas în urmă Ai vreun sfat pentru mine?",motivation_or_encouragement,0
+"Sincer, nu cred că o să fiu capabil vreodată să lucrez în domeniu Simt că o iau razna.",motivation_or_encouragement,0
+Uite cum stă treaba: sunt la un pas de a renunța definitiv la cursul ăsta Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,2
+"Nu mai pot, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Simt că o iau razna.",motivation_or_encouragement,0
+E așa greu... mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Ai vreun sfat pentru mine?,motivation_or_encouragement,0
+E așa greu... m-am blocat și simt că intru în panică pentru că se apropie examenul Simt că o iau razna.,motivation_or_encouragement,0
+"Mă simt groaznic, zici că e un zid în fața mea și nu pot să trec de el Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Sincer, cred că programarea nu e de mine, sunt prea praf Ai vreun sfat pentru mine?",motivation_or_encouragement,0
+"Mă simt groaznic, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Ai vreun sfat pentru mine?",motivation_or_encouragement,0
+"Of, îmi place informatica, dar problemele astea mă fac să mă simt inutil E normal să mă simt așa la început?",motivation_or_encouragement,0
+"Mă simt groaznic, zici că e un zid în fața mea și nu pot să trec de el.",motivation_or_encouragement,1
+"Sincer, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,1
+"E așa greu... îmi place informatica, dar problemele astea mă fac să mă simt inutil Ai vreun sfat pentru mine?",motivation_or_encouragement,0
+"E așa greu... mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Simt că o iau razna.",motivation_or_encouragement,0
+"Salut, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Spune-mi că o să fie bine.",motivation_or_encouragement,2
+Am nevoie de o încurajare: nu cred că o să fiu capabil vreodată să lucrez în domeniu Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,0
+"Sincer, există vreo șansă să învăț asta dacă nu am bazele din liceu? Nu mai văd nicio soluție.",motivation_or_encouragement,2
+Uite cum stă treaba: mi se pare totul prea matematic și logic pentru cum gândesc eu Ce să fac să nu renunț?,motivation_or_encouragement,0
+"Nu mai pot, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Spune-mi că o să fie bine.",motivation_or_encouragement,2
+"Nu mai pot, îmi vine să plâng de nervi că nu se compilează programul Simt că o iau razna.",motivation_or_encouragement,0
+E așa greu... parcă fac un pas înainte și zece înapoi cu materia asta Ce să fac să nu renunț?,motivation_or_encouragement,1
+Uite cum stă treaba: e frustrant să stai ore întregi pentru un punct și virgulă lipsă Ai vreun sfat pentru mine?,motivation_or_encouragement,0
+"Salut, toți colegii mei par să înțeleagă, doar eu am rămas în urmă E normal să mă simt așa la început?",motivation_or_encouragement,1
+"Mă simt groaznic, îmi place informatica, dar problemele astea mă fac să mă simt inutil Ai vreun sfat pentru mine?",motivation_or_encouragement,2
+Uite cum stă treaba: parcă fac un pas înainte și zece înapoi cu materia asta Simt că o iau razna.,motivation_or_encouragement,2
+"Sincer, mi se pare totul prea matematic și logic pentru cum gândesc eu Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,1
+"Salut, zici că e un zid în fața mea și nu pot să trec de el Ce să fac să nu renunț?",motivation_or_encouragement,0
+Uite cum stă treaba: e frustrant să stai ore întregi pentru un punct și virgulă lipsă Simt că o iau razna.,motivation_or_encouragement,2
+"Salut, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Spune-mi că o să fie bine.",motivation_or_encouragement,1
+E așa greu... parcă fac un pas înainte și zece înapoi cu materia asta Ai vreun sfat pentru mine?,motivation_or_encouragement,2
+E așa greu... sunt la un pas de a renunța definitiv la cursul ăsta Nu mai văd nicio soluție.,motivation_or_encouragement,1
+"Uite cum stă treaba: am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Simt că o iau razna.",motivation_or_encouragement,1
+Uite cum stă treaba: nu cred că o să fiu capabil vreodată să lucrez în domeniu Spune-mi că o să fie bine.,motivation_or_encouragement,0
+"Salut, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,1
+"Mă simt groaznic, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Nu mai văd nicio soluție.",motivation_or_encouragement,1
+"Mă simt groaznic, toate liniile de cod se amestecă în capul meu acum Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,0
+"Sincer, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Simt că o iau razna.",motivation_or_encouragement,2
+"Of, nu cred că o să fiu capabil vreodată să lucrez în domeniu Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+"Nu mai pot, zici că e un zid în fața mea și nu pot să trec de el Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,1
+"Am nevoie de o încurajare: nu mai înțeleg nimic din ce scrie aici, parcă e chineză Mai are rost să continui?",motivation_or_encouragement,1
+"E așa greu... mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie.",motivation_or_encouragement,2
+"Sincer, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Ce să fac să nu renunț?",motivation_or_encouragement,1
+"Of, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod.",motivation_or_encouragement,2
+"Salut, chiar merită tot efortul ăsta? simt că nu progresez deloc Spune-mi că o să fie bine.",motivation_or_encouragement,1
+"Salut, îmi place informatica, dar problemele astea mă fac să mă simt inutil Simt că o iau razna.",motivation_or_encouragement,1
+E așa greu... chiar merită tot efortul ăsta? simt că nu progresez deloc Nu mai văd nicio soluție.,motivation_or_encouragement,2
+E așa greu... e frustrant să stai ore întregi pentru un punct și virgulă lipsă Nu mai văd nicio soluție.,motivation_or_encouragement,0
+"Nu mai pot, parcă fac un pas înainte și zece înapoi cu materia asta Nu mai văd nicio soluție.",motivation_or_encouragement,1
+"Salut, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Mai are rost să continui?",motivation_or_encouragement,1
+"Of, există vreo șansă să învăț asta dacă nu am bazele din liceu? E normal să mă simt așa la început?",motivation_or_encouragement,0
+Uite cum stă treaba: îmi vine să plâng de nervi că nu se compilează programul E normal să mă simt așa la început?,motivation_or_encouragement,0
+Am nevoie de o încurajare: mi se pare totul prea matematic și logic pentru cum gândesc eu.,motivation_or_encouragement,2
+"Salut, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Simt că o iau razna.",motivation_or_encouragement,1
+Am nevoie de o încurajare: toate liniile de cod se amestecă în capul meu acum.,motivation_or_encouragement,2
+"Uite cum stă treaba: nu mai înțeleg nimic din ce scrie aici, parcă e chineză Ai vreun sfat pentru mine?",motivation_or_encouragement,0
+"E așa greu... cred că programarea nu e de mine, sunt prea praf Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,0
+"Salut, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Simt că o iau razna.",motivation_or_encouragement,0
+"Nu mai pot, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Ai vreun sfat pentru mine?",motivation_or_encouragement,0
+"Mă simt groaznic, mi se pare totul prea matematic și logic pentru cum gândesc eu Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,0
+"Am nevoie de o încurajare: îmi place informatica, dar problemele astea mă fac să mă simt inutil Simt că o iau razna.",motivation_or_encouragement,0
+"E așa greu... îmi place informatica, dar problemele astea mă fac să mă simt inutil Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,1
+"Am nevoie de o încurajare: mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Ai vreun sfat pentru mine?",motivation_or_encouragement,1
+"Of, sunt la un pas de a renunța definitiv la cursul ăsta Mai are rost să continui?",motivation_or_encouragement,2
+"Of, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Ce să fac să nu renunț?",motivation_or_encouragement,0
+"Uite cum stă treaba: toți colegii mei par să înțeleagă, doar eu am rămas în urmă Nu mai văd nicio soluție.",motivation_or_encouragement,2
+E așa greu... mi se pare totul prea matematic și logic pentru cum gândesc eu E normal să mă simt așa la început?,motivation_or_encouragement,1
+E așa greu... mi se pare totul prea matematic și logic pentru cum gândesc eu Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,1
+"Salut, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Ce să fac să nu renunț?",motivation_or_encouragement,0
+"Am nevoie de o încurajare: nu mai înțeleg nimic din ce scrie aici, parcă e chineză E normal să mă simt așa la început?",motivation_or_encouragement,1
+"Am nevoie de o încurajare: cred că programarea nu e de mine, sunt prea praf.",motivation_or_encouragement,1
+Am nevoie de o încurajare: mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod.,motivation_or_encouragement,2
+"Sincer, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod E normal să mă simt așa la început?",motivation_or_encouragement,0
+"Salut, toate liniile de cod se amestecă în capul meu acum Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,0
+"Of, nu cred că o să fiu capabil vreodată să lucrez în domeniu Spune-mi că o să fie bine.",motivation_or_encouragement,0
+"Salut, chiar merită tot efortul ăsta? simt că nu progresez deloc Mai are rost să continui?",motivation_or_encouragement,2
+"Sincer, nu cred că o să fiu capabil vreodată să lucrez în domeniu Mai are rost să continui?",motivation_or_encouragement,1
+"Mă simt groaznic, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Ce să fac să nu renunț?",motivation_or_encouragement,0
+"Of, există vreo șansă să învăț asta dacă nu am bazele din liceu? Simt că o iau razna.",motivation_or_encouragement,1
+Am nevoie de o încurajare: sunt la un pas de a renunța definitiv la cursul ăsta Nu mai văd nicio soluție.,motivation_or_encouragement,2
+"Sincer, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Ai vreun sfat pentru mine?",motivation_or_encouragement,2
+E așa greu... chiar merită tot efortul ăsta? simt că nu progresez deloc Ce să fac să nu renunț?,motivation_or_encouragement,1
+Am nevoie de o încurajare: mă simt copleșit de atâtea concepte noi într-un timp atât de scurt Ai vreun sfat pentru mine?,motivation_or_encouragement,0
+"Nu mai pot, cred că programarea nu e de mine, sunt prea praf.",motivation_or_encouragement,2
+"Of, cred că programarea nu e de mine, sunt prea praf Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+Am nevoie de o încurajare: există vreo șansă să învăț asta dacă nu am bazele din liceu? Nu mai văd nicio soluție.,motivation_or_encouragement,1
+"Of, îmi place informatica, dar problemele astea mă fac să mă simt inutil Nu mai văd nicio soluție.",motivation_or_encouragement,2
+"Of, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Nu mai văd nicio soluție.",motivation_or_encouragement,0
+Uite cum stă treaba: îmi vine să plâng de nervi că nu se compilează programul Nu mai văd nicio soluție.,motivation_or_encouragement,0
+"Of, îmi vine să plâng de nervi că nu se compilează programul E normal să mă simt așa la început?",motivation_or_encouragement,2
+"Salut, am creierul prăjit, nu mai pot să procesez nici măcar un 'if'.",motivation_or_encouragement,1
+Uite cum stă treaba: zici că e un zid în fața mea și nu pot să trec de el.,motivation_or_encouragement,2
+"Nu mai pot, toate liniile de cod se amestecă în capul meu acum Mai are rost să continui?",motivation_or_encouragement,1
+"Of, zici că e un zid în fața mea și nu pot să trec de el Nu mai văd nicio soluție.",motivation_or_encouragement,1
+"Of, e frustrant să stai ore întregi pentru un punct și virgulă lipsă Ce să fac să nu renunț?",motivation_or_encouragement,2
+"Nu mai pot, mi se pare totul prea matematic și logic pentru cum gândesc eu Spune-mi că o să fie bine.",motivation_or_encouragement,1
+"Nu mai pot, toți colegii mei par să înțeleagă, doar eu am rămas în urmă Simt că o iau razna.",motivation_or_encouragement,0
+Uite cum stă treaba: zici că e un zid în fața mea și nu pot să trec de el Poți să mă ajuți să trec peste momentul ăsta?,motivation_or_encouragement,0
+"Of, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Ai vreun sfat pentru mine?",motivation_or_encouragement,0
+"Nu mai pot, mi se pare totul prea matematic și logic pentru cum gândesc eu Mai are rost să continui?",motivation_or_encouragement,0
+"Uite cum stă treaba: îmi place informatica, dar problemele astea mă fac să mă simt inutil Ai vreun sfat pentru mine?",motivation_or_encouragement,2
+"Of, nu mai înțeleg nimic din ce scrie aici, parcă e chineză Ai vreun sfat pentru mine?",motivation_or_encouragement,0
+"Nu mai pot, cred că programarea nu e de mine, sunt prea praf Mai are rost să continui?",motivation_or_encouragement,0
+"E așa greu... nu mai înțeleg nimic din ce scrie aici, parcă e chineză Mai are rost să continui?",motivation_or_encouragement,1
+"Nu mai pot, mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Simt că o iau razna.",motivation_or_encouragement,1
+"Of, toate liniile de cod se amestecă în capul meu acum Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,2
+"Sincer, m-am blocat și simt că intru în panică pentru că se apropie examenul Spune-mi că o să fie bine.",motivation_or_encouragement,0
+"Am nevoie de o încurajare: mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie Mai are rost să continui?",motivation_or_encouragement,2
+"Sincer, am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Simt că o iau razna.",motivation_or_encouragement,2
+"Mă simt groaznic, toate liniile de cod se amestecă în capul meu acum Ai vreun sfat pentru mine?",motivation_or_encouragement,1
+E așa greu... îmi vine să plâng de nervi că nu se compilează programul Spune-mi că o să fie bine.,motivation_or_encouragement,2
+Uite cum stă treaba: mă simt mega prost când văd că nu-mi iese nici cel mai simplu cod Mai are rost să continui?,motivation_or_encouragement,0
+"Am nevoie de o încurajare: am creierul prăjit, nu mai pot să procesez nici măcar un 'if' Poți să mă ajuți să trec peste momentul ăsta?",motivation_or_encouragement,1
+"Salut, sunt la un pas de a renunța definitiv la cursul ăsta Mai are rost să continui?",motivation_or_encouragement,0
+"Of, mi se pare totul prea matematic și logic pentru cum gândesc eu Simt că o iau razna.",motivation_or_encouragement,1
+"Salut, chiar merită tot efortul ăsta? simt că nu progresez deloc E normal să mă simt așa la început?",motivation_or_encouragement,2
+"Mă simt groaznic, există vreo șansă să învăț asta dacă nu am bazele din liceu? E normal să mă simt așa la început?",motivation_or_encouragement,2
+"Nu mai pot, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie E normal să mă simt așa la început?",motivation_or_encouragement,2
+"Of, mă chinui de trei ore cu bug-ul ăsta și îmi vine să arunc laptopul pe geam Nu mai văd nicio soluție.",motivation_or_encouragement,0
+"Of, mă simt copleșit de atâtea concepte noi într-un timp atât de scurt Spune-mi că o să fie bine.",motivation_or_encouragement,1
+"Mă simt groaznic, mi-am pierdut răbdarea, e a zecea oară când primesc aceeași eroare roșie.",motivation_or_encouragement,0

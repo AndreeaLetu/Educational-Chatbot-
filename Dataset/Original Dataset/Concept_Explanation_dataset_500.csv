@@ -1,0 +1,501 @@
+text,label,difficulty
+Ce reprezintă un algoritm în viața de zi cu zi?,concept_explanation,0
+Explică conceptul de variabilă ca pe un container,concept_explanation,0
+Ce înseamnă că Python este un limbaj interpretat?,concept_explanation,1
+Care este rolul compilatorului în limbajul C?,concept_explanation,1
+Ce reprezintă tipul de date 'double' față de 'float'?,concept_explanation,1
+Ce este un pointer de memorie?,concept_explanation,2
+Cum funcționează alocarea dinamică a memoriei?,concept_explanation,2
+Ce este o structură de tip coadă (queue)?,concept_explanation,2
+Ce reprezintă indentarea în codul sursă?,concept_explanation,0
+Ce este o funcție și la ce folosește?,concept_explanation,1
+Ce înseamnă recursivitatea în programare?,concept_explanation,2
+Ce face operatorul modulo (%)?,concept_explanation,1
+Ce este un șir de caractere (string)?,concept_explanation,0
+Ce reprezintă o clasă în programarea pe obiecte?,concept_explanation,2
+Ce este un obiect și cum se instanțiază?,concept_explanation,2
+Ce înseamnă valoarea NULL sau nullptr?,concept_explanation,1
+Ce este un comentariu și de ce este important?,concept_explanation,0
+Cum funcționează listele în Python?,concept_explanation,1
+Ce este o bibliotecă (library) în C?,concept_explanation,1
+Ce reprezintă un fișier de tip Header (.h)?,concept_explanation,2
+Ce este codul binar?,concept_explanation,0
+Ce face instrucțiunea 'switch-case'?,concept_explanation,1
+Diferența dintre pasarea prin valoare și prin referință,concept_explanation,2
+Ce este un eveniment în Scratch?,concept_explanation,0
+Ce face blocul 'difuzează' (broadcast) în Scratch?,concept_explanation,0
+Ce reprezintă o condiție logică?,concept_explanation,0
+Ce sunt operatorii de comparare?,concept_explanation,0
+Ce este o variabilă globală?,concept_explanation,1
+Ce reprezintă 'garbage collection'?,concept_explanation,2
+Ce este un dicționar în Python?,concept_explanation,1
+Ce înseamnă indexarea de la zero?,concept_explanation,0
+Ce este un tuplu?,concept_explanation,1
+Care este diferența dintre bit și byte?,concept_explanation,0
+Ce face comanda 'return' într-o funcție?,concept_explanation,1
+Ce este un parametru formal?,concept_explanation,2
+Ce este o eroare de sintaxă?,concept_explanation,0
+Ce este o eroare de execuție (runtime error)?,concept_explanation,1
+Ce înseamnă o buclă infinită?,concept_explanation,1
+Ce este un vector (array)?,concept_explanation,0
+Ce reprezintă complexitatea timp a unui algoritm?,concept_explanation,2
+Ce este o matrice?,concept_explanation,1
+"Ce sunt operatorii logici AND, OR, NOT?",concept_explanation,0
+Ce este un pointer la o structură?,concept_explanation,2
+De ce funcția main returnează un întreg în C?,concept_explanation,1
+Ce face blocul 'repetă până când' în Scratch?,concept_explanation,0
+Ce reprezintă coordonatele cartesiene în Scratch?,concept_explanation,0
+Ce este un 'sprite'?,concept_explanation,0
+Ce înseamnă conversia de tip (casting)?,concept_explanation,2
+Ce este o listă înlănțuită?,concept_explanation,2
+Ce reprezintă un algoritm de sortare?,concept_explanation,1
+Ce este notația Big O?,concept_explanation,2
+Ce reprezintă un tip de date întreg (int)?,concept_explanation,0
+Ce este un caracter (char)?,concept_explanation,0
+Ce face funcția 'scanf'?,concept_explanation,1
+Ce face funcția 'print'?,concept_explanation,0
+Ce este un prototip de funcție?,concept_explanation,2
+Ce înseamnă 'hardcoding'?,concept_explanation,1
+Ce este un debugger?,concept_explanation,1
+Ce reprezintă un IDE?,concept_explanation,0
+Ce înseamnă 'case sensitivity'?,concept_explanation,0
+Diferența dintre camelCase și snake_case,concept_explanation,1
+Ce este un f-string în Python?,concept_explanation,1
+Ce este un pointer de tip void?,concept_explanation,2
+Ce reprezintă o structură (struct) în C?,concept_explanation,1
+"Ce face blocul 'dacă atingi marginea, ricoșează'?",concept_explanation,0
+Ce este un costum în Scratch?,concept_explanation,0
+Ce sunt buclele imbricate?,concept_explanation,2
+Ce este o metodă într-o clasă?,concept_explanation,2
+Ce face un constructor?,concept_explanation,2
+Ce reprezintă moștenirea în OOP?,concept_explanation,2
+Ce face operatorul de incrementare (++)?,concept_explanation,1
+Ce este dereferențierea?,concept_explanation,2
+Ce este un fișier text vs un fișier binar?,concept_explanation,2
+Ce reprezintă secvențele escape (ex: \n)?,concept_explanation,1
+Ce este un operator ternar?,concept_explanation,2
+Ce este fluxul standard de intrare (stdin)?,concept_explanation,1
+Ce face funcția input()?,concept_explanation,0
+Ce sunt blocurile de control?,concept_explanation,0
+Ce este o clonă în Scratch?,concept_explanation,1
+Ce înseamnă o funcție de tip void?,concept_explanation,1
+Ce este un argument al unei funcții?,concept_explanation,1
+Ce reprezintă fenomenul de stack overflow?,concept_explanation,2
+Ce este integer overflow?,concept_explanation,2
+Ce este sistemul hexazecimal?,concept_explanation,2
+Ce înseamnă refactorizarea codului?,concept_explanation,2
+Ce este un 'bug' informatic?,concept_explanation,0
+Ce este un docstring?,concept_explanation,1
+Ce face instrucțiunea 'break'?,concept_explanation,1
+Ce face instrucțiunea 'continue'?,concept_explanation,1
+Ce este standardul PEP 8?,concept_explanation,2
+Ce sunt directivele preprocesor (#include)?,concept_explanation,2
+Ce este biblioteca stdio.h?,concept_explanation,1
+Ce înseamnă programare asincronă?,concept_explanation,2
+Ce este un API?,concept_explanation,2
+Ce reprezintă managementul memoriei?,concept_explanation,2
+Ce este un operand?,concept_explanation,1
+Ce reprezintă precedența operatorilor?,concept_explanation,1
+Ce este un link-editor (linker)?,concept_explanation,2
+Ce face blocul 'creează o clonă'?,concept_explanation,1
+Ce este o variabilă locală?,concept_explanation,1
+Ce reprezintă o variabilă de tip boolean?,concept_explanation,0
+Care este diferența dintre 'print' și 'return'?,concept_explanation,1
+Ce este un mediu de dezvoltare integrat (IDE)?,concept_explanation,0
+Explică conceptul de 'loop nesting' (bucle în bucle),concept_explanation,2
+Ce reprezintă instrucțiunea 'if-else'?,concept_explanation,0
+Ce este un operand într-o expresie matematică?,concept_explanation,1
+Ce înseamnă că un limbaj este 'statically typed'?,concept_explanation,2
+Ce este un 'tuple' în Python și prin ce diferă de o listă?,concept_explanation,1
+Ce este un fișier executabil?,concept_explanation,0
+Ce reprezintă 'standard library'?,concept_explanation,1
+Ce este o constantă simbolică (ex: #define)?,concept_explanation,1
+Cum funcționează un tablou bidimensional în memorie?,concept_explanation,2
+Ce este o eroare de compilare?,concept_explanation,0
+Ce face blocul 'atunci când se dă clic pe steguleț'?,concept_explanation,0
+Ce este un 'argument' de linie de comandă?,concept_explanation,2
+Ce reprezintă 'null pointer exception'?,concept_explanation,2
+Ce este o listă în Python?,concept_explanation,0
+Ce înseamnă 'immutable' în contextul tipurilor de date?,concept_explanation,2
+Ce este un operator de atribuire?,concept_explanation,0
+Ce reprezintă 'control flow' (fluxul de control)?,concept_explanation,1
+Ce face funcția 'len()' în Python?,concept_explanation,0
+Ce este un 'header guard' în C?,concept_explanation,2
+Ce reprezintă 'floating point arithmetic'?,concept_explanation,2
+Ce este un 'namespace'?,concept_explanation,2
+Ce face blocul 'set' (setează) în Scratch?,concept_explanation,0
+Ce este o variabilă de tip 'char'?,concept_explanation,0
+Ce reprezintă 'memory leak'?,concept_explanation,2
+Ce este un 'package manager' (ex: pip)?,concept_explanation,1
+Ce înseamnă 'DRY' (Don't Repeat Yourself)?,concept_explanation,1
+Ce este o 'instrucțiune'?,concept_explanation,0
+Ce reprezintă 'syntax highlighting'?,concept_explanation,0
+Ce este un 'boolean expression'?,concept_explanation,1
+Ce face funcția 'main'?,concept_explanation,0
+Ce este un 'comment' pe mai multe linii?,concept_explanation,0
+Ce înseamnă 'debugging'?,concept_explanation,0
+Ce este o 'librărie' de cod?,concept_explanation,1
+Ce este un 'module' în Python?,concept_explanation,1
+Ce reprezintă 'logical operators'?,concept_explanation,0
+Ce este 'recursion depth'?,concept_explanation,2
+Ce face blocul 'repeat' (repetă) în Scratch?,concept_explanation,0
+Ce este un 'backtrace'?,concept_explanation,2
+Ce reprezintă 'data structures'?,concept_explanation,1
+Ce este un 'integer' în C?,concept_explanation,0
+Ce este un 'float' în Python?,concept_explanation,0
+Ce reprezintă 'bitwise operators'?,concept_explanation,2
+Ce este o 'valoare de retur'?,concept_explanation,1
+Ce înseamnă 'encapsulation'?,concept_explanation,2
+Ce este un 'pointer arithmetic'?,concept_explanation,2
+Ce face funcția 'printf'?,concept_explanation,1
+Ce este un 'script'?,concept_explanation,0
+Ce reprezintă 'source code'?,concept_explanation,0
+Ce este o 'expresie regulată'?,concept_explanation,2
+Ce înseamnă 'parsing'?,concept_explanation,2
+Ce este un 'dictionary' în Python?,concept_explanation,1
+Ce reprezintă 'ASCII table'?,concept_explanation,1
+Ce este un 'bit'?,concept_explanation,0
+Ce este un 'byte'?,concept_explanation,0
+Ce înseamnă 'overflow'?,concept_explanation,2
+Ce face blocul 'move' în Scratch?,concept_explanation,0
+Ce este un 'loop counter'?,concept_explanation,1
+Ce reprezintă 'conditional logic'?,concept_explanation,1
+Ce este o 'funcție anonimă' (lambda)?,concept_explanation,2
+Ce înseamnă 'scope' global?,concept_explanation,1
+Ce este un 'pointer' la o funcție?,concept_explanation,2
+Ce reprezintă 'stack trace'?,concept_explanation,2
+Ce este o 'variabilă locală'?,concept_explanation,1
+Ce înseamnă 'type casting'?,concept_explanation,1
+Ce este o 'iterație'?,concept_explanation,1
+Ce reprezintă 'Standard Input'?,concept_explanation,1
+Ce face funcția 'scanf'?,concept_explanation,1
+Ce este un 'header file'?,concept_explanation,1
+Ce reprezintă 'dynamic memory'?,concept_explanation,2
+Ce este un 'malloc' în C?,concept_explanation,2
+Ce înseamnă 'freeing memory'?,concept_explanation,2
+Ce este un 'struct' în C?,concept_explanation,1
+Ce reprezintă 'object-oriented programming'?,concept_explanation,2
+Ce este un 'class'?,concept_explanation,2
+Ce înseamnă 'inheritance'?,concept_explanation,2
+Ce este o 'metodă'?,concept_explanation,2
+Ce reprezintă 'polymorphism'?,concept_explanation,2
+Ce este un 'constructor'?,concept_explanation,2
+Ce face blocul 'next costume'?,concept_explanation,0
+Ce este un 'variable name' valid?,concept_explanation,0
+Ce înseamnă 'assignment'?,concept_explanation,0
+Ce reprezintă 'logical AND'?,concept_explanation,0
+Ce reprezintă 'logical OR'?,concept_explanation,0
+Ce este o 'buclă for'?,concept_explanation,1
+Ce este o 'buclă while'?,concept_explanation,1
+Ce reprezintă 'if statement'?,concept_explanation,0
+Ce este un 'nested if'?,concept_explanation,1
+Ce înseamnă 'concatenation'?,concept_explanation,0
+Ce reprezintă 'escape characters'?,concept_explanation,1
+Ce este un 'tablou unidimensional'?,concept_explanation,1
+Ce reprezintă 'array index'?,concept_explanation,0
+Ce înseamnă 'out of bounds'?,concept_explanation,1
+Ce este o 'funcție definită de utilizator'?,concept_explanation,1
+Ce reprezintă 'global variables'?,concept_explanation,1
+Ce face blocul 'say' în Scratch?,concept_explanation,0
+Ce este un 'infinite loop'?,concept_explanation,1
+Ce reprezintă 'debugging tools'?,concept_explanation,1
+Ce reprezintă o structură de control decizională?,concept_explanation,1
+Care este rolul unui linker în procesul de compilare?,concept_explanation,2
+Ce înseamnă 'call by reference' în C?,concept_explanation,2
+Ce este o listă neomogenă în Python?,concept_explanation,1
+Ce face blocul 'wait until' în Scratch?,concept_explanation,0
+Ce reprezintă tipul de date 'unsigned int'?,concept_explanation,2
+Ce înseamnă că un limbaj este 'strongly typed'?,concept_explanation,2
+Ce este un generator în Python?,concept_explanation,2
+Ce reprezintă fluxul de date 'stderr'?,concept_explanation,2
+Ce este un 'buffer' de memorie?,concept_explanation,2
+Ce înseamnă recursivitate indirectă?,concept_explanation,2
+Ce reprezintă operatorul de adresare '&' în C?,concept_explanation,1
+Ce este un 'decorator' în Python?,concept_explanation,2
+Ce înseamnă 'short-circuit evaluation' la operatorii logici?,concept_explanation,2
+Ce este o variabilă de tip 'long long'?,concept_explanation,1
+Ce face blocul 'stop all' în Scratch?,concept_explanation,0
+Ce reprezintă 'list comprehension' în Python?,concept_explanation,1
+Ce este un 'dictionary key'?,concept_explanation,1
+Ce înseamnă 'thread safety'?,concept_explanation,2
+Ce reprezintă 'stack pointer'?,concept_explanation,2
+Ce este o variabilă statică în interiorul unei funcții?,concept_explanation,2
+Ce face funcția 'exit()' în C?,concept_explanation,1
+Ce este un 'set' în Python?,concept_explanation,1
+Ce înseamnă 'dynamic binding'?,concept_explanation,2
+Ce este o clasă abstractă?,concept_explanation,2
+Ce face blocul 'broadcast and wait'?,concept_explanation,1
+Ce reprezintă 'memory fragmentation'?,concept_explanation,2
+Ce este un 'wildcard character'?,concept_explanation,1
+Ce înseamnă 'overloading' la funcții?,concept_explanation,2
+Ce reprezintă 'byte code' în contextul Python?,concept_explanation,2
+Ce este o 'variabilă externă' (extern)?,concept_explanation,2
+Ce face funcția 'abs()'?,concept_explanation,0
+Ce este un 'namespace collision'?,concept_explanation,2
+Ce reprezintă 'implicit type conversion'?,concept_explanation,1
+Ce este 'Dangling Pointer'?,concept_explanation,2
+Ce face blocul 'pen down' în Scratch?,concept_explanation,0
+Ce înseamnă 'object state'?,concept_explanation,1
+Ce reprezintă 'private' vs 'public' într-o clasă?,concept_explanation,2
+Ce este un 'iterator'?,concept_explanation,2
+Ce înseamnă 'shallow copy' vs 'deep copy'?,concept_explanation,2
+Ce este 'tuple unpacking'?,concept_explanation,1
+Ce reprezintă 'magic methods' în Python (ex: __init__)?,concept_explanation,2
+Ce este un 'memory dump'?,concept_explanation,2
+Ce face instrucțiunea 'typedef' în C?,concept_explanation,1
+Ce reprezintă 'array decay'?,concept_explanation,2
+Ce înseamnă 'index out of range'?,concept_explanation,0
+Ce este o 'metodă de clasă' vs 'metodă de instanță'?,concept_explanation,2
+Ce reprezintă 'module search path' (sys.path)?,concept_explanation,2
+Ce face blocul 'create clone of'?,concept_explanation,1
+Ce este un 'bitwise shift'?,concept_explanation,2
+Ce înseamnă 'null-terminated string'?,concept_explanation,1
+"Ce reprezintă 'format specifiers' (ex: %s, %d)?",concept_explanation,1
+Ce este 'Python Virtual Machine' (PVM)?,concept_explanation,2
+Ce înseamnă 'pass' în Python?,concept_explanation,1
+Ce reprezintă 'code refactoring'?,concept_explanation,1
+Ce este 'garbage collector'?,concept_explanation,1
+Ce face funcția 'round()'?,concept_explanation,0
+Ce reprezintă 'operator precedence'?,concept_explanation,1
+Ce este un 'syntax tree'?,concept_explanation,2
+Ce înseamnă 'memoization'?,concept_explanation,2
+Ce este 'Big-Endian' vs 'Little-Endian'?,concept_explanation,2
+Ce reprezintă 'exception handling'?,concept_explanation,1
+Ce face blocul 'clear graphic effects'?,concept_explanation,0
+Ce este 'dynamic array'?,concept_explanation,2
+Ce reprezintă 'heap memory'?,concept_explanation,2
+Ce înseamnă 'encapsulation'?,concept_explanation,2
+Ce este o 'interfață' în programare?,concept_explanation,2
+Ce reprezintă 'circular dependency'?,concept_explanation,2
+Ce face funcția 'pow()'?,concept_explanation,0
+Ce este un 'binary search tree'?,concept_explanation,2
+Ce înseamnă 'tokenization'?,concept_explanation,2
+Ce reprezintă 'side effects' într-o funcție?,concept_explanation,2
+Ce este 'functional programming'?,concept_explanation,2
+Ce face blocul 'go to back layer'?,concept_explanation,0
+Ce înseamnă 'lazy evaluation'?,concept_explanation,2
+Ce reprezintă 'tail recursion'?,concept_explanation,2
+Ce este 'multiple inheritance'?,concept_explanation,2
+Ce face funcția 'divmod()' în Python?,concept_explanation,1
+Ce reprezintă 'constant correctness'?,concept_explanation,2
+Ce înseamnă 'inline function'?,concept_explanation,2
+Ce este un 'closure' în Python?,concept_explanation,2
+Ce reprezintă 'global interpreter lock' (GIL)?,concept_explanation,2
+Ce este un 'pointer to pointer'?,concept_explanation,2
+Ce face blocul 'set rotation style'?,concept_explanation,0
+Ce reprezintă 'floating point underflow'?,concept_explanation,2
+Ce înseamnă 'deprecated'?,concept_explanation,1
+Ce este un 'callback function'?,concept_explanation,2
+Ce reprezintă 'attribute access'?,concept_explanation,1
+Ce este o 'metaclasă'?,concept_explanation,2
+Ce înseamnă 'duck typing'?,concept_explanation,2
+Ce reprezintă 'exception propagation'?,concept_explanation,2
+Ce face funcția 'dir()' în Python?,concept_explanation,1
+Ce este 'memory alignment'?,concept_explanation,2
+Ce înseamnă 'atomic operations'?,concept_explanation,2
+Ce reprezintă 'standard error' (stderr)?,concept_explanation,1
+Ce este 'virtual memory'?,concept_explanation,2
+Ce înseamnă 'abstraction'?,concept_explanation,2
+Ce reprezintă 'access modifiers'?,concept_explanation,2
+Ce face blocul 'set drag mode'?,concept_explanation,0
+Ce înseamnă 'serialization'?,concept_explanation,2
+Ce reprezintă un 'deadlock' în execuția programelor?,concept_explanation,2
+Care este rolul fișierului 'requirements.txt' în Python?,concept_explanation,1
+Ce înseamnă 'memory mapping'?,concept_explanation,2
+Ce este un 'bitwise XOR' și unde se folosește?,concept_explanation,2
+Ce face blocul 'distance to' în Scratch?,concept_explanation,0
+Ce reprezintă tipul de date 'size_t' în C?,concept_explanation,2
+Ce înseamnă 'eager loading'?,concept_explanation,2
+Ce este un 'context manager' în Python (with)?,concept_explanation,2
+Ce reprezintă fluxul de date 'stdout'?,concept_explanation,1
+Ce este o 'variabilă de mediu' (environment variable)?,concept_explanation,2
+Ce înseamnă recursivitate pe coadă (tail recursion)?,concept_explanation,2
+Ce reprezintă operatorul de dereferențiere '*' în C?,concept_explanation,1
+Ce este un 'virtual environment' în Python?,concept_explanation,1
+Ce înseamnă 'operator overloading'?,concept_explanation,2
+Ce este o variabilă de tip 'short int'?,concept_explanation,1
+Ce face blocul 'loudness' în Scratch?,concept_explanation,1
+Ce reprezintă 'list slicing' cu pas negativ în Python?,concept_explanation,2
+Ce este un 'hash function'?,concept_explanation,2
+Ce înseamnă 'race condition'?,concept_explanation,2
+Ce reprezintă 'program counter'?,concept_explanation,2
+Ce este o variabilă 'volatile' în C?,concept_explanation,2
+Ce face funcția 'system()' în C?,concept_explanation,2
+Ce este un 'frozenset' în Python?,concept_explanation,2
+Ce înseamnă 'static binding'?,concept_explanation,2
+Ce este o metodă statică (staticmethod) în Python?,concept_explanation,2
+Ce face blocul 'video on' în Scratch?,concept_explanation,1
+Ce reprezintă 'page fault'?,concept_explanation,2
+Ce este un 'regex pattern'?,concept_explanation,2
+Ce înseamnă 'method overriding'?,concept_explanation,2
+Ce reprezintă 'JIT compilation' (Just-In-Time)?,concept_explanation,2
+Ce este un 'macro' în C?,concept_explanation,2
+Ce face funcția 'min()' și 'max()'?,concept_explanation,0
+Ce este 'symbolic linking'?,concept_explanation,2
+Ce reprezintă 'explicit type conversion'?,concept_explanation,1
+Ce este un 'memory leak' și cum se detectează?,concept_explanation,2
+Ce face blocul 'touching color' în Scratch?,concept_explanation,0
+Ce înseamnă 'immutable object'?,concept_explanation,1
+Ce reprezintă 'protected' access modifier?,concept_explanation,2
+Ce este un 'generator expression' în Python?,concept_explanation,2
+Ce înseamnă 'deep copy'?,concept_explanation,2
+Ce este 'argument packing' (*args)?,concept_explanation,2
+Ce reprezintă 'dunder methods' în Python?,concept_explanation,2
+Ce este un 'core dump'?,concept_explanation,2
+Ce face instrucțiunea 'enum' în C?,concept_explanation,1
+Ce reprezintă 'pointer decay'?,concept_explanation,2
+Ce înseamnă 'off-by-one error'?,concept_explanation,1
+Ce este o 'proprietate' (property) în Python?,concept_explanation,2
+Ce reprezintă 'circular buffer'?,concept_explanation,2
+Ce face blocul 'direction' în Scratch?,concept_explanation,0
+Ce este un 'bitwise NOT'?,concept_explanation,2
+Ce înseamnă 'null byte' într-un string din C?,concept_explanation,2
+Ce reprezintă 'placeholders' în string formatting?,concept_explanation,1
+Ce este 'Global Interpreter Lock'?,concept_explanation,2
+Ce înseamnă 'indentation error'?,concept_explanation,0
+Ce reprezintă 'code obfuscation'?,concept_explanation,2
+Ce este 'automatic reference counting'?,concept_explanation,2
+Ce face funcția 'floor()' din biblioteca math?,concept_explanation,1
+Ce reprezintă 'precedence table'?,concept_explanation,1
+Ce este un 'parse tree'?,concept_explanation,2
+Ce înseamnă 'dynamic programming'?,concept_explanation,2
+Ce este 'stack allocation'?,concept_explanation,2
+Ce reprezintă 'try-except-finally'?,concept_explanation,2
+Ce face blocul 'set size to' în Scratch?,concept_explanation,0
+Ce este 'dynamic typing'?,concept_explanation,1
+Ce reprezintă 'instruction set'?,concept_explanation,2
+Ce înseamnă 'data abstraction'?,concept_explanation,2
+Ce este o 'interfață' grafică (GUI)?,concept_explanation,1
+Ce reprezintă 'dependency injection'?,concept_explanation,2
+Ce face funcția 'ceil()'?,concept_explanation,1
+Ce este un 'AVL tree'?,concept_explanation,2
+Ce înseamnă 'lexical analysis'?,concept_explanation,2
+Ce reprezintă 'pure functions'?,concept_explanation,2
+Ce este 'procedural programming'?,concept_explanation,1
+Ce face blocul 'go to front layer'?,concept_explanation,0
+Ce înseamnă 'strict typing'?,concept_explanation,2
+Ce reprezintă 'base case' în recursivitate?,concept_explanation,1
+Ce este 'composition' în OOP?,concept_explanation,2
+Ce face funcția 'enumerate()' în Python?,concept_explanation,1
+Ce reprezintă 'const pointers' în C?,concept_explanation,2
+Ce înseamnă 'function prototype'?,concept_explanation,1
+Ce este 'scoping'?,concept_explanation,1
+Ce reprezintă 'heap fragmentation'?,concept_explanation,2
+Ce este un 'pointer to array'?,concept_explanation,2
+Ce face blocul 'point towards' în Scratch?,concept_explanation,0
+Ce reprezintă 'floating point precision'?,concept_explanation,2
+Ce înseamnă 'obsolete code'?,concept_explanation,1
+Ce este un 'wrapper function'?,concept_explanation,2
+Ce reprezintă 'attribute inheritance'?,concept_explanation,2
+Ce este o 'metaclasă' în Python?,concept_explanation,2
+Ce înseamnă 'type hinting' în Python?,concept_explanation,1
+Ce reprezintă 'stack frame'?,concept_explanation,2
+Ce face funcția 'vars()' în Python?,concept_explanation,2
+Ce este 'memory compaction'?,concept_explanation,2
+Ce înseamnă 'concurrency'?,concept_explanation,2
+Ce reprezintă 'standard output' (stdout)?,concept_explanation,1
+Ce este 'physical memory'?,concept_explanation,2
+Ce înseamnă 'data encapsulation'?,concept_explanation,2
+Ce reprezintă 'visibility modifiers'?,concept_explanation,2
+Ce face blocul 'current year' în Scratch?,concept_explanation,0
+Ce înseamnă 'deserialization'?,concept_explanation,2
+Ce reprezintă o variabilă de tip pointer la pointer?,concept_explanation,2
+Care este diferența dintre o eroare logică și una de sintaxă?,concept_explanation,1
+Ce este un interpretor în contextul limbajului Python?,concept_explanation,1
+Ce înseamnă conceptul de 'thread'?,concept_explanation,2
+Ce face blocul 'ask and wait' în Scratch?,concept_explanation,0
+Ce reprezintă tipul de date 'long double' în C?,concept_explanation,1
+Ce înseamnă 'late binding'?,concept_explanation,2
+Ce este un 'decorator' și cum se aplică unei funcții?,concept_explanation,2
+Ce reprezintă fluxul de date de tip 'pipe'?,concept_explanation,2
+Ce este o 'variabilă locală' vs una 'globală'?,concept_explanation,1
+Ce înseamnă recursivitate pe stivă?,concept_explanation,2
+Ce reprezintă operatorul 'sizeof' în C?,concept_explanation,1
+Ce este un 'package' în Python?,concept_explanation,1
+Ce înseamnă 'method overloading' vs 'overriding'?,concept_explanation,2
+Ce este o variabilă de tip 'unsigned char'?,concept_explanation,1
+Ce face blocul 'answer' în Scratch?,concept_explanation,0
+Ce reprezintă 'negative indexing' în listele Python?,concept_explanation,1
+Ce este un 'hash map'?,concept_explanation,2
+Ce înseamnă 'deadlock' în sisteme de operare?,concept_explanation,2
+Ce reprezintă 'instruction register'?,concept_explanation,2
+Ce este cuvântul cheie 'extern' în C?,concept_explanation,2
+Ce face funcția 'getchar()' în C?,concept_explanation,1
+Ce este un 'set' și prin ce se deosebește de o listă?,concept_explanation,1
+Ce înseamnă 'static typing'?,concept_explanation,2
+Ce este o 'clasă de bază' în moștenire?,concept_explanation,2
+Ce face blocul 'timer' în Scratch?,concept_explanation,0
+Ce reprezintă 'segmentation fault'?,concept_explanation,2
+Ce este un 'regular expression' (regex)?,concept_explanation,2
+Ce înseamnă 'interface' în programarea orientată pe obiecte?,concept_explanation,2
+Ce reprezintă 'native code'?,concept_explanation,1
+Ce este un 'preprocessor directive'?,concept_explanation,2
+Ce face funcția 'id()' în Python?,concept_explanation,2
+Ce este 'metadata'?,concept_explanation,2
+Ce reprezintă 'explicit casting'?,concept_explanation,1
+Ce este 'memory leakage'?,concept_explanation,2
+Ce face blocul 'mouse x' în Scratch?,concept_explanation,0
+Ce înseamnă 'mutable object'?,concept_explanation,1
+Ce reprezintă 'public' access modifier?,concept_explanation,1
+Ce este un 'iterator' în Python?,concept_explanation,2
+Ce înseamnă 'shallow copy'?,concept_explanation,2
+Ce este 'keyword arguments' (**kwargs)?,concept_explanation,2
+Ce reprezintă 'constructor overloading'?,concept_explanation,2
+Ce este 'stack memory'?,concept_explanation,2
+Ce face instrucțiunea 'union' în C?,concept_explanation,2
+Ce reprezintă 'base address' a unui array?,concept_explanation,2
+Ce înseamnă 'off-by-one error' în bucle?,concept_explanation,1
+Ce este un 'decorator' în Python?,concept_explanation,2
+Ce reprezintă 'FIFO' (First In First Out)?,concept_explanation,1
+Ce face blocul 'username' în Scratch?,concept_explanation,0
+Ce este un 'bitwise OR'?,concept_explanation,2
+Ce înseamnă 'null pointer'?,concept_explanation,1
+Ce reprezintă 'string interpolation'?,concept_explanation,1
+Ce este 'Global Interpreter Lock' (GIL)?,concept_explanation,2
+Ce înseamnă 'logic error'?,concept_explanation,0
+Ce reprezintă 'minification'?,concept_explanation,2
+Ce este 'reference counting'?,concept_explanation,2
+Ce face funcția 'math.sqrt()'?,concept_explanation,0
+Ce reprezintă 'operator priority'?,concept_explanation,1
+Ce este 'lexical scope'?,concept_explanation,2
+Ce înseamnă 'divide and conquer'?,concept_explanation,2
+Ce este 'heap allocation'?,concept_explanation,2
+Ce reprezintă blocul 'try-catch'?,concept_explanation,1
+Ce face blocul 'set volume to' în Scratch?,concept_explanation,0
+Ce este 'type inference'?,concept_explanation,2
+Ce reprezintă 'CPU registers'?,concept_explanation,2
+Ce înseamnă 'abstraction' în OOP?,concept_explanation,2
+Ce este un 'front-end'?,concept_explanation,1
+Ce reprezintă 'back-end'?,concept_explanation,1
+Ce face funcția 'exit()'?,concept_explanation,1
+Ce este un 'B-tree'?,concept_explanation,2
+Ce înseamnă 'semantic analysis'?,concept_explanation,2
+Ce reprezintă 'impure functions'?,concept_explanation,2
+Ce este 'declarative programming'?,concept_explanation,2
+Ce face blocul 'go to front' în Scratch?,concept_explanation,0
+Ce înseamnă 'weak typing'?,concept_explanation,2
+Ce reprezintă 'recursive case'?,concept_explanation,1
+Ce este 'aggregation' în OOP?,concept_explanation,2
+Ce face funcția 'zip()' în Python?,concept_explanation,2
+Ce reprezintă 'pointer to constant'?,concept_explanation,2
+Ce înseamnă 'function declaration'?,concept_explanation,1
+Ce este 'namespace'?,concept_explanation,2
+Ce reprezintă 'stack underflow'?,concept_explanation,2
+Ce este un 'dynamic list'?,concept_explanation,1
+Ce face blocul 'distance to mouse-pointer'?,concept_explanation,0
+Ce reprezintă 'double precision'?,concept_explanation,2
+Ce înseamnă 'legacy code'?,concept_explanation,1
+Ce este un 'high-level language'?,concept_explanation,0
+Ce reprezintă 'low-level language'?,concept_explanation,1
+Ce este o 'interfață de programare' (API)?,concept_explanation,1
+Ce înseamnă 'type annotation'?,concept_explanation,1
+Ce reprezintă 'virtual function'?,concept_explanation,2
+Ce face funcția 'help()' în Python?,concept_explanation,0
+Ce este 'memory fragmentation'?,concept_explanation,2
+Ce înseamnă 'parallel programming'?,concept_explanation,2
+Ce reprezintă 'standard error'?,concept_explanation,1
+Ce este 'virtual machine'?,concept_explanation,1
+Ce înseamnă 'data hiding'?,concept_explanation,2
+Ce reprezintă 'scope resolution operator'?,concept_explanation,2
+Ce face blocul 'current day of week' în Scratch?,concept_explanation,0
+Ce înseamnă 'serialization' a datelor?,concept_explanation,2
